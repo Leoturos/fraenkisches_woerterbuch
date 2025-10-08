@@ -1,0 +1,2023 @@
+Lemma,Grundform
+Korb,"['Abblattkörbel', 'Apfelkörblein', 'Beckenkörblein', 'Blattkörbel', 'Blattkörblein', 'Brechkörblein', 'Brockkörbelein', 'Handkörblein', 'Henkelkörblein', 'Kartoffelkörbchen', 'Körbchen', 'Körbel', 'Körbi', 'Körblein', 'Obstkörbel', 'Obstkörblein', 'Pflückkörblein', 'Rupfkörblein', 'Spankörblein', 'Tassenkörblein', 'Tragkörbchen', 'Zwickerkörblein']"
+Bild,"['Abdruckbildlein', 'Bildlein', 'Flaschenbildlein']"
+drücken,"['Abdruckelein', 'Drückebergerei', 'Drückerlein', 'Erdäpfeldrückelein']"
+Fisch,"['Abfischen', 'Backfischlein', 'Erdäpfelsfischlein', 'Fischchen', 'Fischerstiefel', 'Fischlein', 'Goldfischlein', 'Nachfischen', 'Sackfischen']"
+Gesetz,"['Abgesetzel', 'Gesetzchen', 'Gesetzel', 'Gesetzlein', 'Gesetztlein', 'Lerngesetzlein', 'Rechengesetzlein']"
+Becken,"['Abputzbeckel', 'Abwaschbecklein', 'Beckel', 'Beckelein', 'Becklein', 'Handbeckel', 'Handbeckelein', 'Handbecklein', 'Waschbeckel', 'Waschbecklein']"
+Schaufel,"['Abputzschäufelein', 'Ackerschäufelein', 'Ackerschäuferl', 'Ackerschäuflein', 'Aschenschäufelein', 'Backschauferl', 'Bützigschäufelein', 'Dreckschäufelein', 'Dreckschäuferl', 'Fingerschäufelein', 'Grundbirnenschäufelein', 'Handschäufelein', 'Kartoffelschäufelein', 'Kehrichschäufelein', 'Kehrichtschäufelein', 'Kehrschäufelein', 'Klößeschäufelein', 'Kohlenschäufelein', 'Küchenschäufelein', 'Pflugschäufelein', 'Reutenschauferl', 'Reutenschäufelein', 'Reutenschäuferl', 'Reutschaufelein', 'Reutschäufelein', 'Schauferl', 'Schäufelchen', 'Schäufelein', 'Stubenschäufelein', 'Teigschäufelein', 'Trittschäufelein', 'Türschäufelein', 'Äschenschäufelein']"
+rechen,"['Abrechsel', 'Eisenrechenlein', 'Eisenrechlein', 'Eisrechelein', 'Gartenrechelein', 'Gerechsel', 'Moosigrechelein', 'Nachgerechtel', 'Nachrechel', 'Rechelein', 'Rechelgabel', 'Rechenlein', 'Rechenstecklein', 'Recherlein', 'Rechlein', 'Rechsel', 'Zusammenrechel', 'Zusammenrechenri', 'Zusammenrechsel']"
+reiben,"['Abreiberlein', 'Abriebel', 'Brotriebel', 'Eierriebelein', 'Eingereibel', 'Einreibsel', 'Erdbirnenreiberlein', 'Erdbirnreibelein', 'Erdäpfelreiberlein', 'Geriebelein', 'Mehlriebel', 'Reibeisenlein', 'Reibel', 'Reibelein', 'Reiberlein', 'Reibsel', 'Rieblein', 'Riebschemel']"
+Ries,"['Abriesel', 'Tennenriesel', 'Tennriesel']"
+Raum,['Abräumsel']
+Schnitt,"['Abschnittlein', 'Anschnittel', 'Anschnittlein', 'Aufschnittel', 'Brotschnittel', 'Brotschnittlein', 'Erdäpfelschnittlein', 'Schnittlein']"
+Brett,"['Abseihbrettel', 'Anrichtbrettel', 'Anrichtbrettlein', 'Auftragbrettlein', 'Auftragsbrettlein', 'Aufwartbrettlein', 'Brettel', 'Brettlein', 'Fensterbrettel', 'Fensterbrettlein', 'Fußbrettlein', 'Gesimsbrettlein', 'Hafenbrettlein', 'Hineintragbrettlein', 'Kaffeebrettlein', 'Küchenbrettel', 'Querbrettlein', 'Schlittenbrettlein', 'Schlittschuhbrettlein', 'Schuldenbrettlein', 'Schwellbrettlein', 'Schwellenbrettlein', 'Servierbrettel', 'Servierbrettlein', 'Sitzbrettlein', 'Tragebrettlein', 'Trittbrettlein', 'Türbrettlein', 'Wasserbrettlein', 'Zechbrettlein']"
+setzen,"['Absetzerlein', 'Einsetzlein', 'Gesätzlein', 'Setzlein']"
+Mädchen,"['Abspülmädlein', 'Allerweltsmädel', 'Allerweltsmädlein', 'Aufpassmadlein', 'Bauernmädlein', 'Beichtmädlein', 'Besitzemädlein', 'Blitzmädel', 'Blumenmädlein', 'Brautmädel', 'Brautmädlein', 'Bäckermädlein', 'Büromädlein', 'Dampfmädlein', 'Dorfmädlein', 'Frankenmädlein', 'Hasenmädlein', 'Hausmädlein', 'Hemdmädlein', 'Hochzeitmädlein', 'Kindermadel', 'Kindermadlein', 'Kindermädel', 'Kindermädlein', 'Kindsmadel', 'Kindsmadlein', 'Kindsmädel', 'Kindsmädlein', 'Kirchweihmädlein', 'Kranzmädlein', 'Kulturmädlein', 'Küchenmädlein', 'Ladenmädlein', 'Lausmadel', 'Lausmädel', 'Lausmädlein', 'Lehrermädel', 'Lehrmädel', 'Lehrmädlein', 'Madel', 'Mädel', 'Mädelein', 'Mädi', 'Mädlein', 'Platzmädlein', 'Sachsenmädlein', 'Saumädlein', 'Schleiermädlein', 'Spülmadel', 'Spülmädel', 'Spülmädlein', 'Streumädel', 'Streumädlein', 'Strohmädlein', 'Taglersmädlein', 'Tippmädlein', 'Zechmädlein']"
+stoßen,"['Abstoßerlein', 'Abstößerl', 'Abstößerlein', 'Anstößel', 'Anstößlein', 'Eisstößel', 'Getreidestößlein', 'Hirnstössel', 'Holzstößlein', 'Lerchenstößel', 'Mordsstößel', 'Pflugstößel', 'Schneestößel', 'Stoßhammelein', 'Stößel', 'Stößelein', 'Stößlein', 'Überstößel']"
+Satz,"['Absätzel', 'Absätzlein', 'Sätzlein']"
+Tuch,"['Abtrockengetüchlein', 'Abtrockentüchel', 'Abtrockentüchlein', 'Abtröckeltüchlein', 'Abwischtüchlein', 'Anbindtüchel', 'Aufsetztüchlein', 'Aufspültüchlein', 'Aufwaschtüchlein', 'Backtüchlein', 'Bindestüchlein', 'Bindtüchlein', 'Brottüchel', 'Brottüchlein', 'Brotzeittüchlein', 'Bündeleinstüchlein', 'Bündeltüchel', 'Bündeltüchlein', 'Deiseltüchlein', 'Einbindtüchel', 'Einbindtüchlein', 'Einschlagtüchlein', 'Einstecktüchlein', 'Einstricktüchlein', 'Einwickeltüchlein', 'Geifertüchlein', 'Geschirrtüchel', 'Geschirrtüchlein', 'Halstüchlein', 'Handtüchlein', 'Herabbindtüchlein', 'Hereinbindtüchlein', 'Herumbindetüchlein', 'Hüllentüchlein', 'Hülletüchlein', 'Kirchweihtüchlein', 'Knüpftüchel', 'Kopftüchel', 'Kopftüchelchen', 'Kopftüchlein', 'Kopftüchlelchen', 'Koptüchlein', 'Kuchentüchlein', 'Küchenhandtüchelchen', 'Küchenhandtüchlein', 'Leintüchlein', 'Lutschtüchlein', 'Meicheltüchel', 'Meicheltüchlein', 'Patenbündeltüchlein', 'Platztüchlein', 'Rindentüchlein', 'Sacktüchlein', 'Saugtüchel', 'Schmaustüchlein', 'Schmustüchlein', 'Schnabeltüchlein', 'Schnupfertüchel', 'Schnupftüchel', 'Schnäuztüchlein', 'Schnürpfeltüchlein', 'Serviettentüchlein', 'Speitüchlein', 'Spültüchlein', 'Stirntüchel', 'Stirntüchlein', 'Tragtüchel', 'Tragtüchlein', 'Trockentüchel', 'Trockentüchlein', 'Tröckelhandtüchlein', 'Tröckeltüchlein', 'Tuchlein', 'Tüchel', 'Tüchelein', 'Tüchlein', 'Umschlagtüchlein', 'Vespertüchlein', 'Vierecktüchlein', 'Wischtüchlein', 'Zipfeltüchlein']"
+Hader,"['Abtrockenhaderl', 'Abtrockenhaderlein', 'Abtrockenhäderlein', 'Aufspülhaderl', 'Aufspülhäderlein', 'Aufwaschhädel', 'Aufwaschhäderlein', 'Haderlein', 'Häderlein', 'Waschhäderlein']"
+wuseln,"['Abwusel', 'Abwuselein', 'Wuselein']"
+Kuh,"['Achatskühlein', 'Anderlingskühlein', 'Bleikühlein', 'Blähkühlein', 'Bratwurstkühlein', 'Butzelkuhsel', 'Butzelkühlein', 'Erstlingskühlein', 'Hirtenkühlein', 'Johanniskühlein', 'Kuhkälblein', 'Kuhsel', 'Kuhselein', 'Kühbäuerlein', 'Kühchen', 'Kühlein', 'Kühpritschen', 'Milchkühlein', 'Mockelkühlein', 'Mooskühlein', 'Rotzkühlein', 'Tannenkühlein']"
+ach,['Achen']
+Busch,"['Achselbuschelein', 'Augenbüschel', 'Bauernbuschelein', 'Bauernbüschelein', 'Buschel', 'Buschelein', 'Buschen', 'Buschgelein', 'Büschel', 'Büschelein', 'Büscherl', 'Büschlein', 'Erbsenbüschel', 'Fichtenbüschlein', 'Frankenbüschel', 'Garbenbüschel', 'Getreidbüschel', 'Getreidebüschel', 'Grasbüschel', 'Haarbüschel', 'Haarbüschelein', 'Holzbüschel', 'Hüllebuschelein', 'Kirchweihbüschlein', 'Kornstrohbüschelein', 'Rebenbüschel', 'Reiserbuschen', 'Reiserbüschel', 'Reisigbuschen', 'Reisigbüschel', 'Reisigbüschelein', 'Ruschbuschel', 'Samenbüschel', 'Schaubbüschel', 'Schilfbüschel', 'Schmeckbüschel', 'Schmeckenbüschel', 'Strohbüschel', 'Strohbüschelein', 'Wellenbüschel', 'Wellenbüschelein', 'Wirrbüschel', 'Ährenbüschel']"
+Achsel,['Achselhärlein']
+Schübel,"['Achselschübelein', 'Haarschöbelein', 'Haarschübelein', 'Heuschübelein', 'Schamschöbelein', 'Schübelein', 'Schübellein', 'Schüberl', 'Strohschübelein']"
+Zapfen,"['Achsenzäpflein', 'Achszäpflein', 'Adamszäpflein', 'Büchsenzäpflein', 'Drosselzäpflein', 'Eisenzäpflein', 'Halszäpflein', 'Haselzapflein', 'Jungszäpflein', 'Leuchsenzäpflein', 'Lünenzäpflein', 'Lüngzäpflein', 'Lünnzapflein', 'Lünnzäpflein', 'Lünzäpflein', 'Nagelzäpflein', 'Radzäpflein', 'Spießzäpflein', 'Spitzzäpfelein', 'Spitzzäpflein', 'Stiefelzäpflein', 'Wagenzapflein', 'Wagenzäpfel', 'Wagenzäpflein', 'Zäpfel', 'Zäpflein']"
+Achse,['Achsstangel']
+stecken,"['Achssteckerlein', 'Ansteckerlein', 'Armsteckelein', 'Armsteckerlein', 'Feuersteckelein', 'Feuerzeugstecklein', 'Garbensteckelein', 'Gesteckel', 'Gestecklein', 'Gäustickel', 'Handsteckelein', 'Handsteckerlein', 'Nabesteckerlein', 'Pflugsteckerlein', 'Radsteckerlein', 'Ringsteckerlein', 'Schwefelsteckelein', 'Steckel', 'Steckerl', 'Steckerlein', 'Stiefelsteckerlein', 'Streichholzsteckelein', 'Wagensteckerlein', 'Zündsteckelchen', 'Zündsteckelein', 'Übersteckerlein']"
+Stiefel,"['Achsstiefelein', 'Leuchsenstiefelein', 'Radstiefelein', 'Stiefelein', 'Stieferl']"
+Stock,"['Achsstöckel', 'Allerheiligenstöcklein', 'Allerseelenstöcklein', 'Bildstöckel', 'Bremsstöckel', 'Bremsstöcklein', 'Dengelstöckchen', 'Dengelstöckel', 'Dengelstöcklein', 'Drehsperrstöcklein', 'Erdbirnstöcklein', 'Feilsperrstöckel', 'Garbenstöcklein', 'Keilstöcklein', 'Kipfstöcklein', 'Kippstöckel', 'Maistöcklein', 'Milchstöcklein', 'Nägeleinsstöcklein', 'Pumpenstöckel', 'Pumpenstöcklein', 'Rahmstöcklein', 'Rohrstöcklein', 'Rosenstöcklein', 'Schleifholzstöcklein', 'Schleifscheitstöcklein', 'Schleifstöckel', 'Schleifstöckelein', 'Schleifstöcklein', 'Schlittenstöcklein', 'Schröpferstöcklein', 'Stöckchen', 'Stöckel', 'Stöckelein', 'Stöcklein', 'Windenstöckel', 'Windenstöcklein', 'Windstöckel']"
+acht,"['Achtel', 'Achtelein']"
+Acker,"['Ackerl', 'Ackerlein', 'Baumackerlein', 'Geißäckerl', 'Hasenackerlein', 'Pfaffenäckerlein', 'Sandäckerlein', 'Scheißäckerlein', 'Spitzackerl', 'Spitzackerlein', 'Steinäckerlein', 'Zackerei', 'Zwergäckerlein', 'Äckerchen', 'Äckerl', 'Äckerlein']"
+Rain,"['Ackerrainlein', 'Erdbirnleinrainlein', 'Grundbirnenrainlein', 'Grundbirnleinrainlein', 'Grundbirnrainlein', 'Kartoffelrainlein', 'Rainel', 'Rainlein', 'Seichrainlein']"
+Reute,"['Ackerreutel', 'Pflugsreutel', 'Schorreutel']"
+Stein,"['Ackersteinchen', 'Ackersteinlein', 'Backsteinlein', 'Feuersteinlein', 'Kieselsteinlein', 'Riechsteinlein', 'Schreibsteinlein', 'Stei', 'Steinlein', 'Steinrutschen', 'Wetzsteindüppel']"
+Zipfel,"['Ackerzipfelein', 'Bleichzipfelein']"
+Butz,"['Adamsbützel', 'Adamsbützlein', 'Apfelbützlein', 'Apfelsbützlein', 'Birnenbützel', 'Bitzel', 'Borzelein', 'Butzel', 'Butzelein', 'Butzelmockerlein', 'Butzenstiel', 'Butzerl', 'Butziglein', 'Butzlein', 'Bützel', 'Bützelein', 'Bützerlein', 'Bützigkörblein', 'Bütziglein', 'Bützlein', 'Erdbirnbützel', 'Erdbirnenbutzel', 'Erdbirnenbützel', 'Fichtenbutzel', 'Fichtenbutzelein', 'Geborzel', 'Gebutzel', 'Gebörzel', 'Gebützel', 'Gebützlein', 'Gemüsbutzel', 'Gemüsebutzel', 'Haferbutzelein', 'Herzbützelein', 'Kuhbutzel', 'Kühbutzel', 'Mehlbutzlein', 'Nestbutzel', 'Ofenbutzelein', 'Schnuckebutzi', 'Schnuckibutzi', 'Schulbutzelein', 'Tannenbutzel', 'Tannenbutzelein', 'Tatzenbutzel']"
+Grubs,"['Adamsgrübselein', 'Grubsel', 'Grubselein', 'Gruschbel', 'Grübschen', 'Grübsel', 'Grübselein', 'Grübsi', 'Grübslein', 'Obsdgrübsel']"
+Knochen,"['Adamsknöchel', 'Fingerknöchlein', 'Fußknöchel', 'Fußknöchlein', 'Judenknöchelchen', 'Judenknöchelein', 'Judenknöchlein', 'Knöchel', 'Knöchelein', 'Knöchlein', 'Knöckel', 'Knöcklein', 'Säuknöchlein', 'Weinknöchlein']"
+Knopf,"['Adamsknöpflein', 'Gurgelknöpflein', 'Hosenknobel', 'Knöpfel', 'Knöpfelein', 'Knöpflein', 'Kragenknöpfel', 'Kragenknöpflein', 'Saufknöpflein']"
+Kropf,"['Adamskröpfel', 'Bierkröpfel', 'Brotkröpflein', 'Kropferlein', 'Kropflein', 'Kröpfel', 'Kröpfelein', 'Kröpflein']"
+Adam,"['Adamsäpfelein', 'Klapperadel']"
+Fleck,"['Affenflecklein', 'Fleckchen', 'Fleckel', 'Fleckelein', 'Flecklein', 'Geiferflecklein', 'Leberfleckel', 'Leberflecklein', 'Poussierflecklein', 'Schlaffleckel', 'Schnullerflecklein', 'Schürzenflecklein', 'Windenflecklein', 'Zuckerflecklein']"
+Nuss,"['Affennüsslein', 'Biebernüsslein', 'Bodennüsslein', 'Burnüsslein', 'Erdnüsslein', 'Haselnüsslein', 'Negernüsslein', 'Nüsslein', 'Nüßlein', 'Pfeffernüsslein', 'Schalnüsslein']"
+Affe,"['Affenärschlein', 'Lieblingsafflein', 'Mauläffchen', 'Putzäfflein', 'Äffel', 'Äfflein']"
+Age,"['Agel', 'Angel', 'Gerstenagel', 'Gerstägel']"
+Ahle,"['Ahlein', 'Nal', 'Schuhnal']"
+Ahne,"['Ahndel', 'Ahnel', 'Ahnlein', 'Urahnferl', 'Ähnel', 'Ähnelein']"
+Frau,"['Ahnferl', 'Ahnferlein', 'Ahnfraulein', 'Ahnfräulein', 'Ammenfräulein', 'Balkenfraulein', 'Beerenfraulein', 'Birkenfraulein', 'Bürofräulein', 'Fraulein', 'Fräulein', 'Fräuleinchen', 'Gebetfraulein', 'Gebetsfraulein', 'Haagfraulein', 'Hakenfräulein', 'Hockefraulein', 'Hollefraulein', 'Hollefräulein', 'Holzfraulein', 'Holzfräulein', 'Hutzelfraulein', 'Jungferlein', 'Jungfernwäldlein', 'Kappelfraulein', 'Kappelfräulein', 'Kinderfräulein', 'Kornfraulein', 'Kornfräulein', 'Krenfräulein', 'Kronfräulein', 'Mehlfraulein', 'Moosfräulein', 'Neujahrfraulein', 'Neujahrsfraulein', 'Putzfräulein', 'Schneefraulein', 'Schnuckelfrlaulein', 'Schreibfräulein', 'Tippelfräulein', 'Tippfräulein', 'Völlburgsfräulein', 'Waldfraulein', 'Waldfräulein', 'Wollfraulein']"
+Herr,"['Ahnherrel', 'Ahnherrlein', 'Hasenherrlein', 'Herrchen', 'Herrel', 'Herrgottshändchen', 'Herrgottshändlein', 'Herrlein', 'Hüllherrlein', 'Taubenherrlein']"
+alber,"['Albel', 'Alberl']"
+Nikolaus,"['Albernickel', 'Allerweltsnickel', 'Bartnickel', 'Beißnickel', 'Benznickel', 'Brunznickel', 'Brutnickel', 'Butzernickel', 'Bätzenickel', 'Christnickel', 'Deppe(r)nickel', 'Drecknickel', 'Fasenickel', 'Geiznickel', 'Giftnickel', 'Hahnnickel', 'Hundsnickel', 'Kraftnickel', 'Lausnickel', 'Läusenickel', 'Läusnickel', 'Notnickel', 'Pelzennickel', 'Pelznickel', 'Pomadennickel', 'Rotznickel', 'Saunickel', 'Scheißnickel', 'Schundnickel', 'Seichnickel', 'Streitnickel', 'Säunickel', 'Thomanickel', 'Traumernickel', 'Traumnickel', 'Träumernikel', 'Wutnickel', 'Zornnickel']"
+Mann,"['Albmännlein', 'Beerenmännlein', 'Bergmännlein', 'Bettelmännlein', 'Birkenmännlein', 'Birkmännlein', 'Bohnensteckenmännlein', 'Brunnenmännlein', 'Brötmannel', 'Druckmännlein', 'Fackelmännlein', 'Feuermännchen', 'Feuermännlein', 'Fischmännlein', 'Gankelmännlein', 'Gansermännlein', 'Gaukelmännlein', 'Genaschmännlein', 'Gerstenmännel', 'Gerstenmännlein', 'Getreidemännel', 'Getreidemännelein', 'Getreidemännlein', 'Habermännel', 'Habermännelein', 'Habermännlein', 'Hafermännel', 'Hagmännlein', 'Haimännchen', 'Hakelmännlein', 'Hampelmännlein', 'Hasenmännlein', 'Heimännchen', 'Heinzelmännchen', 'Heinzelmännlein', 'Hemännchen', 'Hemännlein', 'Henkelmännlein', 'Hetschermannel', 'Huckelmännlein', 'Huhmännlein', 'Hundemännchen', 'Hutzelmannlein', 'Hutzelmännchen', 'Hutzelmännel', 'Hutzelmännlein', 'Häkelmännlein', 'Hüpfemännlein', 'Hüttenmännlein', 'Kappelmännlein', 'Kellermännlein', 'Kipfstockmännlein', 'Kirschenmännlein', 'Klingelmännchen', 'Klingelmännlein', 'Kornmännel', 'Kornmännlein', 'Krimskramsmännel', 'Labermannel', 'Mannel', 'Mannkerlein', 'Mannlein', 'Mannschen', 'Männchen', 'Männel', 'Männelein', 'Männlein', 'Naschmännlein', 'Pantoffelmännlein', 'Pelzmännlein', 'Pfingstmännlein', 'Runzelmännlein', 'Sandmännlein', 'Schieferbruchmännlein', 'Schleiermännlein', 'Schneemannel', 'Schneemannlein', 'Schneemännlein', 'Schrumpelmannlein', 'Schrumpelmännchen', 'Schrumpelmännlein', 'Schwarzbeermännlein', 'Sechsermännlein', 'Siemännlein', 'Stehaufmannel', 'Stehaufmannlein', 'Stehaufmännchen', 'Stehaufmännlein', 'Steinmännlein', 'Strohmannel', 'Strohwischmännlein', 'Tattermännlein', 'Taubenmännchen', 'Wacklermännlein', 'Waldmännlein', 'Wassermännlein', 'Weingartsmännlein', 'Weizenmännel', 'Weizenmännlein', 'Wichtelmännlein', 'Wichtigmännlein', 'Windmännelein', 'Winzermännlein', 'Ziehaufmännlein', 'Zugaufmännlein', 'Zwetschgenmannlein', 'Zwetschgenmännlein', 'Zwiemännlein', 'Äpfelmännlein']"
+Blume,"['Allerheiligenblümlein', 'Blümchen', 'Blümelein', 'Blümlein', 'Butterblümlein', 'Eisblümlein', 'Geblümel', 'Geißblümlein', 'Gänsblümchen', 'Gänsblümel', 'Gänsblümelein', 'Gänseblümchen', 'Gänseblümel', 'Gänseblümlein', 'Herbstblümlein', 'Herzeblümlein', 'Heublümlein', 'Heugeblümel', 'Heugeblümlein', 'Hexenblümchen', 'Hexenblümlein', 'Kuckucksblümlein', 'Margeritenblümlein', 'Mauerblümlein', 'Messblümchen', 'Mohnblümel', 'Märzenblümchen', 'Märzenblümlein', 'Osterblümlein', 'Platscheblümel', 'Platschenblümel', 'Ringelblümlein', 'Seichblümlein', 'Teeblümel', 'Teeblümlein', 'Totenblümlein']"
+all,['Allerlei']
+Teufel,"['Allerteufelskerl', 'Feuerteufelein', 'Hausteufelein', 'Kopfteuflein', 'Röhrenteufelein', 'Schneidteufelein', 'Speiteufelein', 'Teufelein']"
+blöd,"['Allerweltsblödel', 'Blödel', 'Blödelein', 'Blödellein', 'Blödi', 'Inzuchtblödel']"
+Bursche,"['Allerweltsbürschlein', 'Burschen', 'Bürschel', 'Bürschelein', 'Bürschlein', 'Dorfburschen', 'Fünfpfennigbürschlein', 'Kirchweihburschen', 'Ortsburschen', 'Planburschen', 'Platzburschen', 'Webersbürschlein', 'Wirtsburschen', 'Zechburschen']"
+Welt,"['Allerweltschar(r)i', 'Allerweltshammel', 'Allerweltstoni', 'Allerweltstrottel', 'Weltskerl']"
+Dot,"['Allerweltsduttlein', 'Dotlein']"
+pappeln,"['Allerweltsgepappel', 'Gepappel', 'Pappelchen', 'Papplerlein']"
+Gespons,"['Allerweltsgespusi', 'Gespusi', 'Spusi']"
+Heinrich,"['Allerweltsheini', 'Barrasheini', 'Brillenheini', 'Glatzenheini', 'Hasenheinerlein', 'Heinerlein', 'Heini', 'Heinzelein', 'Hirnheinerlein', 'Mutterheinzel', 'Nörgelheini', 'Perückenheini', 'Plattenheini', 'Plattheini', 'Pomadenheini', 'Saftheini', 'Schlappenheini', 'Sommersprossenheini', 'Trödelheini', 'Waldheini']"
+Kunigunde,"['Allerweltskunigundel', 'Brunzkundel', 'Brunzkunigundel', 'Ramschkundel', 'Schweißgundel', 'Seichkundel', 'Tratschkundel']"
+Kuchen,"['Allerweltsküchlein', 'Apfelküchelein', 'Apfelküchlein', 'Apfelsküchlein', 'Erdbirnenkrapflein', 'Erdbirnenküchlein', 'Erdbirnküchlein', 'Erdäpfelküchlein', 'Erdäpfelsküchlein', 'Erdäpfelspfannenküchlein', 'Erdäpfelspfannküchlein', 'Fleischküchlein', 'Fransenküchlein', 'Grundbirneküchlein', 'Grundbirnenküchlein', 'Grundbirnenpfannküchelchen', 'Grundbirnküchlein', 'Grundbirnpfanneküchlein', 'Grundbirnpfannküchelchen', 'Grundbirnpfannküchlein', 'Grundbirnsküchlein', 'Grundbirnspfannküchlein', 'Hackfleischküchlein', 'Hefeküchel', 'Hefeküchlein', 'Hefenküchlein', 'Herdküchlein', 'Hollerküchlein', 'Kartoffelküchelchen', 'Kartoffelküchlein', 'Kartoffelsküchlein', 'Kirchweihküchlein', 'Kirchweihsküchlein', 'Kissenleinküchlein', 'Knieküchlein', 'Küchel', 'Küchelchen', 'Küchelein', 'Küchlein', 'Luftküchlein', 'Mehlküchlein', 'Patakenküchlein', 'Pfanneküchlein', 'Pfannenküchel', 'Pfannenküchlein', 'Pfannküchlein', 'Reibeküchlein', 'Reiberküchlein', 'Riebeleinsküchlein', 'Schmalzküchlein', 'Schneidersküchlein', 'Schustersküchlein', 'Schüsseleinsküchlein', 'Schüsselküchlein', 'Stopferküchlein', 'Äpfelküchelchen', 'Äpfelküchelein', 'Äpfelküchlein', 'Äpfelpfannenküchlein', 'Äpfelsküchlein', 'Äpfelspfannenküchelchen', 'Äpfelspfannküchlein']"
+lieb,"['Allerweltsliebchen', 'Lehrerliebelein', 'Liebchen', 'Liebelei', 'Liebelein', 'Lieberlein', 'Maßliebchen']"
+schlapp,"['Allerweltsschlappel', 'Apostelschläpplein', 'Hängeschläppel', 'Katzenschläppel', 'Negerschläppel', 'Schlappel', 'Schlappenveri', 'Schlapperlein', 'Schlapplein', 'Schluppel', 'Schläppel', 'Schläpperlein', 'Schläpplein']"
+Zucht,"['Allerweltszuchtel', 'Brunzzuchtel', 'Sauzuchtel', 'Zuchtel']"
+aller,['Allezlein']
+alt,['Alterlein']
+Haus,"['Altsitzhäuslein', 'Fangenhäusel', 'Gehäusel', 'Getreidehäuslein', 'Hirtenhäuslein', 'Häuschen', 'Häusel', 'Häuslein', 'Kornhäuslein', 'Lusthäusel', 'Maschinenhäuslein', 'Nebenhäuslein', 'Osterhäusel', 'Planhäuschen', 'Quadrathäuslein', 'Rathauspöpel', 'Scheißhäusel', 'Schneckenhäuslein', 'Schneehäusel', 'Schäferhäuslein', 'Seichhäuslein', 'Starenhäuschen', 'Starenhäuslein', 'Starenvogelhäuslein', 'Traufhäuslein', 'Treppenhäusi', 'Tropfhäuslein', 'Trüpfhäuslein', 'Vogelhäuschen', 'Vogelhäuslein', 'Vorhäuslein']"
+Hube,"['Ameisenhübel', 'Ameisenhübellein', 'Ametzenhübel', 'Ametzenhüblein', 'Grashübel', 'Hubel', 'Hübchen', 'Hübel', 'Hübelein', 'Hüblein', 'Mordshübel', 'Tannenhübel', 'Ämeishubel']"
+Hügel,"['Ameisenhügelein', 'Bahnhügelein', 'Hügelein']"
+Ameise,['Ameislein']
+Amerika,"['Amerikanerl', 'Amerikanerlein', 'Ami']"
+Märe,"['Ammenmärchen', 'Lügenmärlein', 'Lügmärchen', 'Märchen', 'Märlein', 'Sagenmärel']"
+Amsel,['Amselein']
+Bauch,"['Amtmannsbäuchlein', 'Amtsbäuchlein', 'Bauchelein', 'Bäuchchen', 'Bäuchel', 'Bäuchlein', 'Erdäpfelsbäuchlein', 'Fressbäuchelchen', 'Fressbäuchlein', 'Froschbäuchlein', 'Geheimratsbäuchlein', 'Heidenbäuchlein', 'Hängebäuchlein', 'Kartoffelbäuchlein', 'Kinderbäuchlein', 'Kommerzienratsbäuchlein', 'Kugelbäuchlein', 'Meistersbäuchlein', 'Mordsbäuchlein', 'Nudelbäuchlein', 'Schmerbäuchlein', 'Schmierbäuchelchen', 'Schulzenbäuchlein', 'Speckbäuchlein', 'Spitzbäuchlein', 'Wasserbäuchlein', 'Wespenbäuchlein']"
+Ranzen,"['Amtmannsränzlein', 'Apfelränzchen', 'Huckelränzlein', 'Ränzchen', 'Ränzel', 'Ränzelein', 'Ränzlein', 'Äpfelränzchen']"
+backen,"['Anbackelein', 'Apfelbackelein', 'Apfelbäckeslein', 'Auflaufbackelein', 'Backel', 'Backelein', 'Backerei', 'Backerlein', 'Backeslein', 'Backstoffel', 'Ballenbackelein', 'Buttermilchbackelein', 'Bäckelein', 'Bäckenkörblein', 'Bäckerei', 'Bäckerslein', 'Bäckeslein', 'Bäckselein', 'Erdbirnbackelein', 'Erdbirnenbackelein', 'Erdäpfelbäckeslein', 'Fleischbackelein', 'Fransenbackelein', 'Fransenklößbackelein', 'Grundbirnenbackelein', 'Kartoffelbackeslein', 'Klößbackelein', 'Mehlbackeslein', 'Patakenbackeslein', 'Röhrenbackeslein', 'Schlackenbackelein', 'Stampfbackelein', 'Äpfelbäckeslein']"
+bauen,"['Anbäulein', 'Bäulein', 'Kanzelbäulein', 'Vorbaulein', 'Vorbäulein']"
+Deckel,"['Andeckelein', 'Bierdeckelein', 'Bierflaschendeckelein', 'Deckelchen', 'Deckelein', 'Deckerl', 'Flaschendeckelein', 'Kronendeckelein', 'Sonnendeckelein']"
+ander,['Anderlein']
+Sau,"['Anderlingssäulein', 'Blutsauerei', 'Drecksäulein', 'Duttensäulein', 'Einlegesäulein', 'Futtersäulein', 'Korbsäulein', 'Krätzensäulein', 'Läufersäulein', 'Milchsäuchen', 'Milchsäulein', 'Saubartel', 'Saudrossel', 'Sauerei', 'Saugewurstel', 'Saulein', 'Saustrenzel', 'Sausäckel', 'Säuchen', 'Säuekriechen', 'Säuerei', 'Säulein', 'Zieheretsäulein', 'Zwergsäulein']"
+Gabriele,['Angabi']
+braten,"['Angebrati', 'Brätchen', 'Hasenbratel']"
+schreien,"['Angstgeschrei', 'Angstschrei', 'Geschrei', 'Hahnenschrei', 'Katzengeschrei', 'Kindergeschrei', 'Kinderschreierei', 'Mordsgeschrei', 'Saugeschrei', 'Schmerzensschrei', 'Schmerzschrei', 'Schreckensschrei', 'Schreckschrei', 'Schrei', 'Schreierei', 'Wehschrei', 'Weibsbildergeschrei', 'Wutgeschrei']"
+hauen,"['Anhauensel', 'Gartenhauerl', 'Gartenhaulein', 'Gottesackerhauerl', 'Grabeleinshaulein', 'Hauelein', 'Hauepickel', 'Hauerlein', 'Haulein', 'Pflanzhäulein', 'Rebenhauelein', 'Rebenhaulein', 'Reuthäulein', 'Spitzhaulein']"
+Sense,"['Anhausensel', 'Bogensensel', 'Getreidesensel', 'Grassensel', 'Hafersensel', 'Sensel', 'Wurfsensel']"
+hängen,"['Anhängelein', 'Anhängerlein', 'Anhänglein', 'Anhängsel', 'Aufhenkel', 'Aufhängel', 'Aufhängerl', 'Aufhängerlein', 'Aufhängsel', 'Geiferhängerl', 'Geiferhängerlein', 'Hangel', 'Hängel', 'Hängelein', 'Hängerlein', 'Hängeschaukel', 'Hänglein', 'Ohrenhängelein', 'Ohrgehänglein', 'Ohrhängel', 'Ohrhängelein', 'Ohrhängerlein', 'Ohrhänglein', 'Ohrhängselein', 'Paterleinsohrenhängerlein', 'Perleinsohrhängelein', 'Salzhängerlein', 'Trenshängelein']"
+Kette,"['Anhängkettlein', 'Aufgurtkettlein', 'Bauchkettlein', 'Bindkettlein', 'Geißkettlein', 'Gurtkettlein', 'Halskettlein', 'Kettchen', 'Kettel', 'Kettlein', 'Kipfkettel', 'Kipfkettlein', 'Leuchsenkettlein', 'Reitelkettlein', 'Schanzkettlein', 'Schwenkkettlein', 'Sperrkettlein', 'Sprengkettlein', 'Spräußkettlein', 'Strangkettlein', 'Strängekettlein', 'Waagkettlein', 'Ziegenkettlein']"
+Kipf,"['Aniskipflein', 'Kartoffelkipflein', 'Kipfchen', 'Kipfel', 'Kipflein', 'Kümmelkipflein', 'Mohnkipflein', 'Mürbteigkipflein', 'Salzkipflein', 'Zehnerkipflein']"
+klopfen,"['Anklopfelein', 'Anklopferlein', 'Bierklöpfel', 'Fleischklopferlein', 'Klopfelein', 'Sprüchklopferei']"
+legen,"['Anlagbackelein', 'Anlagknöppelein', 'Auslagbackelein', 'Einlegerlein', 'Legelein', 'Legerlein']"
+Pack,"['Anpackerlein', 'Haselpäckelein', 'Packel', 'Packeslein', 'Packsel', 'Päckchen', 'Päckel', 'Päckelein', 'Päckfredlein', 'Päcklein']"
+Ranft,"['Anranftlein', 'Brotränftlein', 'Ranferl', 'Ranftel', 'Ranftlein', 'Ränferl', 'Ränftel', 'Ränftelein', 'Ränftlein']"
+Riss,['Anrisslein']
+schlagen,"['Anschlagerlein', 'Hühnerschläglein', 'Schlagelein', 'Schlaglein', 'Schlägel', 'Schläglein', 'Umschlagtüchel']"
+schneiden,"['Anschneidelein', 'Aufschneideri', 'Gesichtsschneiderei', 'Schneiderlein']"
+Tafel,"['Anschreibtafelein', 'Biertaferl', 'Schokoladentäfelein', 'Schuldentafelein', 'Schuldentäfelein', 'Schuldtafelein', 'Signaltäfelein', 'Tafelein', 'Taferl', 'Täfelein', 'Täferl', 'Zechtafelein']"
+schwarz,"['Anschwärzerlein', 'Schwarzelein', 'Schwarzerlein']"
+wenden,"['Anwenderlein', 'Gewendlein', 'Notwendel', 'Notwenderlein', 'Notwendiglein']"
+zeigen,"['Anzeigerlein', 'Zeigelein', 'Zeigerlein', 'Zeiglein']"
+ziehen,"['Anzieherei', 'Anzieherlein', 'Bettziehelein', 'Kirchweihanzüglein', 'Nachzügerlein', 'Nachzüglein', 'Schraubenzieherlein', 'Ziehel', 'Ziehelein', 'Ziehetsäulein', 'Zügelchen', 'Züglein']"
+Haar,"['Anziehhärlein', 'Armhärlein', 'Beinhärlein', 'Flaumhärlein', 'Fotzenhaarel', 'Haarel', 'Haarigel', 'Haarlein', 'Haarschwänzlein', 'Härlein', 'Häärchen', 'Maishärlein']"
+zünden,"['Anzünderlein', 'Zündelein', 'Zünderlein']"
+Backe,"['Apfelbäckchen', 'Apfelbäcklein', 'Bäckchen', 'Bäcklein', 'Engelbäcklein', 'Faustbäcklein', 'Fieberbäckchen', 'Fieberbäcklein', 'Goldbäcklein', 'Hullerbäcklein', 'Ohrenbäcklein', 'Pausbäckchen', 'Pausbäckelein', 'Pausbäcklein', 'Rotbäckchen', 'Rotbäcklein', 'Schmausbäckchen', 'Schmausbäcklein', 'Äpfelbäcklein']"
+Baum,"['Apfelbäumlein', 'Bäumchen', 'Bäumel', 'Bäumelein', 'Bäumestutzel', 'Bäumlein', 'Christbäumlein', 'Fichtenbäumchen', 'Kirchweihbäumlein', 'Lichterbäumchen', 'Mai', 'Maibäumlein', 'Maienbäumchen']"
+Datsch,"['Apfeldatschi', 'Datschen', 'Datschi', 'Ditschi', 'Dotschklößlein', 'Drütschel', 'Dutschklößlein', 'Dutschlein', 'Dätscherlein', 'Dätschlein', 'Döntschenbrei', 'Dütschlein', 'Erdbirndatschelein', 'Erdäpfelsdotschen', 'Erdäpfelsdutschlein', 'Grundbirnsdätscherlein', 'Kartoffeldutschlein', 'Kartoffeldätschlein', 'Knödelditschen', 'Korndatschel', 'Patakendütschen', 'Reiberdatschen', 'Zwetschgendatschi', 'Äpfeldätschlein']"
+Herz,"['Apfelherzel', 'Apfelherzlein', 'Herzchen', 'Herzel', 'Herzelein', 'Herzepopel', 'Herzerl', 'Herzerlein', 'Herzi', 'Herzipetzi', 'Herzlein', 'Herzpünktlein', 'Lehrerherzelein']"
+Kiste,"['Apfelkistlein', 'Futterkistlein', 'Holzkistlein', 'Kistchen', 'Kistlein', 'Kratzkistlein', 'Salzkistlein']"
+Krapfen,"['Apfelkrapflein', 'Apfelkräpflein', 'Erdbirnenkräpflein', 'Erdbirnkrapflein', 'Erdäpfelkräpflein', 'Fleischkrapflein', 'Fleischkräpfchen', 'Grundbirnekrapflein', 'Grundbirnenkrapflein', 'Grundbirnenkräpflein', 'Grundbirnkrapflein', 'Grundbirnkräpflein', 'Hackfleischkräpflein', 'Kartoffelkrapflein', 'Kartoffelkräpfchen', 'Kartoffelkräpflein', 'Krapflein', 'Kräpflein', 'Kräppel', 'Äpfelkräpflein', 'Äpfelskräpflein']"
+Kreben,"['Apfelkrebelein', 'Kreblein', 'Pflückkreblein']"
+Krätze,"['Apfelkrätzlein', 'Erdapfelkrätzlein', 'Erdbirnenkrätzlein', 'Kartoffelkrätzlein', 'Kratzlein', 'Krätzel', 'Krätzenwecklein', 'Krätzlein', 'Krätzwecklein']"
+Kopf,"['Apfelköpflein', 'Dickköpflein', 'Kopfelein', 'Köpferl', 'Köpflein', 'Lockenköpflein', 'Mohnköpflein', 'Mückenköpflein', 'Pfälzerköpfel', 'Trotzköpflein']"
+Pfanne,"['Apfelpfännkelein', 'Grumbirnpfankel', 'Grundbirnennpfankel', 'Grundbirnenpfankel', 'Grundbirnenpfankelein', 'Grundbirnenpfannkel', 'Grundbirnenpfannkelein', 'Grundbirnenpfänkelein', 'Grundbirnpfankel', 'Grundbirnpfankelein', 'Grundbirnpfannenküchlein', 'Kartoffelpfankel', 'Kartoffelpfannkelein', 'Mehlpfankel', 'Pfankel', 'Pfankelein', 'Pfannehäslein', 'Pfännel', 'Pfännkelein', 'Pfännlein', 'Stumpespfankel', 'Stumpespfannkel', 'Äpfelpfännkelein']"
+spalten,"['Apfelspalglein', 'Apfelspälglein', 'Spaltel', 'Spälglein', 'Spältlein']"
+Happen,"['Appetithäppchen', 'Brothapplein', 'Häppchen', 'Häpplein']"
+Gacks,"['Aprilgäckel', 'Gäckslein']"
+Gans,"['Aprilgänslein', 'Gansel', 'Ganselein', 'Ganslein', 'Gänschen', 'Gänsel', 'Gänselein', 'Gänseschnickerlein', 'Gänseschöppel', 'Gänsi', 'Gänslein', 'Maigänslein', 'Nachbrutgänslein', 'Nachhinkgänslein', 'Stadtgänslein', 'Wacklgänslein']"
+schicken,['Aprilschickel']
+Gewand,['Arbeitsgewandel']
+Bund,"['Armbündlein', 'Besenbündel', 'Bündel', 'Bündelein', 'Bündlein', 'Bürdelein', 'Deiselbündelein', 'Dornbündel', 'Dotenbündel', 'Eichenbündlein', 'Fichtenbündelein', 'Gebündlein', 'Getreidebündel', 'Haselnussbündelein', 'Herabbundtüchlein', 'Hetzbündel', 'Hochzeitbündel', 'Hochzeitsbündel', 'Hoffartsbündel', 'Holzbündlein', 'Hurenbündel', 'Kirchweihbündel', 'Kirchweihsbündel', 'Krakelbündel', 'Lindenbündlein', 'Läusbündel', 'Nervenbündel', 'Patenbündel', 'Prasselbündelein', 'Prasselbüschelein', 'Reisigbündel', 'Reisigbündelein', 'Reisigbündlein', 'Reisiggebündelein', 'Reisiggebündlein', 'Reisigsbündel', 'Reisigsbündlein', 'Reisigsgebündlein', 'Reisligbündel', 'Saubündel', 'Schaubbündel', 'Schilfbündel', 'Streubündel', 'Streubündelein', 'Streubüschel', 'Streubüschelein', 'Streuprügel', 'Strohbündel', 'Strohbündlein', 'Suppenbündelein', 'Tannenbündelein', 'Taufbündel', 'Wellebündel', 'Wellenbündel', 'Zwerchbündel', 'Zwetschgenbündel']"
+arm,"['Armerlein', 'Armutei']"
+voll,"['Armvollein', 'Handvollchen', 'Handvollein', 'Mundvollchen', 'Mundvollein', 'Reisigarmvollein', 'Ärmvollein']"
+Arsch,"['Arschel', 'Arschelein', 'Arschgritzel', 'Arschi', 'Arschlein', 'Goldärschlein', 'Pappelärschlein', 'Sauärschlein', 'Ärschchen', 'Ärschel', 'Ärschlein']"
+kitzeln,"['Arschkitzel', 'Nervenkitzel']"
+kritzen,"['Arschkritzel', 'Arschkritzelein', 'Gekricksel', 'Gekritzel', 'Kritzelein']"
+kratzen,"['Arschkrätzlein', 'Kratzel', 'Kratzelein', 'Kratzerei', 'Kratzerl', 'Kratzerlein', 'Kratzkästlein', 'Krätzerchen', 'Teigkratzerlein', 'Zwiebelbeetkrätzerlein']"
+Asche,"['Aschekübel', 'Aschenbrödel', 'Aschenputtel']"
+Ase,"['Asel', 'Asenstängel', 'Spanasel', 'Spanrasel', 'Spanraxel', 'Spänasel', 'Spändäsel', 'Äsel']"
+Stange,"['Asenstänglein', 'Bohnenstänglein', 'Gelumpstängel', 'Glimmstängel', 'Herdstänglein', 'Höllstänglein', 'Lagstangnagel', 'Nikotinstängel', 'Ofenstängel', 'Ofenstänglein', 'Papierstänglein', 'Porreestängel', 'Poussierstängel', 'Rechenstängel', 'Rechenstänglein', 'Salzstangel', 'Salzstangelein', 'Salzstanglein', 'Salzstängel', 'Salzstängelchen', 'Salzstängelein', 'Salzstänglein', 'Schafstänglein', 'Schleifholzstängel', 'Schlittenstangel', 'Stangel', 'Stoßstangel', 'Stänglein', 'Trockenstangel', 'Trockenstänglein', 'Waagstänglein', 'Wasserstänglein', 'Wäschestängel', 'Wäschestänglein']"
+Espe,"['Aspel', 'Espel', 'Espelein', 'Langaspel', 'Langespel']"
+Assel,['Asselein']
+Trank,"['Aufbautränklein', 'Trankel', 'Tranki', 'Tranklein', 'Tränkelein', 'Tränklein']"
+lesen,"['Auflesapfel', 'Erdäpfelsleserei', 'Lesapfel']"
+passen,['Aufpasserlein']
+Lumpen,"['Aufspüllumplein', 'Lumpelein']"
+Boden,"['Aufstellbödchen', 'Bödelein', 'Futterbödelein', 'Tanzbödelein']"
+waschen,"['Aufwascherei', 'Bleuwäschel', 'Wascherei', 'Waschständelein', 'Wäschetrocklein', 'Wäschschüssel', 'Wäschstämpfel']"
+Weiher,"['Aufzuchtweiherlein', 'Feuerweiherlein', 'Fischweiherlein', 'Himmelsweiherlein', 'Ortsweiherlein', 'Weiherlein']"
+Ähre,"['Aufährlein', 'Leseährlein', 'Mäusährlein', 'Ährchen', 'Ährlein']"
+falten,"['Augenfaltelein', 'Augenfältelein', 'Augenfältlein', 'Faltlein', 'Fältelein', 'Fältlein', 'Lachfaltlein', 'Lachfältchen', 'Lachfältelein', 'Lachfältlein', 'Lustfaltlein']"
+Ring,"['Augenringel', 'Baumringel', 'Baumringlein', 'Eierringlein', 'Eiringlein', 'Fingerringlein', 'Grindsringel', 'Gänseringel', 'Jahresringel', 'Ohrenringlein', 'Ohrringel', 'Ohrringelein', 'Ohrringlein', 'Paterleinsohrringlein', 'Paterleinsringlein', 'Perlenohrenringlein', 'Perlenohrringlein', 'Perlohrringlein', 'Perlringlein', 'Rauchringel', 'Rauchringelein', 'Rauchringlein', 'Ringel', 'Ringelein', 'Ringlein', 'Schneeringel', 'Sensenringel', 'Sensenringlein', 'Waagringlein', 'Zigarrenringlein']"
+Sack,"['Augensäcklein', 'Beruhigungssäcklein', 'Bettelsäcklein', 'Brunzsäckelchen', 'Dicksackel', 'Dicksäckel', 'Dicksäcklein', 'Futtersäcklein', 'Hosensäckel', 'Hosensäcklein', 'Hurensäckel', 'Innensäckel', 'Klammersäckchen', 'Lumpensäckel', 'Lügensäckel', 'Lümpersäckel', 'Mehlsäcklein', 'Nutschsäckel', 'Polentasäckel', 'Presssäcklein', 'Sackel', 'Säckel', 'Säcklein', 'Zwickersäcklein']"
+raffen,"['Ausgeraffel', 'Ausraffel', 'Bläkerraffel', 'Bläkraffel', 'Geraffel', 'Raffel', 'Rüffel', 'Zahnraffel', 'Zähneraffel']"
+nähen,"['Ausnäherlein', 'Nähörtlein', 'Pfuschnäherei']"
+sagen,"['Aussagelein', 'Gesagi', 'Lügsagerei']"
+stechen,"['Ausstecherlein', 'Bauchstecherlein', 'Butterzeugstecherlein', 'Gestechlein', 'Plätzleinsausstecherlein', 'Stecherlein']"
+Form,"['Ausstechförmchen', 'Ausstechförmlein', 'Backförmlein', 'Blechförmlein', 'Döckeleinsförmlein', 'Formlein', 'Förmchen', 'Förmelein', 'Förmlein', 'Gutesleinsförmlein', 'Kuchenförmlein', 'Platzelförmlein', 'Platzleinsförmlein', 'Plätzchenförmlein', 'Plätzchensförmchen', 'Plätzleinförmlein', 'Plätzleinsförmlein', 'Zuckerförmlein']"
+aus,['Auswürfel']
+Stube,"['Auszugsstüblein', 'Dachstüblein', 'Großratzerstübel', 'Hirnstüblein', 'Oberstüblein', 'Patstüblein', 'Poststübel', 'Schlafstübchen', 'Stübchen', 'Stübel', 'Stüblein']"
+Auto,['Autolein']
+Babel,['Babelein']
+Baby,['Babylein']
+Bache,['Bachel']
+Bein,"['Bachstelzenbeinlein', 'Barnsbeinchen', 'Beinchen', 'Beinlein', 'Butterbeinlein', 'Feenbeinlein', 'Geißbeinlein', 'Katzenbeinlein', 'Linsenbeinlein', 'Schlittenbeinlein', 'Stampfbeinlein', 'Steckenbeinlein', 'Strampelbeinlein', 'Stämpfbeinlein', 'Säubeinlein', 'Trippelbeinlein', 'Weifbeinlein', 'Wurstbeinlein', 'Zigeunersbeinlein']"
+Kloß,"['Backesklößlein', 'Ballenklößlein', 'Brotklößlein', 'Datschklößlein', 'Erdäpfelklößlein', 'Fleischklößchen', 'Fleischklößel', 'Fleischklößlein', 'Gehacktesklößlein', 'Grießklößlein', 'Grundbirnenklößlein', 'Grundbirnklößlein', 'Hackfleischklößlein', 'Hackklößchen', 'Kartoffelklößlein', 'Klößchen', 'Klößerdapfel', 'Klößerdäpfel', 'Klößlein', 'Klößscheibchen', 'Klößschäufelein', 'Mehlklößlein', 'Patschklößlein', 'Röhrenklößlein', 'Stumpenklößlein', 'Stumpesklößlein', 'Äpfelklößlein']"
+Stück,"['Backesstückchen', 'Brotstücklein', 'Dengelstücklein', 'Erdäpfelstücklein', 'Frühstückel', 'Goldstücklein', 'Grundbirnenstückchen', 'Hefestückchen', 'Kunststücklein', 'Magenstücklein', 'Reibigstücklein', 'Schokoladenstücklein', 'Schulfrühstücklein', 'Seitenstücklein', 'Semmelstückel', 'Stolperstücklein', 'Stückchen', 'Stückel', 'Stückerl', 'Stücklein', 'Wetzstücklein', 'Zuckerstücklein']"
+Krücke,"['Backkrücklein', 'Kruckel', 'Krückel', 'Krücklein', 'Ofenkrückel', 'Ofenkrücklein', 'Teigkrücklein']"
+Schüssel,"['Backschüsselein', 'Handschüsselein', 'Salzschüsselein', 'Schüsselein', 'Waschschüsselein']"
+Spreißel,"['Backspreißelein', 'Holzspreißelein', 'Kienspreißelein', 'Spreißelchen', 'Spreißelein', 'Spreißlein', 'Sprisselein']"
+Wanne,"['Backwännlein', 'Ofenwannel', 'Ofenwännlein', 'Schrotwännlein', 'Wännel', 'Wännlein']"
+Bad,['Baderlein']
+Bahn,"['Bahnlein', 'Bähnlein']"
+Bajazzo,['Bajazzel']
+Bajes,['Bajeslein']
+balfern,['Balferlein']
+Knödel,"['Ballenknödelein', 'Brotknödlein', 'Erdbirnenknödlein', 'Erdbirnknödelein', 'Erdknödelein', 'Fleischknödlein', 'Fransenknödelein', 'Fransenknödlein', 'Gesottenknödelein', 'Hackfleischknödlein', 'Hafenknödelein', 'Hefeknödelein', 'Hefeknödlein', 'Knödelein', 'Knödlein', 'Mehlknödelein', 'Mehlknödlein', 'Ofenknödelein', 'Ofenknödlein', 'Pfannenknödelein', 'Röhrknödelein', 'Schwammknödelein', 'Schwämmknödlein', 'Semmelknödlein', 'Serviettenknödlein']"
+Ball,"['Ballenlein', 'Bällchen', 'Bällein', 'Stoffbällchen']"
+rußen,"['Ballenrusslein', 'Ballrusslein', 'Rusel', 'Russel', 'Russerlein', 'Zwergrusslein']"
+Ballon,['Ballönlein']
+bampeln,"['Bammel', 'Bammlein', 'Bampelchen', 'Bisebampel', 'Bommel', 'Bompel', 'Bompelchen', 'Bompelein', 'Bämbelein', 'Bämplein', 'Dreckbampel', 'Haselnussbämpelein', 'Katzenbämpelein', 'Scheuerbampel', 'Scheuernbompel']"
+bammen,"['Bampel', 'Bampelein', 'Bimpelein', 'Bämpelein']"
+bampf,['Bampfelein']
+binden,"['Bandel', 'Banderl', 'Bandlein', 'Bauchbindlein', 'Bauchbändlein', 'Bindenagel', 'Bändchen', 'Bändel', 'Bändelein', 'Bändlein', 'Dreschbändel', 'Einbindbändel', 'Fatschbändel', 'Fatschenbändel', 'Firstbandel', 'Garbbändel', 'Garbbändlein', 'Garbenbändel', 'Garbenbändlein', 'Haarbändel', 'Halsbändlein', 'Herunterbindtüchlein', 'Hosenbändel', 'Imponierbändel', 'Kornstrohbündel', 'Lederhalsbändlein', 'Papierbändlein', 'Pressbändel', 'Rauchbindlein', 'Samtbändlein', 'Schuhbändel', 'Schurzbändel', 'Schürzenbändel', 'Seulbändel', 'Steuerbindlein', 'Stierbändel', 'Stirnbändlein', 'Strohbändel', 'Trauerbändlein', 'Waagbändlein', 'Wegbindelein', 'Wickelbändel', 'Wickelbändlein', 'Wurstbändel', 'Zigarettenbändlein', 'Zigarrenbändlein']"
+Bankert,"['Bankerl', 'Bankerslein', 'Bankertlein']"
+Barbara,"['Barbelein', 'Bärbelein', 'Christkindleinsbärbelein', 'Dreckbärbel', 'Käsbärbel', 'Marktbärbel', 'Pissbärbel', 'Sandbarbel', 'Schnappbabel', 'Sottbärbel']"
+Barchent,"['Barchel', 'Barchen']"
+Barg,"['Bargel', 'Bergel', 'Bärgel', 'Bärgelein', 'Bärglein', 'Streitbargel', 'Streitbärgel']"
+Barn,"['Barnlein', 'Bärnlein']"
+Laib,"['Barraslaiblein', 'Batzenlaiblein', 'Bratwurstlaibel', 'Bratwurstlaiblein', 'Butterlaiblein', 'Fleischlaiblein', 'Hefelaiblein', 'Kaiserlaiblein', 'Kommisslaiblein', 'Kreuzerlaiblein', 'Käslaibel', 'Käslaiblein', 'Kümmellaiblein', 'Laibchen', 'Laibel', 'Laiblein', 'Milchlaiblein', 'Mohnlaiblein', 'Mundlaibel', 'Mundlaiblein', 'Pritscherlaibelein', 'Pritschlaibelein', 'Rosenlaiblein', 'Sternlaiblein', 'Wasserlaiblein']"
+Mütze,['Barrasmützlein']
+schwindeln,"['Barrasschwindel', 'Schwindel']"
+Zipf,"['Barraszipfel', 'Erdbirnenzipfel', 'Erdbirnzipfel', 'Frostzipfel', 'Gummizipfel', 'Hemdszipfel', 'Hemdzipfel', 'Hemdzipfelein', 'Lampenzipfel', 'Mutterzipfel', 'Ohrenzipfelein', 'Rockzipfel', 'Salzzipfel', 'Schürzenzipfel', 'Wurstzipfel', 'Wurstzipfelein', 'Zipfel', 'Zipfelein', 'Zipferl', 'Zipferlein', 'Zipflein']"
+Bart,"['Bartel', 'Bärtlein', 'Geiferbartel', 'Geißbartel', 'Geißbärtlein', 'Maisbärtlein', 'Schnurrbartel', 'Spitzbartel', 'Ziegenbärtlein']"
+Barte,"['Bartelein', 'Bartlein']"
+Puppe,"['Bartpüppelein', 'Gepüppel', 'Herzepüpplein', 'Modepüpplein', 'Puppelein', 'Pöppelein', 'Püppchen', 'Püppelein', 'Püpplein', 'Wackelpuppelein']"
+Base,"['Baselein', 'Bäschen', 'Bäslein', 'Hochzeitsbäslein', 'Sagbasel', 'Schulbäslein']"
+humpeln,['Basshumpel']
+Batzen,"['Batzel', 'Batzerei', 'Batzerlein', 'Herzenbätzelein', 'Honigbatzel', 'Hornhautbätzerlein', 'Kaubatzel', 'Kaubazel', 'Kellerbätzelein', 'Maisbätzelein', 'Mauerbätzelein', 'Nestbatzel', 'Nestbatzlein', 'Nestbätzel', 'Nestbätzlein', 'Ohrenbatzel', 'Pechbätzlein']"
+Weife,"['Batzenwaffel', 'Bläkwaffel', 'Breiwaffel', 'Fischwaffel', 'Gatschwaffel', 'Gatschweifel', 'Gewaffel', 'Geweifi', 'Geweifri', 'Leerweiferei', 'Patschwaffel', 'Patschweifel', 'Plärrwaffel', 'Saftwaffel', 'Schreiwaffel', 'Weifelein', 'Weiferei']"
+Bätz,"['Batzi', 'Baumbätzelein', 'Bollenbätzelein', 'Butzi', 'Bätzchen', 'Bätzel', 'Bätzelein', 'Bätzerlein', 'Bätzi', 'Bätzlein', 'Haselbätzelein', 'Haselnussbätzel', 'Haselnussbätzelein', 'Haselnussbätzlein', 'Haselnüssebätzlein', 'Herzbätzelein', 'Herzbätzlein', 'Herzebätzel', 'Herzebätzelein', 'Herzebätzi', 'Herzebätzlein', 'Herzensbätzelein', 'Himmelbätzlein', 'Lehrerbätzel', 'Lehrerbätzelein', 'Mamabätzelein', 'Märzenbätzelein', 'Nussbätzelein', 'Osterbätzelein', 'Palmbätzelein', 'Schafbätzelein', 'Schneckenbätzelein', 'Schneckenbätzlein', 'Schneckibätzelein', 'Streubätzelein', 'Tannebätzlein', 'Tannenbätzelein', 'Tannenbätzerlein', 'Tannenbätzlein']"
+rutschen,"['Bauchrutscherlein', 'Kinderrutschelein', 'Milchrutscherlein', 'Rotschel', 'Rutschel', 'Rutscherl', 'Rutscherlein', 'Rütschel', 'Rütscherl', 'Rütscherlein', 'Stahlrutscherlein']"
+Bauer,"['Bauerei', 'Bauernstoffel', 'Bäuerlein', 'Fabrikbäuerlein', 'Feierabendbäuerlein', 'Feierabendsbäuerlein', 'Fischbäuerl', 'Geißbäuerlein', 'Gäubäuerlein', 'Hasenbäuerlein', 'Karpfenbäuerlein', 'Kleinbäuerlein', 'Klitschenbäuerlein', 'Knallbäuerlein', 'Kuhbäuerlein', 'Mondscheinbäuerlein', 'Puhlbäuerlein', 'Rucksackbäuerlein', 'Taubenbauerlein', 'Werkstattbäuerlein', 'Ziegenbäuerlein']"
+Hafen,"['Bauernhäfelein', 'Blumenhafelein', 'Blumenhäfelein', 'Bogenhäfelein', 'Botenhaferl', 'Botenhäfelein', 'Botenhäferl', 'Brunzhäfelein', 'Brünzhäfelein', 'Bundhäfelein', 'Butzenhäfelein', 'Einbrockhäfelein', 'Einfüllhafel', 'Essenhäfelein', 'Fetthäfelein', 'Hafel', 'Hafelein', 'Hafenbuttelein', 'Hafenbutterlein', 'Hafenbutzelein', 'Hafenlein', 'Haferl', 'Henkelhafelein', 'Henkelshafelein', 'Häfchen', 'Häfel', 'Häferl', 'Häferlein', 'Kaffeehafel', 'Kaffeehafelein', 'Kaffeehäfelein', 'Kinderhäfelein', 'Käshäfelein', 'Linsenhafenlein', 'Mehlhäfelein', 'Milchhafelein', 'Milchhäfchen', 'Milchhäfelein', 'Nachthafel', 'Nachthaferl', 'Nachthäfchen', 'Nachthäfelein', 'Nachthäferl', 'Nachtshäfelein', 'Pritschhafenlein', 'Rahmhafel', 'Salzhafelein', 'Salzhafenlein', 'Salzhäfelein', 'Scheißerhäfelein', 'Scheißhafel', 'Scheißhaferl', 'Scheißhäfelein', 'Schmalzhäfelein', 'Schmeckenhäfelein', 'Schmeckhäfelein', 'Schnappenhafelein', 'Schnappenhäfelein', 'Schnaubelhäfelein', 'Schnaubenhäfelein', 'Schnaufenhäfelein', 'Schnauzenhäfelein', 'Schnäuzleinshäfelein', 'Schnürpfelhäfelein', 'Schöpfhafel', 'Schöpfhafelein', 'Schöpfhäfel', 'Schöpfhäfelein', 'Schöpfhäflein', 'Seichhaferl', 'Seichhäfelein', 'Stockhäfelein', 'Sträußhäfelein', 'Suppenhafelein', 'Suppenhaferl', 'Suppenhäfelein', 'Traghäfelein', 'Wasserhäfelein', 'Zautenhäfelein', 'Zauzenhäfelein', 'Zipfenhäfelein', 'Zipfhäfelein', 'Züttelhäfel', 'Züttelhäfelein']"
+Meichel,"['Bauernmeichelein', 'Fletschmeichelein', 'Greinmeichelein', 'Hadermeichelein', 'Heulmeichelein', 'Hudelmeichelein', 'Kopfmeichelein', 'Kuhmeichelein', 'Meichelein', 'Meicherl', 'Meichlein', 'Pfletschmeichelein', 'Traummeichelein']"
+rammeln,"['Bauernrammel', 'Bauerrammel', 'Katzenrammel', 'Rammel', 'Rämmel', 'Saurammel']"
+Rose,"['Bauernröslein', 'Bodenröslein', 'Buschrösel', 'Buschröslein', 'Buschwindröschen', 'Buschwindröslein', 'Dornenheckenröslein', 'Dornenröslein', 'Dörnenröslein', 'Fieberröslein', 'Flatterröslein', 'Friedhofsröslein', 'Frühjahrsröslein', 'Gergenröslein', 'Giftröslein', 'Gottesackerröslein', 'Heckenröschen', 'Heckenröslein', 'Herrgottsröslein', 'Hiefenröslein', 'Hundsröslein', 'Johannisröslein', 'Mariaröslein', 'Muttergottesröslein', 'Märzenröslein', 'Pfingströslein', 'Röslein', 'Schneeröschen', 'Totenröslein', 'Waldröslein', 'Weihnachtsröslein', 'Windröschen', 'Windröslein']"
+trampeln,"['Bauerntrampel', 'Getrampel', 'Pilzträmpelein', 'Putztrampel', 'Tampel', 'Trampel', 'Trampelein', 'Trämpel']"
+hacken,"['Baumhäckel', 'Brachhackelein', 'Gartenhackelein', 'Gartenhäcklein', 'Hackbeihelein', 'Hackel', 'Hackelchen', 'Hackelein', 'Hackenhäckel', 'Hackerlein', 'Handhackel', 'Herumhackerei', 'Häckchen', 'Häckel', 'Häckelein', 'Häckerlein', 'Häcklein', 'Häcksel', 'Kulturhackelein', 'Misthackel', 'Rebenhäcklein', 'Spitzhäckelein', 'Spitzhäcklein', 'Streuhäcklein', 'Waldhäkel']"
+Kraut,"['Baumkräutlein', 'Erdbirnenkräutlein', 'Erdäpfelkräutlein', 'Irrkräutlein', 'Kartoffelkräutlein', 'Krautsköpflein', 'Krautstängel', 'Kräutlein', 'Otternkräutlein', 'Patakenkräutlein', 'Patakenskräutlein', 'Suppenkräutlein', 'Weißkrauthäuptlein', 'Zappelkräutlein']"
+Katze,"['Baumkätzlein', 'Bollenkätzlein', 'Eichkatzel', 'Eichkätzchen', 'Eichkätzel', 'Eichkätzlein', 'Haselkätzchen', 'Haselkätzlein', 'Haselnusskätzchen', 'Haselnusskätzlein', 'Katzel', 'Katzelein', 'Katzenei', 'Katzenpeterlein', 'Katzenwedel', 'Katzlein', 'Kätzchen', 'Kätzelein', 'Kätzlein', 'Lieblingskätzlein', 'Mohrleinkätzlein', 'Naschkatzel', 'Naschkätzchen', 'Naschkätzlein', 'Nusskätzlein', 'Näschkätzlein', 'Palmkätzchen', 'Palmkätzlein', 'Schmeichelkätzchen', 'Schmeichelkätzlein', 'Schmierkätzelein', 'Schmusekätzchen', 'Staubblütenkätzlein', 'Waldkätzlein', 'Weidenkätzlein']"
+Schwamm,"['Baumschwämmlein', 'Butterschwämmchen', 'Butterschwämmlein', 'Eierschwammelein', 'Eierschwammerl', 'Eierschwammerlein', 'Eierschwammlein', 'Eierschwämmchen', 'Eierschwämmelein', 'Eierschwämmlein', 'Feuchtschwammerl', 'Gelbschwämmlein', 'Kapuzinerschwämmlein', 'Kunstschwämmlein', 'Maischwämmlein', 'Moosschwämmlein', 'Mückenschwammerl', 'Rainschwammerlein', 'Rainschwemmlein', 'Rainschwämmelein', 'Rainschwämmlein', 'Rangenschwämmlein', 'Rasenschwämmlein', 'Rauchschwämmlein', 'RehSchwämmlein', 'Rehschwämmlein', 'Schwammerl', 'Schwammerlein', 'Schwammlein', 'Schwämmel', 'Schwämmerlein', 'Schwämmlein', 'Staubschwämmlein', 'Stockschwammerlein', 'Stockschwämmchen', 'Stockschwämmlein', 'Stöckschwämmlein', 'Tafelschwammlein', 'Tafelschwämmlein', 'Wiesenschwämmlein', 'Wiesnschwämmlein', 'Zigeunerschwämmlein']"
+spitz,"['Baumspitzlein', 'Fichtenspitzlein', 'Quarkspitzlein', 'Salzspitzel', 'Salzspitzlein', 'Spitzchen', 'Spitzel', 'Spitzlein', 'Stiftspitzerlein', 'Tannenspitzlein']"
+Sterz,"['Baumsterzel', 'Pflugsterzel', 'Steinsterzelein', 'Sterzel', 'Sterzelein', 'Sterzgockel', 'Sterzlein', 'Storzel', 'Storzelein', 'Störzel']"
+Stumpen,"['Baumstumpel', 'Schwanzstumpel', 'Stumpel', 'Stumpelein', 'Stömpelein', 'Stümpel', 'Stümpelein', 'Stümplein']"
+Stumpf,"['Baumstumpfel', 'Baumstümpfel', 'Grasstümpflein', 'Schneidstümpflein', 'Stumpfel', 'Stumpfelein', 'Stümpfel']"
+stutzen,"['Baumstutzel', 'Baumstützel', 'Bänkstützel', 'Erdbirnenstutzel', 'Schwanzstutzel', 'Stutzerl', 'Stützel']"
+Baunze(n),"['Baunzel', 'Baunzelein', 'Baunzerlein', 'Bäunzlein', 'Erdbirnbaunzel', 'Erdbirnenbaunzelein', 'Haselbaunzelein', 'Haselnussbaunzelein', 'Haselnussbaunzerlein', 'Schneebaunzerlein']"
+Bausch,"['Bauschbäcklein', 'Bauschen', 'Bäuschel', 'Bäuschelein', 'Bäuschlein', 'Nutschbäuschel', 'Papierbäuschlein', 'Pausbackelein', 'Strobäuschelein', 'Strohbäuschlein']"
+Bazi,['Bazilein']
+Becher,"['Becherl', 'Becherlein', 'Essbecherlein', 'Henkelbecherlein', 'Herausfassbecherlein', 'Kaffeebecherlein', 'Salzbecherlein', 'Schnapsbecherlein', 'Schnaubenbecherlein', 'Schöpfbecherlein', 'Wasserbecherlein']"
+Schlitten,"['Beckenschlittlein', 'Heuschlittlein', 'Rollschlittlein', 'Schlittenhörschel', 'Schlittlein']"
+Steak,['Beefsteaklein']
+Weib,"['Beerenweiblein', 'Beerweiblein', 'Fischweiblein', 'Gerstenweibel', 'Gerstenweiblein', 'Getreideweiblein', 'Haferweibel', 'Haferweiblein', 'Heidelbeerweiblein', 'Holzweiblein', 'Hundsweiblein', 'Hutzelweibel', 'Hutzelweiblein', 'Kanarienweiblein', 'Kornweiblein', 'Krenweiblein', 'Marktweiblein', 'Moosweiblein', 'Petzweibel', 'Pritschweiblein', 'Schnitzweibelein', 'Schwarzbeerweiblein', 'Spülweiblein', 'Standweiblein', 'Taubenweibchen', 'Taubenweibel', 'Taubenweiblein', 'Waldweiblein', 'Weibchen', 'Weibel', 'Weibelein', 'Weiberei', 'Weiblein']"
+Beere,"['Beerlein', 'Butterbeerlein', 'Heidelbeerlein', 'Herrgottsbeerenchen', 'Johannisbeerlein', 'Kratzbeerlein', 'Lausbeerlein', 'Mehlbeerlein', 'Rotbeerlein', 'Schlehenbeerlein', 'Schwarzbeerlein', 'Vogelbeerbäumlein', 'Vogelbeerlein', 'Vögeleinsbeerlein', 'Vögelsbeerlein', 'Weinbeerlei', 'Weinbeerlein', 'Weißdornbeerlein']"
+Leute,"['Beerleutlein', 'Leutchen', 'Leutlein']"
+Beet,"['Beetchen', 'Beetel', 'Beetlein', 'Erdbirnenbeetlein', 'Erdäpfelbeetlein', 'Erdäpfleinsbeetlein', 'Häuptbeetlein', 'Häupterbeetlein', 'Vorbeetlein']"
+halten,"['Behalterlein', 'Behälterlein', 'Federhalterl', 'Fleischgehälterlein', 'Gehälterl', 'Gehälterlein', 'Halterlein', 'Hälterlein', 'Küchenbehälterlein', 'Küchengehalterlein', 'Küchengehälterlein', 'Küchenkalterl']"
+Gott,"['Behütsgöttlein', 'Gottchen', 'Gottelein', 'Gottlein', 'Herrgottlein', 'Herrgöttlein', 'Ölgötzlein']"
+Beil,"['Beihel', 'Beihelein', 'Beilchen', 'Beilein', 'Hackbeilchen', 'Handbeihel', 'Handbeihelein', 'Handbeilchen', 'Handbeilein', 'Holzbeihelein', 'Holzbeilein', 'Pfahlbeilein', 'Teilbeilein']"
+Stuhl,"['Beinstühlein', 'Fußstühlein', 'Hochzeitsstühlein', 'Katzenstühlein', 'Melkstühlein', 'Stuhlel', 'Stühlchen', 'Stühlein', 'Stühlelein']"
+Beize,['Beizlein']
+Brocken,"['Beißbröckelchen', 'Brockel', 'Brockelein', 'Bröckchen', 'Bröckel', 'Bröckelchen', 'Bröckelein', 'Bröckerl', 'Bröcklein', 'Erdbirnenbröckelein', 'Erdbirnenbröcklein', 'Erdäpfelsbröckelein', 'Fettbröckelein', 'Grundbirnbröckelein', 'Grundbirnenbröckelein', 'Grundbirnklößbröckelein', 'Hütesbröckelein', 'Kartoffelbröckelein', 'Kloßbröckelein', 'Klößbrandlein', 'Klößbröckelein', 'Klößebrotbröckelein', 'Klößebröckelchen', 'Klößebröckelein', 'Knödelbröckelein', 'Knödeleinbröckelein', 'Kuchenbröckelein', 'Maulbröckelein', 'Mordsbröckel', 'Nudelbröckelein', 'Nudelbröcklein', 'Platzbröckelein', 'Röstbröckelein', 'Schinkenbröckelein', 'Semmelbröckel', 'Semmelbröckelein', 'Semmelbröcklein', 'Spatzenbröckelein', 'Speckbröckel', 'Speckbröckelein', 'Stollenbröckelein', 'Weckbröckchen', 'Weckbröckel', 'Weckbröckelchen', 'Weckbröckelein', 'Weckbröcklein']"
+beißen,"['Beißerlein', 'Bisslein', 'Ohrenbeißerlein', 'Wurstbisslein']"
+Bengel,['Bengelein']
+Bernhard,['Benzelein']
+Berg,"['Berglein', 'Schlittenbergel', 'Schlittenberglein']"
+Weg,"['Bergwegel', 'Fußwegel', 'Fußweglein', 'Förstersweglein', 'Gangweglein', 'Gehwegel', 'Gehweglein', 'Hasenwegel', 'Hasenweglein', 'Hohlweglein', 'Holzwegel', 'Holzweglein', 'Jagersweglein', 'Jägersweglein', 'Jägerweglein', 'Kirchenweglein', 'Pirschweglein', 'Rehweglein', 'Schlangenweglein', 'Schleichweglein', 'Spitzbubenweglein', 'Spitzwegelein', 'Trampelweglein', 'Waldwegel', 'Waldweglein', 'Wegel', 'Weglein']"
+Wagen,"['Bernerwägelein', 'Brautwägelein', 'Chaisenwägelchen', 'Eisenbahnwägelein', 'Federwägelein', 'Federwäglein', 'Gajwägelein', 'Gajwägenlein', 'Graswägelein', 'Gäuwägelein', 'Jochwägelein', 'Käsebrotwägelein', 'Landwägelein', 'Milchwäglein', 'Motorwägelein', 'Reisewägelein', 'Rollwägelein', 'Sauwägelein', 'Steirerwägelein', 'Unglückswägelein', 'Wagenlünnelein', 'Wagenlünnlein', 'Wagensteckelein', 'Wagenstiefelein', 'Wagerl', 'Wägelein', 'Zapfel', 'Zeisigwagelein', 'Zeisigwägelein']"
+Kissen,"['Beruhigungskisslein', 'Einbindkissel', 'Hefekisselein', 'Kisselein', 'Kisslein', 'Kopfekisslein', 'Kopfkisslein', 'Wickelkisselein']"
+Tasche,"['Bescheidtäschlein', 'Geldtäschlein', 'Grundbirnentäschelein', 'Hirtentäschlein', 'Hosentaschel', 'Leuchsentaschen', 'Seitentäschlein', 'Taschenziegel', 'Täschlein', 'Uhrtäschlein', 'Waagscheitleintäschlein', 'Waagtaschen', 'Waagtäschlein']"
+Besen,"['Beschen', 'Besel', 'Beselein', 'Besenchen', 'Beslein', 'Borstbesel', 'Handbeschen', 'Handbesel', 'Handbeselein', 'Handbesenchen', 'Handbeslein', 'Kehrbesel', 'Kehrbeselein', 'Kehrbeslein', 'Kehrichbeselein', 'Kehrichtbeselein', 'Marktbeslein', 'Stubenbesel']"
+wissen,['Besserwisserlein']
+suchen,"['Besucherlein', 'Versuchelein', 'Versucherl', 'Versucherlein']"
+graben,"['Besuchsgräbelein', 'Bettgräbelein', 'Grabelein', 'Grabenlein', 'Grabenmachen', 'Graberl', 'Grebel', 'Gräbchen', 'Gräbelchen', 'Gräbelein', 'Gräbenlein', 'Gräbenmachen', 'Gräberl', 'Gräblein', 'Lachgräbelein', 'Straßgräblein', 'Wassergrabelein', 'Wassergräbchen', 'Wassergräbelein', 'Wassergräbenlein', 'Wiesengräblein']"
+Bethmann,"['Bethmännchen', 'Bethmännlein']"
+Pater,"['Betpäterlein', 'Geißpaterl', 'Paterl', 'Paterlein', 'Päterlein', 'Rosenkranzpaterlein', 'Rosenkranzpäterlein', 'Rosenpäterlein']"
+betteln,"['Bettelerei', 'Bettlerei', 'Gebettel', 'Hundsbettel']"
+hüpfen,"['Betthupferlein', 'Betthüpferl', 'Betthüpferlein', 'Hupferlein', 'Hüpferghandi', 'Hüpferlein', 'Nachthüpferlein', 'Stückelhüferlein']"
+Hase,"['Betthäschen', 'Hasel', 'Hasenhannlein', 'Hasenpärlein', 'Hasenöhrel', 'Hasenöhrlein', 'Haserl', 'Hasi', 'Häschen', 'Häsel', 'Häselein', 'Häslein', 'Märzenhäschen', 'Pfannenhäslein']"
+Bett,"['Bettlein', 'Bettziechelein', 'Erdäpfelbettel', 'Himmelbettlein', 'Kinderbettchen', 'Kinderbettlein', 'Wiegenbettchen']"
+seichen,"['Bettseicherlein', 'Froschgeseichi', 'Geseichi', 'Hundsgeseichi', 'Pferdegeseichlein', 'Seichdurdel', 'Seichelein', 'Seicherei', 'Säugeseichi']"
+Statt,"['Bettstattel', 'Bettstattlein', 'Bettstättel', 'Bettstättlein', 'Kinderbettstättlein']"
+Beule,"['Beuel', 'Blutbeulein']"
+Beute,['Beutelein']
+Beutel,"['Beutlerei', 'Mückenbeutelein']"
+bib,"['Bibchen', 'Bibelein', 'Bibi', 'Biblein', 'Bibmätzlein', 'Bilein', 'Wiwi']"
+Huhn,"['Bibhühnlein', 'Haselhühnlein', 'Hinkelchen', 'Hühnchen', 'Hühnerchen', 'Hühnerhäuslein', 'Hühneri', 'Hühnerlein', 'Hühnlein', 'Hünkel', 'Tannenhühnlein', 'Zipfethühnlein', 'Zwerghühnlein']"
+biegen,['Biegelein']
+Biene,"['Bienchen', 'Bienlein']"
+Bier,"['Bierbäuchlein', 'Bierdümpfel', 'Bierl', 'Bierlein', 'Bierschlagel']"
+Fass,"['Bierfasslein', 'Bierfässchen', 'Bierfässel', 'Bierfässlein', 'Buttererfässlein', 'Butterfässlein', 'Fleischfassel', 'Fässchen', 'Fässel', 'Fässlein', 'Holzwetzfässlein', 'Krautfässlein', 'Kullerfässlein', 'Mehlfässlein', 'Pulverfässlein', 'Rauchfässlein', 'Rollerfässlein', 'Rollfässlein', 'Salzfassel', 'Salzfässchen', 'Salzfässel', 'Salzfässlein', 'Salzfäßlein', 'Salznäpflein', 'Schlotterfässlein', 'Steinfässlein', 'Wetzfassel', 'Wetzfässlein']"
+Kappe,"['Bierflaschenkäpplein', 'Flaschenkäpplein', 'Kappelein', 'Käppchen', 'Käppel', 'Käppelein', 'Käppi', 'Käpplein', 'Patschkappel', 'Pfaffenkäppelein', 'Pfaffenkäpplein', 'Pritschkappel', 'Puppenkäpplein', 'Rotkäppchen', 'Rotkäpplein', 'Schirmlein', 'Schlotfegerskäpplein', 'Sommerkäpplein', 'Sportkäpplein', 'Verschlusskäpplein', 'Zündkappel', 'Zündkäppelein']"
+saufen,"['Bierflaschensüffel', 'Gesöffi', 'Saufelein', 'Sauferlein', 'Saufsäulein', 'Süffel']"
+Flasche,"['Bierfläschlein', 'Flaschel', 'Fläschel', 'Fläschi', 'Fläschlein', 'Milchflaschel', 'Milchfläschel', 'Milchfläschlein', 'Riechfläschlein']"
+Kapsel,"['Bierkäpselein', 'Flaschenkapselein', 'Flaschenkäppselein', 'Flaschenkäpselein', 'Kapselein', 'Kapslein', 'Käpselein', 'Käpslein', 'Zündkapselein', 'Zündkapslein', 'Zündkäpselein']"
+neigen,"['Bierneiglein', 'Kaffeeneiglein', 'Neigel', 'Neigelein', 'Neiglein', 'Neigsel', 'Neigtelein']"
+Papp,"['Bierpappe(r)lein', 'Feuersteinleinspapierlein', 'Firmenpappe(r)lein', 'Flaschenpappe(r)lein', 'Morepappel', 'Papfel', 'Papierpappe(r)lein', 'Pappel', 'Pappelein', 'Papperl', 'Papperlein', 'Päppel', 'Päppelein']"
+Pläpper,"['Bierpläpperlein', 'Flaschenpläppe(r)lein', 'Papierpläppe(r)lein', 'Pläpperl', 'Pläpperlein']"
+Schild,"['Bierschildlein', 'Firmenschildlein', 'Flaschenschildlein', 'Kappenschildel', 'Reklameschildlein', 'Schildchen', 'Schildel', 'Schildlein', 'Schirmschildel']"
+stopfen,"['Bierstöpsel', 'Flaschenstopfel', 'Flaschenstopsel', 'Flaschenstöpfel', 'Gestopsel', 'Grundbirnenstopferlein', 'Grundbirnenstöpferlein', 'Gänsestöpfel', 'Gänsestöpfelein', 'Kartoffelstopferlein', 'Stopfel', 'Stopferei', 'Stopferlein', 'Stoppel', 'Stopsel', 'Stöpfel', 'Stöpfelein', 'Stöppel', 'Stöppelchen']"
+Stummel,"['Bierstümmelein', 'Katzenstummelein', 'Schwanzstummellein', 'Stummellein', 'Stummerlein', 'Stümmelein', 'Stümmellein']"
+Stürze,['Bierstürzel']
+Zettel,['Bierzettelein']
+Billett,['Billettlein']
+Bimmel,['Bimbelein']
+Birke,"['Birkchen', 'Birkelchen', 'Birkelein', 'Birkenbäumchen', 'Birkenbäumlein', 'Birklein']"
+Reis,"['Birkenreislein', 'Reisigmachen', 'Reisigsbündelein', 'Reislein', 'Reisleinbündel']"
+Stamm,"['Birkenstämmchen', 'Erdsstämmlein', 'Schneidstämmlein', 'Stämmlein']"
+Birne,"['Birnlein', 'Bratgrundbirnlein', 'Erdbirnbaunzlein', 'Erdbirndatscherlein', 'Erdbirnditscherlein', 'Erdbirnenbäuchlein', 'Erdbirnenknödelein', 'Erdbirnhäufel', 'Erdbirnlein', 'Erdbirnsnudel', 'Grunbirnlein', 'Grundbirnbällelein', 'Grundbirnbäuchlein', 'Grundbirnchen', 'Grundbirndätschelein', 'Grundbirnenrangelein', 'Grundbirnenränzelein', 'Grundbirnenstutzel', 'Grundbirnentäschlein', 'Grundbirnenwürstlein', 'Grundbirnenzeilein', 'Grundbirnereihlein', 'Grundbirnescheibelein', 'Grundbirnhäuflein', 'Grundbirnlatschen', 'Grundbirnlein', 'Grundbirnscheibel', 'Grundbirnspfannekuchen', 'Grundbirnsplätzlein', 'Grundbirnstätscherlein', 'Quellgrundbirnchen', 'Sauerdbirnlein', 'Säuerdbirnlein', 'Säugrundbirnchen', 'Säugrundbirnlein']"
+bisen,"['Biselein', 'Bisepampel']"
+bisschen,"['Bissel', 'Bisselein', 'Hundsfotzenbisslein', 'Scheißbisslein']"
+bitten,['Bittlein']
+blasen,"['Blasel', 'Blaselein', 'Blaserei', 'Blaserlein', 'Blaslein', 'Bläschen', 'Bläsel', 'Bläselein', 'Bläslein', 'Sonntagsbläschen']"
+Rohr,"['Blasröhrlein', 'Drainageröhrlein', 'Röhrchen', 'Röhrentürlein', 'Röhrl', 'Röhrlein', 'Schnittlauchröhrlein', 'Sporzröhrlein', 'Spörzröhrlein', 'Sürleinsröhrlein', 'Vaterunserröhrlein']"
+Blatt,"['Blattel', 'Blättel', 'Blättlein', 'Butterblättlein', 'Dengelblättchen', 'Dengelblättlein', 'Dorfblättel', 'Dorfblättlein', 'Duftblättlein', 'Dürrblättlein', 'Fehlblättlein', 'Feuerblättlein', 'Fraublättlein', 'Frauenblättel', 'Frauenblättlein', 'Gemeindeblättlein', 'Geschmackblättlein', 'Herzblattel', 'Herzblattlein', 'Herzblättchen', 'Herzblättel', 'Herzblättlein', 'Herzelblättlein', 'Hetschenblättlein', 'Kleeblättlein', 'Knallblättchen', 'Knallblättlein', 'Käsblättlein', 'Lärchenblättlein', 'Mohnblättlein', 'Ohnmachtsblättlein', 'Patakenblättlein', 'Pfauenblättlein', 'Pfefferminzblättlein', 'Pulverblattlein', 'Pulverblättchen', 'Pulverblättlein', 'Rangesblättlein', 'Riechblättel', 'Riechblättlein', 'Rosenblättlein', 'Scheißhausblättel', 'Schießblättchen', 'Schießblättlein', 'Schmeckblättchen', 'Schmeckblättlein', 'Schmeckenblättel', 'Schmeckenblättlein', 'Schmeckensblättlein', 'Schmeckerblattlein', 'Schulterblättlein', 'Schwarzblättlein', 'Sechserblättlein', 'Sensenblättel', 'Sonntagsblättlein', 'Stadtblättel', 'Stadtblättlein', 'Sägblattel', 'Sägblattlein', 'Sägblättel', 'Sägblättlein', 'Sägeblättlein', 'Sägenblattlein', 'Sägenblättlein', 'Tagblattel', 'Tagblättlein', 'Wochenblättel', 'Wochenblättlein', 'Zeitungsblättlein', 'Zündblattel', 'Zündblättchen', 'Zündblättel', 'Zündblättlein']"
+Stiel,"['Blaustielein', 'Krausköhlstiele', 'Mangoldsstiele', 'Mangoldstiele', 'Rechenstielein', 'Runkelstiele', 'Stiele', 'Stielein', 'Stiellein']"
+Blech,"['Blechel', 'Blechlein', 'Essenblechlein', 'Plätzleinsblechlein', 'Reibblechlein']"
+Schaf,"['Blechschäflein', 'Fichtenschäfchen', 'Kellerschäfelein', 'Leuchtschäflein', 'Mauernschäfelein', 'Mauernschäferl', 'Mauernschäflein', 'Mauerschäfchen', 'Mauerschäflein', 'Schafchen', 'Schaflein', 'Schäfchen', 'Schäfel', 'Schäfelein', 'Schäferei', 'Schäferschaufel', 'Schäfersschaufel', 'Schäflein', 'Tannenschäfchen', 'Tannenschäfel', 'Tannenschäflein']"
+blass,['Blesslein']
+bleuen,"['Bleuel', 'Mangbleuel', 'Waschbleuel', 'Wäschebleuel']"
+blind,"['Blindschleichel', 'Blindschleichlein']"
+Scherbe,"['Blumenscherbel', 'Blumenscherbelein', 'Handscherbel', 'Scherbenlein']"
+Topf,"['Blumentöpfel', 'Blumentöpflein', 'Düppchen', 'Henkeltöpflein', 'Kaffeetöpfel', 'Kaffeetöpflein', 'Kästöpflein', 'Milchtöpflein', 'Nachttöpfel', 'Nachttöpflein', 'Salztöpfchen', 'Salztöpflein', 'Schnürpfeltöpfel', 'Schnürpfeltöpflein', 'Schöpftöpflein', 'Töpfchen', 'Töpfedeckel', 'Töpfel', 'Töpflein', 'Wassertöpflein', 'Zötteltöpflein']"
+Nagel,"['Blutnägelein', 'Buschnägelein', 'Gewürznägelein', 'Holznägellein', 'Kornnäglein', 'Nägelchen', 'Nägellein', 'Pfingstnägelein', 'Schuhnägellein', 'Sohlennägellein', 'Studentennägelein', 'Täcksnägellein', 'Zimtnägelein']"
+tropfen,"['Blutströpflein', 'Tropflein', 'Tröpfel', 'Tröpflein']"
+bläken,"['Bläkerei', 'Bläkserei']"
+Gosche,"['Bläkgoschen', 'Goschel', 'Goschelein', 'Goschen', 'Göschchen', 'Göschel', 'Göschlein', 'Kirschengöschlein', 'Pappelgöschel', 'Pappelgöschelein', 'Pappelgöschlein', 'Pfenniggöschlein', 'Pfennigsgöschlein', 'Plappergöschlein', 'Schlappergöschlein', 'Schmollgöschlein', 'Zuckergöschlein']"
+Blatter,['Blätterlein']
+Horn,"['Blätterteighörnlein', 'Butterhörnlein', 'Eichhörnchen', 'Eichhörnel', 'Eichhörni', 'Eichhörnlein', 'Hörnchen', 'Hörnel', 'Hörnlein', 'Kaffeehörnlein', 'Kammhörnlein', 'Kipfhörnlein', 'Leiterhörnlein', 'Milchhörnlein', 'Mohnhörnlein', 'Nusshörnlein', 'Plunderhörnlein', 'Salzhörnlein', 'Schlittenhörnlein', 'Schneckenhörnlein', 'Schnecknhörnchen', 'Teighörnlein', 'Wetzhörnlein', 'Wetzsteinhörnlein', 'Wollehörnlein']"
+Bloch,"['Blöchel', 'Blöchlein', 'Schleifblöchlein', 'Schneidblöchlein']"
+Block,"['Blöcklein', 'Schnurblöcklein', 'Windenblöcklein']"
+Bluse,"['Blüslein', 'Kirchweihblüslein']"
+blühen,['Blütlein']
+Bock,"['Bockel', 'Bockelein', 'Bockerl', 'Bockerlein', 'Bocklein', 'Böckchen', 'Böckel', 'Böckelchen', 'Böckelein', 'Böcklein', 'Dampfbockel', 'Dengelböckel', 'Dengelböcklein', 'Geißböckchen', 'Geißböckel', 'Geißböckelchen', 'Geißböcklein', 'Getreidebockel', 'Hutzebockel', 'Hutzebockelein', 'Hörnerböcklein', 'Kornbockelein', 'Rollenbockel', 'Rollerbockel', 'Schafbockel', 'Stutzbockel', 'Stutzerbockel', 'Stutzerbockelein', 'Tannenbockelein', 'Windböcklein', 'Ziegenböcklein']"
+Haufen,"['Bockhäuflein', 'Erdbirnenhäufel', 'Feldsteinhäuflein', 'Gerstenhäuflein', 'Getreidehäuflein', 'Grummethäuflein', 'Grundbirnenhäufel', 'Haberhäuflein', 'Haufel', 'Häufchen', 'Häufel', 'Häufelein', 'Häuflein', 'Häuftlein', 'Kornhäuflein', 'Kreuzhäuflein', 'Schlumphäuflein', 'Steinhäufelein', 'Steinhäuflein', 'Weizenhäuflein', 'Wetterhäuflein', 'Wiedehäuflein', 'Windhäuflein']"
+Bogen,"['Bogelein', 'Bögelein', 'Böglein', 'Ofenrohrbögelein', 'Rohrbögelein']"
+Eimer,"['Bogeneimerlein', 'Eimerlein', 'Esseneimerlein', 'Essenstrageimerlein', 'Essentrageimerlein', 'Fabrikeimerlein', 'Henkeleimerlein', 'Heueimerlein', 'Marmeladeneimerlein', 'Melkeimerl', 'Melkeimerlein', 'Milcheimerlein', 'Salzeimerlein', 'Suppeneimerlein']"
+Bohne,['Bohnlein']
+bohren,"['Bohrerlein', 'Böhrerlein', 'Böhrlein', 'Nagelböhrlein']"
+Neber,"['Bohrneberlein', 'Nagelneberl', 'Nagelneberlein', 'Neberlein']"
+Rad,"['Bollerrädlein', 'Fahrradlein', 'Pfannkuchenrädlein', 'Radel', 'Radstiftlein', 'Rädel', 'Rädlein', 'Schlagrädlein', 'Särädlein', 'Uhrrädlein', 'Wursträdlein', 'Äpfelrädlein']"
+Bollen,"['Bolli', 'Böllerlein', 'Gassenbolli', 'Hasenböllelein', 'Saubolli', 'Speckböllenlein']"
+Bommel,['Bommelein']
+Bonbon,['Bonbonlein']
+Papier,"['Bonbonleinpapierlein', 'Bonbonpapierlein', 'Bonbonspapierlein', 'Bonbonswickelpapierchen', 'Einwickelpapierlein', 'Feuerpapierlein', 'Feuersteinpapierlein', 'Guteleinpapierchen', 'Gutsleinspapierlein', 'Gutspapierchen', 'Gutspapierlein', 'Leckerleinspapierlein', 'Papierchen', 'Papierlein', 'Patschpapierlein', 'Platzpapierlein', 'Schießpapierl', 'Steinleinpapierlein', 'Steinleinspapierlein', 'Zuckerleinspapierlein', 'Zuckerlpapierlein', 'Zuckerpapierlein', 'Zuckersteinpapierlein']"
+Tüte,"['Bonbontütchen', 'Lohntütlein', 'Trantuttel']"
+Borste,['Borstelein']
+wischen,"['Borstwischlein', 'Faustwischlein', 'Kehrwischlein', 'Strohwischelein', 'Strohwischlein', 'Wischelein', 'Wischerl', 'Wischerlein', 'Wischlein', 'Wüschel', 'Ziegelwuschlein']"
+borzen,['Borzel']
+Bote,"['Botenhafel', 'Botenhäfel', 'Botenkännelein', 'Botschi']"
+Kanne,"['Botenkännlein', 'Essenkännchen', 'Essenkännlein', 'Essentragkännlein', 'Esskännlein', 'Henkelkännlein', 'Kannel', 'Kannelein', 'Kannlein', 'Kännchen', 'Kännel', 'Kännelein', 'Kännlein', 'Milchkannel', 'Milchkannelein', 'Milchkannlein', 'Milchkännchen', 'Milchkännel', 'Milchkännelein', 'Milchkännlein', 'Salzkännchen', 'Suppenkännlein']"
+Martin,"['Bozemärtel', 'Butzemärtel', 'Geifermärtel', 'Hirschenmärtel', 'Katzenmärtel', 'Lachmärtel', 'Luthermartlein', 'Martini', 'Nussmärtel', 'Pelzemärtel', 'Pelzmärtel', 'Pelzmärtelein', 'Pelzmärtlein', 'Pfingstmartel', 'Rollermärtel', 'Rußmärtel']"
+brach,"['Brachelein', 'Bracherlein', 'Brachlein']"
+brack,"['Brackel', 'Brackelein', 'Katzenbrackel', 'Säubrackel']"
+brammeln,"['Brambel', 'Brammel']"
+Brand,"['Brandlein', 'Brändel', 'Brändelein', 'Brändlein', 'Eierbrändlein', 'Erdäpfelsbrändlein']"
+Pratsche,"['Braschel', 'Pratschel']"
+Erde,"['Braterdäpfel', 'Dämpferdäpfel', 'Erdhüttlein', 'Erdäpfelbumblein', 'Erdäpfelspfannkelein', 'Geißerdäpfelein', 'Samenerdäpfel', 'Samerdäpfel', 'Sauerdäpfelein', 'Siloerdäpfel', 'Säuerdäpfelein']"
+Scheibe,"['Bratgrundbirnenscheibelein', 'Erdbirnenscheibelein', 'Erdbirnenschäufelein', 'Erdäpfelscheibelein', 'Erdäpfelschäufelein', 'Grundbirnenklößscheibelein', 'Grundbirnenscheibelein', 'Grundbirnscheibelein', 'Grundbirnschöppelein', 'Kartoffelscheiblein', 'Klößscheibelein', 'Leckscheibelein', 'Scheibel', 'Scheibelein', 'Scheiblein']"
+Brot,"['Bratwurstbrötchen', 'Bratwurstbrötlein', 'Brotbissel', 'Brotbröckelchen', 'Brotbröckelein', 'Brotbröcklein', 'Brotbröselein', 'Brotbröslein', 'Brotkrümel', 'Brotsbröselein', 'Brotschaffelein', 'Brötchen', 'Brötlein', 'Fransbrötlein', 'Kaiserbrötlein', 'Kümmelbrötlein', 'Milchbrötchen', 'Milchbrötlein', 'Mohnbrötlein', 'Mundbrötlein', 'Salzbrötlein', 'Schnittbrötlein', 'Semmelbrötlein', 'Sparbrötchen', 'Sternbrötlein', 'Wasserbrötchen', 'Wasserbrötlein', 'Weckbrötlein', 'Weißbrötchen', 'Wurstbrötel', 'Wurstebrötchen']"
+Hans,"['Bratwursthänslein', 'Hänselein', 'Hänslein', 'Mutterhanselein', 'Prozesshansel', 'Streithansel', 'Wollenhanslein']"
+Semmel,"['Bratwurstsemmelein', 'Maissemmelein', 'Schnittsemmelein', 'Semmelein']"
+Weck,"['Bratwurstweckel', 'Bratwurstwecklein', 'Butterwecklein', 'Eierwecklein', 'Kammwecklein', 'Kindbettwecklein', 'Kreuzerwecklein', 'Kreuzwecklein', 'Kümmelwecklein', 'Milchwecklein', 'Mohnwecklein', 'Mundwecklein', 'Schnittwecklein', 'Spitzwecklein', 'Spulwecklein', 'Wallwecklein', 'Wasserwecklein', 'Weckbroselchen', 'Weckbrötelein', 'Weckchen', 'Weckel', 'Wecklein', 'Wurstwecklein', 'Zipfelwecklein']"
+Wurst,"['Bratwürstchen', 'Bratwürstlein', 'Erdäpfelswürstlein', 'Extrawürstchen', 'Fettwürstlein', 'Fransenwürstlein', 'Grundbirnewürstlein', 'Hanswurstel', 'Haselnussbratwürstlein', 'Haselnusswürstchen', 'Haselnusswürstlein', 'Haselwürstchen', 'Haselwürstel', 'Haselwürstlein', 'Kartoffelwürstlein', 'Leberwürstlein', 'Nachwürstel', 'Salbenwurstel', 'Teigwürstlein', 'Weckwürstlein', 'Würstchen', 'Würstel', 'Würstelein', 'Würstlein', 'Zugabewürstlein', 'Zusammengewurstel']"
+brauen,"['Brauerei', 'Bräumeistersbäuchlein']"
+Brause,['Brauslein']
+jung,"['Brautjungferlein', 'Brautjüngferlein', 'Ehrenjungferlein', 'Jüngelein', 'Jüngferlein', 'Jünglein', 'Pfarrjungferlein', 'Wasserjungferlein']"
+Break,['Breaklein']
+stampfen,"['Breistempel', 'Briefstämpfel', 'Butterstampferlein', 'Butterstämpfel', 'Eisstämpfel', 'Erdäpfelstämpfel', 'Farbstempel', 'Firnisstempel', 'Fleischstämpfel', 'Grundbirnenstämpfel', 'Holzstempel', 'Holzstämpfel', 'Hopfenstämpfel', 'Kartoffelstämpfel', 'Krautstempel', 'Krautstämpfel', 'Krautstämpfelein', 'Rückenstempel', 'Schnapsstamperl', 'Schnapsstamperlein', 'Stampelein', 'Stamperchen', 'Stamperl', 'Stamperlein', 'Stampeslein', 'Stampfel', 'Stampfelein', 'Stampferlein', 'Stempel', 'Stempelchen', 'Stämpelein', 'Stämperlein', 'Stämperslein', 'Stämpeslein', 'Stämpfel', 'Stämpfelein', 'Stämpfeslein', 'Stämpflein', 'Wäschestämpfel', 'Zaunstempel', 'Zwergstämpfelein', 'Ölfarbenstempel', 'Ölfarbstempel']"
+dengeln,"['Breitdengel', 'Dengel', 'Gedängel', 'Schmaldengel', 'Sensendengel', 'Tagdengel']"
+Breme,"['Bremengürtelein', 'Bremlein']"
+Gurt,"['Bremengürtlein', 'Gürtel', 'Mahdergürtel', 'Mähgürtel']"
+Klotz,"['Bremsklötzlein', 'Dengelklötzlein', 'Holzklötzchen', 'Klötzchen', 'Klötzel', 'Klötzlein', 'Schleifklötzlein', 'Schlittenklötzlein', 'Schneidklötzlein', 'Windenklötzlein']"
+Scheit,"['Bremsscheitel', 'Bremsscheitlein', 'Geschirrscheitlein', 'Holzscheitlein', 'Ortscheitel', 'Ortscheitlein', 'Ortsscheitlein', 'Pflugscheitlein', 'Reibscheitel', 'Reibscheitlein', 'Scheitel', 'Scheitlein', 'Schildscheitlein', 'Schillscheitlein', 'Schindscheitlein', 'Sillscheidlein', 'Sillscheitlein', 'Waagenscheitel', 'Waagenscheitlein', 'Waagscheitel', 'Waagscheitlein', 'Wagenscheitlein', 'Ziehscheitlein', 'Zügscheitlein', 'Zügschetlein']"
+Holz,"['Brennhölzlein', 'Brummhölzel', 'Brückhölzlein', 'Bändelhölzlein', 'Feuerhölzchen', 'Feuerhölzlein', 'Garbenbändelhölzlein', 'Garbenhölzlein', 'Garbenstrickhölzlein', 'Holraspel', 'Holzbirnlein', 'Holzhäcklein', 'Holzlein', 'Holzschale', 'Holzstückchen', 'Hölzchen', 'Hölzel', 'Hölzi', 'Hölzlein', 'Kleinhölzel', 'Knotenhölzlein', 'Ritzhölzlein', 'Schlehenhölzerlein', 'Schleifhölzlein', 'Schwefelhölzchen', 'Schwefelhölzlein', 'Seilhölzelein', 'Seilhölzlein', 'Staketenhölzlein', 'Stangenhölzlein', 'Streichhölzchen', 'Streichhölzel', 'Streichhölzlein', 'Streifhölzlein', 'Strickhölzlein', 'Unterhölzlein', 'Wellenholzbüschel', 'Zündhölzchen', 'Zündhölzel', 'Zündhölzlein']"
+Brente,"['Brentlein', 'Spülbrenklein', 'Waschbrenklein']"
+Brestling,"['Brestel', 'Brestlein']"
+Tanne,"['Brettertännlein', 'Tannegickel', 'Tannengaukel', 'Tannenäpfel', 'Tannlein', 'Tännchen', 'Tännlein']"
+zxy,"['Bretthörschel', 'Hüllangel', 'Rühzelein']"
+Breze,"['Brezel', 'Brezelein', 'Brezlein', 'Salzbrezel']"
+torkeln,"['Brezentorkel', 'Schnattertörkel', 'Torkel', 'Torkelein', 'Törkel', 'Törkelein']"
+Marke,['Briefmarklein']
+Briesel,"['Brieslein', 'Frieselein', 'Frieslein']"
+Brille,"['Brillengobel', 'Brillengoggolori']"
+gaukeln,"['Brillengokolori', 'Gagel', 'Gaukel', 'Gaukelein', 'Getreidegaukel', 'Gokolori', 'Gutzegaukel', 'Langgagel', 'Langgaukel', 'Schnickergaukel', 'Sterzgaukel', 'Stolzgaukel', 'Umstandgaukel']"
+Anton,"['Brillentoni', 'Glatzentoni', 'Glockentoni', 'Lätschentoni', 'Plattentoni', 'Schläppentoni', 'Schläpperntoni', 'Toni']"
+Wilhelm,['Brillenwilli']
+brinzeln,['Brinzelein']
+Zucker,"['Brockenzuckerlein', 'Christkindleinszückerlein', 'Kandiszuckerlein', 'Zuckerdutzel', 'Zuckerlein', 'Zuckerwecklein', 'Zückerlein']"
+brodeln,['Brodel']
+Dampf,"['Brotdämpflein', 'Dampferlein', 'Dampfi', 'Dämpfel', 'Dämpflein']"
+Knorz,"['Brotknörzlein', 'Knorzchen', 'Knorzel', 'Knörzchen', 'Knörzel', 'Knörzelein', 'Knörzlein']"
+Krume,"['Brotkrumel', 'Brotkrümelein', 'Brotkrümpel', 'Brotkrümpelein', 'Gekrümel', 'Krampelein', 'Krumpelein', 'Krümel', 'Krümelein', 'Krümpel', 'Krümpelein']"
+Kruste,"['Brotkrüstlein', 'Krustlein', 'Krüstchen', 'Krüstlein', 'Weckkrüstchen']"
+Kasten,"['Brotkästlein', 'Esskästlein', 'Federkästlein', 'Griffelkästlein', 'Hirnkastel', 'Kastel', 'Kastlein', 'Kästchen', 'Kästel', 'Kästelein', 'Kästlein', 'Nistkästlein', 'Rechenkastel', 'Rechenkastlein', 'Rechenkästlein', 'Salzkästel', 'Salzkästlein', 'Schieferkästel', 'Schieferkästlein', 'Schlittkästlein', 'Schreibzeugkästchen', 'Spitzkästlein', 'Starenkästlein', 'Stiftkästlein', 'Stiftleinskästlein', 'Vogelkastel', 'Vögelskästlein']"
+Rank,"['Brotrankelein', 'Brotränkelein', 'Rankel', 'Ränkelein']"
+Rinde,"['Brotrindel', 'Rindel']"
+schnippen,"['Brotschnippel', 'Brotschnippelein', 'Erdbirnenschnippelein', 'Erdäpfelschnippelein', 'Erdäpfelsschnippelein', 'Grundbirnenschnippel', 'Grundbirnenschnippelein', 'Hemdschnipfel', 'Kartoffelschnippelein', 'Klößschnippel', 'Klößschnippelein', 'Papierschnipfel', 'Papierschnippchen', 'Poussierschnipfel', 'Schnipfel', 'Schnipfelein', 'Schnippchen', 'Schnippel', 'Schnippelchen', 'Schnippelein', 'Schnipplein', 'Schnipptelein', 'Schnipsel', 'Wurstschnipfel', 'Wurstschnipfelein', 'Wurstschnippel']"
+tunken,"['Brottunkelein', 'Tunkerlein']"
+Hund,"['Brotzeithündlein', 'Hundeweiblein', 'Hundi', 'Hundsfotzenhäuslein', 'Hundsgoschen', 'Hundspflatschen', 'Hundstrischel', 'Hündlein', 'Lügenhündlein', 'Schoßhündchen', 'Schoßhündlein']"
+brotzen,"['Brotzel', 'Brotzele', 'Brotzlerei', 'Brozel', 'Gebrotzel']"
+Haken,"['Brunnenhäkel', 'Feuerhakel', 'Feuerhakelein', 'Feuerhäkel', 'Hakel', 'Häkel', 'Häkelein', 'Neidhaklein', 'Neidhäkelein', 'Nesthakelein', 'Nesthäcklein', 'Nesthäkchen', 'Nesthäkel', 'Nesthäkelein', 'Nesthäklein', 'Nestkhäkelein', 'Ofenhäkel', 'Schürhäkel', 'Schürhäkelein', 'Schürhäklein', 'Wasserhäkel']"
+Wiese,"['Brunnenwieslein', 'Feldwieslein', 'Wasserwieslein', 'Wiesel', 'Wieslein']"
+brunzen,"['Brunzbröckelein', 'Brunzelein', 'Brunzerei', 'Brunzgretchen', 'Brunzi', 'Brunzstoffel', 'Heckenbrunzelein', 'Kühbrunzerlein', 'Pferdebrünzelein', 'Rainbrunzerlein', 'Säubrunzi']"
+Katharina,"['Brunzkathel', 'Brunzkäthel', 'Brunzkäthelein', 'Kathel', 'Kathelein', 'Käthel', 'Käthelein', 'Kütterlein', 'Lachkäterlein', 'Patschkathel', 'Patschkäthel', 'Quatschkathel', 'Ratschkathel', 'Ratschkattel', 'Ratschkäthel', 'Ratschkättel', 'Schnellkathel', 'Seichkathel', 'Seichkäthel', 'Traschkathel', 'Tratschkathel', 'Weifkathel']"
+Kutte,"['Brunzkuttel', 'Kuttel', 'Kuttelein', 'Seichkuttel']"
+Elisabeth,"['Brunzliesel', 'Liesel', 'Lieselein', 'Lieslein', 'Pappellieschen', 'Patschliesel', 'Petzliesel', 'Putzliesel', 'Schlamperliesel', 'Schmusliesel', 'Schreinersliesel', 'Schrumpfliesel', 'Schwätzliesel', 'Streitliesel', 'Zappelliesel', 'Zuwiderliesel']"
+Würfel,"['Brunzwürfelein', 'Goldwürfelein', 'Nudelwürfelein', 'Platzwürfelein', 'Weckwürfelein', 'Würfelchen', 'Würfelein']"
+Grube,"['Brustgrübelein', 'Brustgrüblein', 'Grübchen', 'Grübel', 'Grübelein', 'Grüblein', 'Gübel', 'Halsgrübelein']"
+Locke,"['Brustlöckchen', 'Lockelein', 'Löckelein', 'Löcklein']"
+Pelz,"['Brustpelzlein', 'Haarpelzchen', 'Pelzi', 'Pelzlein']"
+Brust,['Brustschneckelein']
+Schnecke,"['Brustschnecklein', 'Erdäpfelschnecklein', 'Schneckchen', 'Schneckelein', 'Schneckenhörnchen', 'Schneckerl', 'Schneckerlein', 'Schneckerslein', 'Schneckeslein', 'Schnecki', 'Schnecklein', 'Zuckerschnecklein']"
+Teich,"['Brutteichlein', 'Deichtlein', 'Schlagteichlein', 'Teichlein']"
+brägeln,"['Brägel', 'Brägelein']"
+Brame,['Brämmel']
+Braut,['Bräutlein']
+Brosam,"['Brösel', 'Bröselchen', 'Bröselein', 'Bröslein', 'Gebrösel', 'Kuchenbröselein', 'Oberbrosel', 'Oberbrusel', 'Sagbrusel', 'Semmelbrösel', 'Semmelbröselein', 'Weckbröselchen', 'Weckbröselein']"
+Brücke,"['Brückdiele', 'Brücklein']"
+brühen,"['Brühelein', 'Brühlein']"
+brüllen,"['Brüllerei', 'Brüllerlein', 'Brülli']"
+Brunnen,['Brünnlein']
+Bär,"['Brünzelbärlein', 'Bärchen', 'Bärlein']"
+brüten,"['Brütlein', 'Hitschenbrutlein']"
+Bub,"['Bubelein', 'Bubi', 'Bübel', 'Bübelein', 'Gassenbüblein', 'Lausbubenerei', 'Lausbüberei', 'Lausbüblein', 'Mamabubelein', 'Mamaleinsbüblein', 'Mutterbubelein', 'Mutterbübchen', 'Mutterbüblein', 'Pfatzerbubel', 'Rotzbübel', 'Rotzbüblein', 'Schmalzbubi', 'Spitzbüblein', 'Springerlein', 'Zigarettenbüblein']"
+trätzen,"['Bubenträtzelein', 'Magenträtzelein']"
+Ecker,"['Bucheckel', 'Bucheckerl', 'Bucheckerlein', 'Eckerlein']"
+Buche,"['Buchel', 'Buchelein', 'Buchennüsslein']"
+Büchse,"['Buchsennagel', 'Büchsel', 'Cremebüchslein', 'Essentragbüchsel', 'Federbüchsel', 'Federbüchslein', 'Milchbüchsel', 'Milchbüchslein', 'Nadelbüchslein', 'Nichtsenbüchlein', 'Salzbüchsel', 'Salzbüchselein', 'Salzbüchslein', 'Schmierbüchslein', 'Schmierenbüchslein', 'Schuhcremebüchslein', 'Schuhwichsbüchslein', 'Stiftebüchslein', 'Wichsbüchslein']"
+Buckel,"['Buckelein', 'Bückelein']"
+Bulle,['Bullein']
+Bumbes,"['Bumbeslein', 'Bumpeslein', 'Erdäpfelbumbelein', 'Erdäpfelbumberlein']"
+Bams,['Bumfelein']
+Bummel,"['Bummelein', 'Bummerchen', 'Erdäpfelbummelein', 'Fichtenbummelein', 'Kieferbummelein', 'Tannenbummelein']"
+Bumpel,"['Bumpelchen', 'Bumpelein', 'Bumperlein', 'Bumpfelein', 'Bümperlein', 'Bümpi', 'Hirschbumpelein', 'Pummelchen', 'Pummelein', 'Pummerchen', 'Pummerl', 'Pümmerlein']"
+vier,"['Bumsviertel', 'Dirnenviertel', 'Garbenviertel', 'Getreideviertel', 'Geviertel', 'Heustockviertel', 'Heuviertel', 'Hurenviertel', 'Kornviertel', 'Krachviertel', 'Liebesviertel', 'Mittelviertel', 'Nuttenviertel', 'Puffviertel', 'Rübenviertel', 'Scheuereviertel', 'Scheuerviertel', 'Scheunenviertel', 'Schnallenviertel', 'Stadelsviertel', 'Stadelviertel', 'Streuviertel', 'Strichviertel', 'Strohviertel', 'Tennviertel', 'Vierlein', 'Viertel', 'Viertelein', 'Weizenviertel', 'viertel']"
+Bürger,"['Burgermeisterbäuchlein', 'Burgermeistersbäuchel', 'Burgermeistersbäuchlein', 'Bügermeistersbäuchlein', 'Bürgermeisterbäuchlein', 'Bürgermeistersbäuchlein']"
+bussel,"['Busselein', 'Busserl', 'Busserlein', 'Bussi']"
+butt,"['Buttel', 'Buttelein', 'Patscherbuttel', 'Zeiserbuttlein']"
+Butter,"['Butterbätzlein', 'Butterlein']"
+Pilz,"['Butterpilzel', 'Pilztrempelein']"
+Platz,"['Butterplätzlein', 'Eierplätzlein', 'Erdbirnenplätzlein', 'Erdbirnplätzlein', 'Erdäpfelplätzlein', 'Fleischplatzlein', 'Fransenplätschlein', 'Grundbirnenplätzlein', 'Grundbirneplätzlein', 'Grundbirnsplatzlein', 'Konditorplätzlein', 'Platzel', 'Platzelein', 'Platzerlein', 'Platzki', 'Platzlein', 'Plätschlein', 'Plätzchen', 'Plätzelein', 'Plätzerlein', 'Plätzlein', 'Rahmplätzlein', 'Ruhlein', 'Salzplatzlein', 'Salzplätzchen', 'Salzplätzlein', 'Tropfplätzlein', 'Weihnachtplätzlein', 'Weihnachtsplätzchen', 'Weihnachtsplätzlein', 'Weihnachtszuckerplätzlein', 'Äpfelplätzchen']"
+Sieb,"['Buttersiebel', 'Futtersieblein', 'Gesiebi', 'Kaffeesieblein', 'Mehlsiebelein', 'Mehlsieblein', 'Rührsiebel', 'Siebchen', 'Siebel', 'Sieblein']"
+Butte,"['Buttlein', 'Haferbuttel', 'Haferbuttelein', 'Haferbutterlein', 'Hagebuttelein', 'Hagebutterlein', 'Mehlbüttlein']"
+Mockel,"['Butzelmockelein', 'Butzemockelein', 'Butzmockelein', 'Fichtenmockelein', 'Fohrenmockelein', 'Fohrlmockelein', 'Föhrenmockelein', 'Föhrleinsmockelein', 'Goldmockelein', 'Kellermockelein', 'Kuhmockelein', 'Käsmockelein', 'Mantelmockelein', 'Mockelein', 'Mockerl', 'Mockerlein', 'Märzenmockelein', 'Ochsenmockelein', 'Saufmockelein', 'Streumockelein', 'Tannenmockelein', 'Zitzenmockelein']"
+Igel,"['Butzigelein', 'Lausigelein']"
+Bach,"['Bächlein', 'Hundsbächerlein']"
+bägen,"['Bägerei', 'Mordsbägerei', 'Schafbägelein']"
+Bäker,"['Bäkelein', 'Tannenbäkerlein']"
+Balken,['Bälklein']
+bambern,['Bämberlein']
+Bambes,['Bämbeslein']
+Strick,"['Bänderstricklein', 'Bürdenstricklein', 'Garbenstricklein', 'Garbstrickel', 'Garbstricklein', 'Gestricki', 'Kornstricklein', 'Strickchen', 'Strickel', 'Strickerei', 'Stricklein', 'Strohstricklein', 'Ährenstricklein']"
+Bank,"['Bänkchen', 'Bänklein', 'Dengelbänklein', 'Eselsbanklein', 'Fensterbanklein', 'Fensterbänkel', 'Fensterbänklein', 'Fußbankel', 'Fußbänklein', 'Griffelbänklein', 'Holzbänklein', 'Knüpfelbänklein', 'Schlittenbänklein', 'Schuhbänklein']"
+Bärches,"['Bärchelein', 'Bärcheslein']"
+Hammel,"['Bätzhammelein', 'Hammelein', 'Hammlein', 'Hämmelein', 'Märzenhammelein', 'Stutzhammelein']"
+Böcht,['Böchtlein']
+Böhme,['Böhmakel']
+Boz,"['Bözlein', 'Sackbozel', 'Wozel']"
+Bube,['Büblein']
+Buch,"['Büchel', 'Büchlein', 'Gebetsbüchlein', 'Traumbüchel', 'Traumbüchlein']"
+Büche,['Büchslein']
+Büfett,['Büfettlein']
+Büffel,['Büffelein']
+Bummer,['Bümmerlein']
+Büro,['Büromadlein']
+Bürste,"['Bürstlein', 'Handbürstlein', 'Stuhlbürstlein']"
+Bürzel,['Bürzelein']
+Chabeso,['Chabesolein']
+Chaise,"['Chaisegäulein', 'Chaiselein', 'Kinderchaiselein']"
+Champignon,['Champelein']
+Apfel,"['Christbaumäpfelein', 'Erdapfelpamperlein', 'Erdapfelpoppelein', 'Erdapfelpämperlein', 'Erdäpfelbackelein', 'Erdäpfelbackeslein', 'Erdäpfelbalferlein', 'Erdäpfelbartelein', 'Erdäpfelbaunzerlein', 'Erdäpfelbettlein', 'Erdäpfeldatschelein', 'Erdäpfeldrücklein', 'Erdäpfelein', 'Erdäpfelgraberei', 'Erdäpfelkrapflein', 'Erdäpfelpatschelein', 'Erdäpfelpfankelein', 'Erdäpfelpfannkelein', 'Erdäpfelpfannkuchen', 'Erdäpfelrainlein', 'Erdäpfelrangenlein', 'Erdäpfelsbackeslein', 'Erdäpfelschale', 'Erdäpfelschmalzerlein', 'Erdäpfelsdütschen', 'Erdäpfelsdütschlein', 'Erdäpfelskrapflein', 'Erdäpfelspfankelein', 'Falläpfelein', 'Holzäpfelein', 'Konfirmandenäpfelein', 'Mostäpfelein', 'Paradiesäpfelein', 'Pferdeäpfelein', 'Pfingstäpfelein', 'Podäpfelein', 'Säuäpfelein', 'Waldäpfelein', 'Äpfelbackelein', 'Äpfelchen', 'Äpfelein', 'Äpfelkrapflein', 'Äpfelpfannkelein', 'Äpfelplatzlein', 'Äpfelsbäcklein', 'Äpfelschale']"
+Christus,['Christkindchen']
+Kind,"['Christkindlein', 'Flaschenkindlein', 'Herzenskindlein', 'Kinderei', 'Kinderlein', 'Kindlein', 'Pappelkindlein']"
+Woche,"['Christwochen', 'Stöberwochen', 'Wochen']"
+Chor,['Chörlein']
+Crispinus,"['Cripslein', 'Crispelein', 'Crisperl', 'Crispinselein', 'Crispinslein']"
+Crispínus,['Crispel']
+Dach,"['Dachkännel', 'Dächel', 'Dächelchen', 'Dächlein', 'Kappendächel', 'Kappendächlein', 'Schirmdächel', 'Sonnendächlein']"
+reiten,"['Dachreiterlein', 'Reiterlein']"
+rinnen,['Dachrinnsal']
+Ross,"['Dachrösslein', 'Rosskümmel', 'Rösslein']"
+Dackel,['Dackelein']
+damisch,"['Dampel', 'Dämel', 'Heudamel']"
+Dampes,"['Dampeslein', 'Dämperlein']"
+dasig,['Dasel']
+Daut,"['Dauchelein', 'Dauchtelein', 'Dautelein', 'Däutelein']"
+Daumen,"['Daumerlein', 'Däumel', 'Däumelein']"
+Deichsel,['Deichselein']
+Amboss,['Dengelambosslein']
+platt,"['Dengelplättel', 'Eisplättlein', 'Plattel', 'Platteneini', 'Plattenhiesel', 'Plattenseppel', 'Plattlein', 'Plättel', 'Plättlein', 'Verschlussplättlein']"
+Depp,"['Deppel', 'Deppelein', 'Depperl', 'Depperlein', 'Deppetel', 'Deppi', 'Schuldeppelein']"
+dezimal,['Dezimalein']
+dick,"['Dickelein', 'Dickerchen', 'Dickerl', 'Dickerlein', 'Dickeschen']"
+Diele,"['Dielein', 'Dieselein']"
+Ding,"['Dingelein', 'Dinglein', 'Kühdinglein']"
+diskutieren,['Diskutiererei']
+Docht,"['Dochtel', 'Döchtelein', 'Döchtlein']"
+Docke,"['Dockelein', 'Döckelein', 'Döcklein', 'Feuerdockelein', 'Junidockelein', 'Korndockelein', 'Maisdockelein', 'Maisdöckelein', 'Mohndockelein', 'Schlafdockelein', 'Tanzdockelein', 'Zuckerdockelein']"
+Dolde,"['Doldelein', 'Döldelein', 'Döldlein']"
+Donner,['Donnerwettskerl']
+doof,"['Doofelein', 'Dooferlein', 'Doofi']"
+doppel,['Doppeldoldi']
+hobeln,"['Doppelhobel', 'Dreckshobel', 'Füghobel', 'Gesimshobel', 'Hobel', 'Hobelein', 'Krauthobel', 'Rundhobel', 'Schiffshobel']"
+dreschen,"['Dorfdrischel', 'Dreckdrischel', 'Drescherei', 'Drischel', 'Gänsedreschlein', 'Hundsdrischel']"
+raspen,"['Dorfraspel', 'Geraspel', 'Holzraspel', 'Hufraspel', 'Raspel', 'Säraspel']"
+See,"['Dorfseelein', 'Fischseelein', 'Seelein']"
+Dorf,"['Dorftrummel', 'Dörflein']"
+Zaine,['Dorrzainlein']
+dos,"['Dosel', 'Döselein', 'Döstlein']"
+Dose,"['Doselein', 'Dösel', 'Döslein', 'Schmierdöslein', 'Schuhputzdöslein', 'Schuhwichsdöslein', 'Wichsdöslein']"
+Dotsch,"['Dotschelein', 'Dotschi', 'Linkerdotschi']"
+Drache,"['Drachen', 'Gewitterdrachen', 'Hausdrachen']"
+drall,['Drallelein']
+Dreck,"['Dreckelchen', 'Dreckelein', 'Drecklein', 'Hundsdrecklein', 'Hühnerdrecklein', 'Katzendrecklein', 'Mausdrecklein', 'Scheißdrecklein']"
+Rand,"['Dreckrändlein', 'Knopflochrändlein', 'Lochrändlein', 'Randlein', 'Rändel', 'Rändelein', 'Rändlein', 'Samträndlein', 'Trauerrändlein']"
+Schippe,"['Dreckschippchen', 'Dreckschipplein', 'Kehrschipplein', 'Schippchen', 'Schipplein']"
+Schwanz,"['Dreckschwanzlein', 'Haselnussschwänzlein', 'Haselschwänzlein', 'Hasenschwänzlein', 'Hasenschänzlein', 'Hemdschwänzel', 'Hemdschwänzlein', 'Katzenschwänzlein', 'Lämmerschwänzlein', 'Maisschwänzlein', 'Mädleinsschwänzelein', 'Rainschwänzlein', 'Rattenschwänzlein', 'Ratzenschwaänzel', 'Ringelschwanzel', 'Ringelschwanzlein', 'Ringelschwänzchen', 'Ringelschwänzlein', 'Ringleinsschwänzlein', 'Rotschwänzlein', 'Runzelschwänzlein', 'Sauschwanzel', 'Sauschwanzlein', 'Sauschwänzel', 'Sauschwänzlein', 'Schwanzel', 'Schwanzlein', 'Schwänzchen', 'Schwänzel', 'Schwänzlein', 'Stummelschwänzchen', 'Stummelschwänzlein', 'Säuschwanzel', 'Säuschwanzlein', 'Säuschwänzchen', 'Säuschwänzel', 'Säuschwänzlein']"
+Suckel,"['Drecksuckelein', 'Krätzensuckelein', 'Milchsuckelein', 'Milchsuckerl', 'Saufsuckelein', 'Saugsuckelein', 'Schuckelein', 'Schuckerl', 'Suckelein', 'Suckelsäulein', 'Suckerl', 'Sucksäulein', 'Sückelein', 'Tschuckelein']"
+wimmeln,['Dreckwimmel']
+drehen,['Dreherlein']
+geben,"['Dreingeberlein', 'Dreingäbelein', 'Zugeberlein', 'Zugebsel', 'Zugäbelein']"
+rumpeln,"['Dreschrumpel', 'Gerumpel', 'Gerümpel', 'Mannsbilderrumpel', 'Matzrumpel', 'Rumpel', 'Rumpelein', 'Rümpelein', 'Schneerömpel', 'Schneerümpel', 'Waschrumpel', 'Wäscherumpel']"
+drollig,['Drolli']
+Drossel,['Drostlein']
+gacken,"['Drudengackelein', 'Froschgackel', 'Froschgackelein', 'Fröschgackel', 'Fröschgackelein', 'Gackel', 'Gackelchen', 'Gackerl', 'Gackerlein', 'Gackgackgackgackei', 'Gahwiezel', 'Hasengackel', 'Hasengackelein', 'Hexengackelein', 'Hitschengackelein', 'Judengackelein', 'OStergackelein', 'Ostergackelei', 'Ostergackelein', 'Osterhasengackelein', 'Schwartengackelein', 'Tannengackel', 'Tannengackelein', 'Vogelgackelein']"
+Drude,"['Drudlein', 'Drüdlein']"
+Drussel,['Drusselein']
+Duckmäuser,"['Duckmäusel', 'Duckmäuselein']"
+Maus,"['Ducksmäuslein', 'Mauschen', 'Mausel', 'Mauselein', 'Mausi', 'Mausilein', 'Mausährlein', 'Mausöhrchen', 'Mäuschen', 'Mäusel', 'Mäuselein', 'Mäuslein', 'Spitzmäuslein', 'Zuckermäuslein']"
+Dudenierel,['Dudenierlein']
+dumm,"['Dummerlein', 'Dummi']"
+Tür,"['Dungtürel', 'Dungtürlein', 'Einsetztürlein', 'Hosentürlein', 'Hühnertürl', 'Hühnertürlein', 'Röhrtürlein', 'Türlein', 'Türschemel', 'Wagentürlein']"
+schreiben,"['Durcheinandergeschrei', 'Geschreibi', 'Schreibelein', 'Schreiberei', 'Schreiberlein']"
+Dorothea,"['Durl', 'Hexendurl', 'Krawalldurl', 'Lumpendurl', 'Saufdurl', 'Schlamperdurl', 'Schnapsdurtel', 'Seichdurl']"
+Dusel,"['Duselein', 'Dusselein']"
+dus,['Dusterwittchen']
+Trutschel,['Dutschelein']
+Dutte,"['Duttel', 'Duttelchen', 'Duttelein', 'Düttelein', 'Dütti', 'Hundsdüttel']"
+Dutzel,"['Dutzelein', 'Dutzi', 'Dützi']"
+dachteln,['Dächtel']
+Dame,['Dämlein']
+Damm,['Dämmlein']
+Dausch,['Däuschlein']
+Dolle,['Döllein']
+Dorn,['Dörnlein']
+Dübel,['Dübellein']
+tun,"['Düdel', 'Geheimtuerei', 'Getui', 'Heimlichtuerei', 'Zutuerlein']"
+dudeln,"['Düdelerei', 'Gedudel', 'Gedüdel', 'Träumdudel']"
+Duft,['Düftel']
+Tümpel,"['Dümpfi', 'Tümpfelein']"
+dürr,['Dürrappel']
+leben,['Dürrleberlein']
+Dutt,['Düttlein']
+Ecke,"['Eckelein', 'Ecklein', 'Goschenecklein', 'Mauleckelein', 'Ruheckelein', 'Seichecklein', 'Vierecklein']"
+Eiche,"['Eichel', 'Eichelein', 'Eicherl', 'Eichlein', 'Eichnelein', 'Kräheneichel']"
+Eidechse,['Eidechslein']
+ei,"['Eieilein', 'Eielein']"
+Fladen,"['Eierflädlein', 'Erdbirnenflädelein', 'Fladelein', 'Flädlein', 'Geschwimmflädlein', 'Schwimmflädlein', 'Schwingflädlein']"
+Gucke,"['Eierguckel', 'Guckel', 'Starenguckel']"
+Ei,"['Eierlein', 'Eierpfankel', 'Eierwämmlein', 'Eilein', 'Froscheierlein', 'Fröscheierlein', 'Fröscheilein', 'Haseneierlein', 'Ostereilein']"
+Nest,"['Eiernestlein', 'Haarnestel', 'Haarnestlein', 'Hasennestlein', 'Nestel', 'Nestlein', 'Ostereiernestlein', 'Osternestlein']"
+Pfiffer,"['Eierpfifferlein', 'Fleischpfifferlein', 'Gelbpfifferlein', 'Maipfifferlein', 'Mückenpfifferlein', 'Pfifferlein', 'Rainpfifferlein', 'Rauchpfifferlein', 'Regenpfifferlein', 'Schnupftabakpfifferlein', 'Stockpfifferlein', 'Teufelspfifferlein', 'Wiesenpfifferlein']"
+Schelfe,['Eierschelflein']
+Wamme,['Eierwärmlein']
+brennen,"['Einbrennlein', 'Mehleinbrennchen']"
+ein,['Einfallspinsel']
+Kummer,"['Einmachkümmerlein', 'Einschneidekümmerlein', 'Esskümmerlein', 'Kummerlein', 'Kümerlein', 'Kümmerlein', 'Maiskümmerlein', 'Salatkümmerchen', 'Salatkümmerlein', 'Salzkümmerlein', 'Schlangenkümmerlein', 'Schälkümmerlein']"
+siedeln,['Einsiedel']
+einzel,"['Einzelein', 'Einzerlein']"
+Eisen,"['Eischen', 'Eiselein', 'Eisenstiefel', 'Eislein', 'Kufeneislein', 'Reibeisel', 'Reibeiselein', 'Reibeislein', 'Riebelein', 'Schlitteneislein', 'Spekuliereislein']"
+decken,"['Eisdeckelein', 'Eisdecklein', 'Tischdecklein']"
+Berta,['Eisenberti']
+Keil,"['Eisenkeitel', 'Holzkeitel', 'Keilein', 'Keilerei', 'Keitel']"
+Täcks,"['Eisentäcksel', 'Eisentäckslein', 'Holztäcksel', 'Holztäckslein', 'Schuhtäckslein', 'Täcksel', 'Täckselein', 'Täckslein']"
+zwicken,"['Eisenzwickel', 'Maulzwickelein', 'Nasenzwickerlein', 'Wäschezwickel', 'Wäschezwickelein', 'Wäschezwickerl', 'Wäschezwickerlein', 'Wäschzwickerlein', 'Zwickel', 'Zwickelein', 'Zwickerl', 'Zwickerlein']"
+Haut,"['Eishäutlein', 'Häutchen', 'Häutel', 'Häuterlein', 'Häutlein', 'Nagelhäutlein']"
+Schicht,['Eisschichtlein']
+Schwarte,"['Eisschwärtlein', 'Geschwärtel', 'Schwartel', 'Schwärtlein']"
+Schub,"['Eisschübel', 'Grasschübel', 'Schneeschübel', 'Schuberlein', 'Schübel']"
+Stich,"['Eisstichel', 'Mückenstichlein', 'Pferdstichel', 'Schneestichel', 'Stichel', 'Stichlein']"
+Pocke,"['Eiterpfücklein', 'Eiterpöckelchen', 'Fücklein', 'Fückslein', 'Pfuchlein', 'Pfäuklein', 'Pfückchen', 'Pfückelein', 'Pfücklein', 'Pfückslein', 'Pfützlein', 'Pöckchen', 'Pöckel', 'Pöckelchen', 'Püchlein']"
+Pickel,"['Eiterpickelein', 'Pickelchen', 'Pickelein']"
+Eiß,"['Eißlein', 'Geeißlein']"
+Knoppe,"['Elektrisierknöppelein', 'Garbenknöppelein', 'Knopperlein', 'Knöppchen', 'Knöppelchen', 'Knöppeleinbrei', 'Knöpperlein']"
+treten,['Elfentrittchen']
+Krelle,['Ellenkrellein']
+Eller,"['Ellerlein', 'Schaffellerlein']"
+Ende,"['Endel', 'Endlein']"
+Engel,"['Engelchen', 'Engelein', 'Engelsbäcklein', 'Lehrerengelein', 'Schneeengelein']"
+Anke,['Enkel']
+Enkel,['Enkelein']
+wackeln,"['Entenwackelein', 'Gewackel', 'Wackel', 'Wackelein', 'Wackerl', 'Wackeslein', 'Zischewackel']"
+Wieber,"['Entenwieberlein', 'Gänsewieberlein', 'Wiebelein', 'Wieberlein']"
+Ente,['Entlein']
+Rang,"['Erbirnenränglein', 'Erdbirnenrängelein', 'Erdbirnleinränglein', 'Erdäpfelrängelein', 'Grundbirnerangelein', 'Rangelein', 'Ranglein', 'Rängelein', 'Rängerlein', 'Ränglein']"
+schleichen,"['Erbschleicherei', 'Schleicherlein']"
+Erbse,"['Erbslein', 'Kichererbslein']"
+horgeln,"['Erdbirnehorgelein', 'Horgel', 'Hurgel', 'Hurgelein', 'Hörgel', 'Schneehorlein', 'Schneehurgel', 'Schneehürgel']"
+Furche,"['Erdbirnenfürchlein', 'Erdbirnfürchlein', 'Erdäpfelfürchlein', 'Furchen', 'Furchlein', 'Fürchlein', 'Grundbirnenfürchlein', 'Kartoffelfurchen', 'Sommerfurchen']"
+Hieb,"['Erdbirnenhieblein', 'Erdäpfelshieblein', 'Hackhiebelein', 'Hiebslein', 'Häulein', 'Rebenhieblein', 'Spitzhieblein', 'Stöckhiebelein', 'Stöckhieblein']"
+Nocke,"['Erdbirnennockelein', 'Erdäpfelnockerlein', 'Nockelein', 'Nocklein']"
+Schock,"['Erdbirnenschockelein', 'Schöckel']"
+schoppen,"['Erdbirnenschoppelein', 'Erdbirnschoppelein', 'Fransenschoppelein', 'Geschopsel', 'Grundbirnenschöppelein', 'Haarschoppel', 'Klößschöppelein', 'Schoppel', 'Schoppelein', 'Schopperlein', 'Schöppel', 'Schöppelein', 'Schöpperl']"
+Reihe,"['Erdbirnreihelein', 'Erdäpfelsreihelein', 'Reihelein', 'Reihlein', 'Rübenreihelein']"
+schnitzen,"['Erdbirnschnitzelein', 'Erdäpfelschnitzlein', 'Schnipselein', 'Schnitzel', 'Schnitzelein', 'Schnitzerlein', 'Schnitzlein', 'Zuckerrübenschnitzel', 'Äpfelschnitzlein']"
+Mande,"['Erdmändlein', 'Mandel']"
+Pamper,"['Erdäpfelpamperlein', 'Hannepampel', 'Hasenpämperlein', 'Mehlpämperlein', 'Pamperlein', 'Pampferlein', 'Pämperlein']"
+patschen,"['Erdäpfelpatscherlein', 'Grundbirnpatschelein', 'Grundbirnspatscherlein', 'Händpatschelein', 'Kartoffelpatschelein', 'Patschel', 'Patschelein', 'Patscherei', 'Patscherlein', 'Patschi', 'Patschlein', 'Pätschelein', 'Pätscherlein', 'Pätschlein', 'Tollpatschelein']"
+Pflug,"['Erdäpfelpflüglein', 'Pflugscharrlein', 'Pflugschäuferl', 'Pflugstössel', 'Schneepflüglein']"
+Poppe,"['Erdäpfelpoppelein', 'Haarpoppel', 'Haarpöpperlein', 'Hasenpoppelein', 'Hasenpöppelein', 'Herzenspoppelein', 'Herzepoppel', 'Herzepoppelein', 'Herzipoppi', 'Herzpoppelein', 'Hirschpoppelein', 'Hirschpöppel', 'Lehrerpoppel', 'Lehrerpoppelein', 'Maispoppel', 'Maispoppelein', 'Maispöppelein', 'Märzenpoppelein', 'Pappelpoppelein', 'Poppel', 'Poppelchen', 'Poppelein', 'Pöppel', 'Schneepoppel', 'Schwitzpöppelein']"
+puffen,"['Erdäpfelpufferlein', 'Grundbirnenpufferlein', 'Pufferlein']"
+Brei,['Erdäpfelsbreilein']
+Stolle,"['Erdäpfelstöllein', 'Kümmelstöllchen', 'Kümmelstöllein', 'Kümmelstöllelein', 'Kümmelstöllerl', 'Mohnstollein', 'Mohnstöllchen', 'Mohnstöllein', 'Mohnstöllelein', 'Salzstöllchen', 'Salzstöllein', 'Salzstöllelein', 'Semmelstöllein', 'Stollchen', 'Stollein', 'Stollwecklein', 'Stöllchen', 'Stöllein', 'Stöllelein', 'Stöllerl']"
+Transch,"['Erdäpfeltränschlein', 'Transchelein', 'Transcherdäpfel', 'Tränschlein']"
+Wickel,"['Erdäpfelwickelein', 'Wickelein']"
+Erker,['Erkerlein']
+Erle,"['Erlein', 'Roterlein', 'Weißerlein']"
+Elritze,['Erlitzlein']
+Gabel,"['Erntegabelein', 'Erntegäbelein', 'Früchtegäbelein', 'Gabelchen', 'Gabelein', 'Garbengabelein', 'Getreidegabelein', 'Getreidgabelein', 'Gäbelein', 'Gäblein', 'Heugabelein', 'Heugäbelein', 'Korngäbelein', 'Spießgäbelein', 'Stechgäbelein', 'Ährengäbelein']"
+Ernte,['Ernterechen']
+scheu,"['Erntescheusal', 'Kellerscheusal', 'Mäusscheusal', 'Scheusal', 'Strohscheusalein']"
+Geiß,"['Erstlingsgeißlein', 'Geißchen', 'Geißel', 'Geißelein', 'Geißhäppelein', 'Geißlein', 'Haberngeißlein', 'Kieferngeißlein', 'Tannengeißlein', 'Zuchtgeißlein']"
+Esche,"['Eschelein', 'Eschlein', 'Langeschel']"
+Esel,"['Eselein', 'Traumeselein']"
+essen,"['Essendüppchen', 'Esserei', 'Esshäfelein', 'Mitesserlein']"
+Kübel,"['Essenkübelein', 'Esskübelein', 'Holzkübelein', 'Kuhkübelein', 'Kübelein', 'Mehlkübelein', 'Melkkübelein', 'Milchkübelein', 'Salzkübelein', 'Schmalzkübelein', 'Schöpfküblein', 'Suppenkübelein', 'Wasserkübelein']"
+Tender,['Essentenderlein']
+tragen,"['Essentragel', 'Essentragelein', 'Essentragerl', 'Essentragerlein', 'Essentragtöpflein', 'Essenträgerlein', 'Pfarrsträgel', 'Suppentragerlein', 'Suppenträgerl', 'Suppenträgerlein', 'Tragel', 'Tragerlein', 'Trägel', 'Trägerlein', 'Trägernagel', 'Wedelträgerlein']"
+Krug,"['Essigkrüglein', 'Krügel', 'Krüglein', 'Milchkrügel', 'Milchkrüglein', 'Steinkrüglein', 'Wetzsteinkrüglein']"
+Mücke,"['Essigmücklein', 'Herrgottsmückelein', 'Kühemücklein', 'Mückel', 'Mückelein', 'Mücklein']"
+Latz,"['Esslätzlein', 'Geiferlatzel', 'Geiferlatzlein', 'Geiferlätzchen', 'Geiferlätzel', 'Geiferlätzlein', 'Latzel', 'Latzlein', 'Lätzchen', 'Lätzel', 'Lätzlein', 'Schlabberlätzlein']"
+Schrank,"['Essschränklein', 'Fliegenschränklein', 'Glasschränklein', 'Kannelschränklein', 'Kannenschränklein', 'Küchenschränkel', 'Küchenschränklein', 'Obstschränklein', 'Schränklein', 'Speisschränklein', 'Vorratsschränklein']"
+Etage,['Etagerelein']
+Etikett,['Etikettlein']
+Fachoze,['Fachozi']
+Fack,"['Fackel', 'Fackelein', 'Milchfackelein']"
+Fageln,['Fagel']
+Fahne,"['Fahnelein', 'Fahnerlein', 'Fähnchen', 'Fähnel', 'Fähnlein', 'Troddelfähnlein']"
+fahren,"['Fahrerei', 'Fuhrlein', 'Führlein']"
+Meister,"['Fallmeisterei', 'Meisterlein', 'Schulmeisterlein']"
+Schirm,"['Fallschirmchen', 'Fallschirmlein', 'Regenschirmchen', 'Regenschirmlein', 'Schirmchen', 'Sonnenschirmlein']"
+falzen,['Falzhobel']
+fangen,"['Fangelein', 'Gimpelfängerei']"
+Fant,"['Fantel', 'Fantelein']"
+Farbe,['Farbbeutel']
+Faser,"['Fasel', 'Faserlein']"
+Zelte,"['Fastenzeltlein', 'Zeltchen', 'Zeltel', 'Zeltlein']"
+Fasan,['Fasänlein']
+Fatsche,['Fatschen']
+Fatzschnur,['Fatzschnürlein']
+Faxe,"['Faxerei', 'Fixfaxerei']"
+Fechser,['Fechserlein']
+grapschen,"['Federgrapschel', 'Grapscherlein']"
+Feder,"['Federlein', 'Schneefederlein']"
+Mappe,['Federmäpplein']
+fegen,"['Fegerlein', 'Feglein', 'Fegsel', 'Handfegerlein', 'Krottenfegsel', 'Schlotfegerlein']"
+fehlen,['Fehlblättchen']
+Tag,['Feiertagsgurgel']
+Feile,"['Feihelein', 'Feilein', 'Feilel', 'Feilelein', 'Feitel']"
+Feim,"['Feimelein', 'Feimlein']"
+Feld,"['Feldel', 'Feldwebel', 'Stabsfeldwebel']"
+Tiegel,"['Feldtiegelein', 'Schmalztiegelein', 'Schmiertigelein', 'Schöpftiegelein', 'Tiegelein', 'Wasserkrantiegelein', 'Wassertiegelein']"
+Felge,"['Felgelein', 'Felglein', 'Lachfelgelein', 'Schlitzohrenfelglein']"
+Fenster,['Fensterchen']
+Rahmen,"['Fensterrähmlein', 'Rähmlein', 'Türrähmelein']"
+Sims,['Fenstersimslein']
+Ferkel,"['Ferkelchen', 'Ferkelein', 'Ferklein', 'Spanferkelein']"
+Fesen,['Feselein']
+Fesel,['Feslein']
+Polster,"['Fettpölsterlein', 'Pölsterlein']"
+Fetzen,"['Fetzel', 'Fetzelein', 'Fetzlein', 'Finzelein', 'Fitzelein', 'Papierfetzlein', 'Papierfitzelein', 'Reklamierfetzlein', 'Zündfetzlein']"
+Feuer,"['Feuerl', 'Feuerlein']"
+Fichte,"['Fichtel', 'Fichtenkühlein', 'Fichtennadel', 'Fichtenäpfel', 'Fichtlein', 'Kirchweihfichtlein']"
+fickeln,"['Fickel', 'Gefickel', 'Herumgefickel']"
+Fiesel,['Fieselein']
+Figur,['Figurchen']
+Finger,"['Fingerchen', 'Fingerl', 'Fingerlein']"
+Hut,"['Fingerhütlein', 'Hagehütlein', 'Hutel', 'Hütlein', 'Judenhütchen', 'Kapotthütel', 'Kapotthütlein', 'Kupferhütlein', 'Pfaffenhütchen', 'Tirolerhütel', 'Zündhütchen', 'Zündhütel', 'Zündhütlein']"
+Knaup,"['Fingerknöppel', 'Knoppelein', 'Knöppel', 'Knöppelein', 'Knüppel', 'Knüppelein', 'Schnapsknöppelein']"
+Nudel,"['Fingernudelein', 'Kartoffelnudelein', 'Nudelein', 'Nudelstäbchen', 'Nüdelein']"
+Pratze,"['Fingerprätschen', 'Pratzelein']"
+Fink,['Finklein']
+finzen,['Finzlein']
+firm,['Firmbündel']
+Friedrich,"['Fischfritzlein', 'Zappelfritzlein']"
+Kranz,"['Fischkränzlein', 'Kränzchen', 'Kränzel', 'Kränzlein', 'Nusskränzlein', 'Rosenkranzel', 'Rosenkränzlein']"
+Fisimatenten,"['Fisimagockelein', 'Fisimatentelein']"
+fitzen,['Fitzerlein']
+Fize,['Fizelein']
+Reiste,"['Flachsreistlein', 'Reistlein']"
+gankeln,"['Flammengankel', 'Gankel', 'Gankelein', 'Gankerlein', 'Ohrgankelein', 'Schangankel', 'Springinkel', 'Spritzginkel']"
+flandern,"['Flandelein', 'Flanderlein']"
+Flank,"['Flankel', 'Flankelein', 'Flankerl']"
+Pfropf,"['Flaschenpfropfel', 'Pfropfel', 'Pfröpfel', 'Pfröpflein', 'Pförpfel', 'Pförpfelein', 'Propfel', 'Propfelein', 'Pröpfel']"
+Flat,['Flatel']
+Flaum,['Flaumfederlein']
+Franse,"['Fleischfränslein', 'Fransküchlein', 'Gefransi']"
+Fleisch,['Fleischfässlein']
+pflanzen,"['Fleischpflanzel', 'Fleischpflanzlein', 'Köhlpflänzchen', 'Pflanzlein', 'Pflänzchen', 'Pflänzel', 'Pflänzlein', 'Rangepflänzlein', 'Rangesenpflänzlein', 'Rangespflänzlein', 'Rummelsepflänzlein', 'Runkelpflänzlein', 'Rübenpflänzlein', 'Salatpflänzlein', 'Schotenpflänzlein', 'Setzpflänzlein']"
+Schaff,"['Fleischschäffel', 'Fleischschäfflein', 'Handschäffel', 'Kälberschäfflein', 'Saufenschäffel', 'Schäffel', 'Schäffelein', 'Schäfferl', 'Schäfflein', 'Säuschäfflein', 'Tränkschäffel', 'Tränkschäfflein', 'Wasserschäffel', 'Wasserschäfflein']"
+Stücht,"['Fleischstüchtlein', 'Salzstüchtlein']"
+Tonne,"['Fleischtönnchen', 'Tönnlein']"
+flennen,['Flennerei']
+Maul,"['Fletschmäulein', 'Kirschmäulein', 'Leckermäulchen', 'Leckermäullein', 'Maulerei', 'Muli', 'Mäulchen', 'Mäulein', 'Pappelmäulchen', 'Pappelmäulein', 'Pappelmäullein', 'Pfennigmäulchen', 'Plappermäulchen', 'Plappermäulein', 'Puppenmäulchen', 'Schafmäulein', 'Schleckermäulein', 'Schmollmäulein', 'Süßmäulchen']"
+flicken,['Flickerei']
+Pfusch,"['Flickpfuscherei', 'Pfuscherei']"
+Schuster,['Flickschusterei']
+Georg,"['Fliegengirgel', 'Gerglein', 'Girgel', 'Gänsgergel', 'Hansgirgel', 'Heringsgerglein', 'Jörglein', 'Latschengori', 'Pomadengirgel', 'Schloddergori', 'Schürgergel']"
+heichen,['Fliegenheichsel']
+fliegen,"['Fliegerlein', 'Flugnandel']"
+Flimmer,"['Flimmel', 'Flimmerlein']"
+Flinse,['Flinslein']
+Flint,['Flintlein']
+Flitsch,"['Flitschelein', 'Flitschlein']"
+flittern,"['Flittchen', 'Flittlein']"
+flunkern,['Flunkerei']
+flach,['Flächel']
+Flocke,"['Flöcklein', 'Schneeflöckchen', 'Schneeflöcklein']"
+Floh,['Flöhlein']
+pfletschen,"['Flönscherei', 'Pflenscherei', 'Pfletscherei', 'Pflutschel']"
+Fluss,['Flösschen']
+Flöte,['Flötlein']
+Flügel,"['Flügelein', 'Flügellein']"
+Fohlen,['Fohlein']
+Föhre,"['Fohrel', 'Fohrenbutzelein', 'Fohrlein', 'Föhrel', 'Föhrenbutzel', 'Föhrlein']"
+quack,"['Fohrquackelein', 'Nestquackchen', 'Nestquackel', 'Nestquackelein', 'Nestquacklein', 'Nestquäcklein', 'Nestquäklein', 'Quackel', 'Quackelchen', 'Quackelein', 'Quackerlein', 'Quagel']"
+Forst,['Forstersweglein']
+Fotze,"['Fotzenhänsel', 'Fötzchen', 'Hundsfotzlein', 'Hundsfötzlein']"
+Franzose,"['Franzel', 'Französchen']"
+Hand,"['Frauhändlein', 'Handhäckel', 'Handhäcklein', 'Handschaffel', 'Hendel', 'Händel', 'Händelein', 'Händlein', 'Händschaufel', 'Linkshändel', 'Schmutzhändlein', 'Teufelshändlein']"
+frech,"['Frechchen', 'Frechpoldi']"
+Frede,"['Fredlein', 'Hackfredlein', 'Peckfredlein']"
+fressen,"['Fressdümpfel', 'Fresserei', 'Fresserlein']"
+Wasser,"['Freudenwässerlein', 'Lehrbubenwässerlein', 'Rülpswasserlein', 'Rülpswässerlein', 'Wassergrandtiegelein', 'Wassermotzelein', 'Wasserofenlein', 'Wassertatschen', 'Wasserwännlein', 'Wässerlein']"
+frisch,['Frischelein']
+Frosch,"['Froschmaulein', 'Fröschchen', 'Fröschlein', 'Hemdfröschlein', 'Nackefröschel', 'Nackefröschlein', 'Nacketfröschchen', 'Nacketfröschlein', 'Nacktelein', 'Nacktfröschlein']"
+Wampe,"['Froschwampel', 'Gewampel', 'Wampel', 'Wampelein', 'Wamperl', 'Wamplein', 'Wämpel']"
+sprudeln,"['Fruchtsprudel', 'Himbeersprudel', 'Hollersprudel', 'Orangensprudel', 'Sprudel', 'Strudelsprudel', 'Süßsprudel', 'Zitronensprudel']"
+frutzen,['Frutzerei']
+Frack,"['Fräckel', 'Fräcklein', 'Kirchenfräcklein', 'Stadtfräckchen']"
+Fratze,['Frätzlein']
+schleifen,"['Fröschgeschleifri', 'Geschleifi', 'Schleifelein', 'Schleiferlein', 'Schleifetslein', 'Schleiflein', 'Schleispindel']"
+Frucht,"['Früchtel', 'Früchterl', 'Früchtlein']"
+putzen,"['Frühjahrsputzerei', 'Magenausputzerlein', 'Magenputzerlein', 'Ofenputzerlein', 'Oferputzerlein', 'Putzerei']"
+rein,"['Frühjahrsreinmachen', 'Reinemachen']"
+stöbern,"['Frühjahrsstöberei', 'Stöberei']"
+Pfad,"['Fuchslochpfädchen', 'Fußpfädlein', 'Hasenpfädlein', 'Heckepfädlein', 'Holzpfädlein', 'Lauspfädlein', 'Läusepfädlein', 'Läuspfadel', 'Läuspfadlein', 'Läuspfädchen', 'Pfadel', 'Pfädchen', 'Pfädlein', 'Pirschpfädlein', 'Waldpfadel', 'Waldpfädchen', 'Waldpfädel', 'Waldpfädelchen', 'Waldpfädlein']"
+fuchteln,['Fuchtel']
+Fuder,"['Fudel', 'Fuderl', 'Fudlein', 'Füderlein']"
+Funzel,['Funzelein']
+Furz,"['Furzerei', 'Fürzchen', 'Fürzel', 'Hasenfürzlein', 'Judenfürzchen', 'Judenfürzlein', 'Knallfürzlein']"
+Fussel,['Fusselein']
+Futter,"['Futterfässlein', 'Fütterkartoffel']"
+Kammer,"['Futterkämmerlein', 'Kammerlein', 'Schlafkämmerlein']"
+Schober,"['Futterschöberlein', 'Gerstenschöberlein', 'Grundbirnenschöbelein', 'Grundbirnschöbel', 'Heuschoberlein', 'Heuschöberlein', 'Schoberl', 'Schoberlein', 'Schöbel', 'Schöbelein', 'Schöberl', 'Schöberlein', 'Strohschöberlein']"
+Fitz,['Futzel']
+Schemel,"['Fußschemelchen', 'Fußschemelein', 'Melkschemelein', 'Schemelchen', 'Schemelein', 'Trittschemerl', 'Türschemerl']"
+Waage,"['Fußwaaglein', 'Waagenstängel', 'Waagscheitleinstäschlein', 'Wäglein', 'Zuwäglein']"
+Fach,['Fächlein']
+Fahrt,"['Fährtel', 'Fährtlein']"
+Fase,['Fäserlein']
+Faust,"['Fäustel', 'Fäustelein', 'Fäustlein', 'Handfäustel', 'Handfäustlein', 'Steinfäustel', 'Steinhauersfäustlein']"
+Fuchs,"['Füchslein', 'Röhrenfüchslein']"
+Füllen,"['Füllchen', 'Füllein', 'Füllenchen']"
+fünf,"['Fünferl', 'Fünferlein', 'Fünfzigerlein']"
+Fünf,['Fünftel']
+Käfer,"['Fünkleinskäferlein', 'Glückskäferlein', 'Glühkäferlein', 'Goldkäferlein', 'Herrgottskäferlein', 'Herrgottskühlein', 'Herzkäferlein', 'Himmelskäferlein', 'Johanniskäferchen', 'Johanniskäferl', 'Johanniskäferlein', 'Junikäferchen', 'Junikäferl', 'Käferlein', 'Leuchtkäferchen', 'Leuchtkäferl', 'Leuchtkäferlein', 'Marienkäferl', 'Marienkäferlein', 'Mistkäferlein', 'Sternkäferlein']"
+Furt,['Fürtlein']
+Fuß,"['Füßchen', 'Füßel', 'Füßlein', 'Gefußel', 'Gänsefüßchen', 'Hennenfüßlein', 'Herrgottsfüßchen', 'Hexenfüßlein', 'Krackenfüßlein', 'Krähenfüßlein', 'Rehfüßlein', 'Saufüßlein', 'Schweinsfüßlein', 'Säufüßchen', 'Säufüßlein']"
+gamper,['Gampelein']
+gehen,"['Gangel', 'Gänglein']"
+Garbe,"['Garbengäbelein', 'Garbgäbelein']"
+Knebel,"['Garbenknebelein', 'Knebelein', 'Waagknebelein']"
+Pflock,"['Garbenpflöckel', 'Holzpflöcklein', 'Pflöckel', 'Pflöckelein', 'Pflöcklein']"
+Spieß,"['Garbenspießelein', 'Garbenspießerlein', 'Spießel', 'Spießelein', 'Spießerl', 'Spießerlein', 'Spießlein']"
+Kräuel,['Gartenkräuelein']
+Garten,"['Gartlein', 'Gärtlein', 'Hasengartel', 'Hasengartlein', 'Hasengärtchen', 'Hasengärtel', 'Hasengärtlein', 'Hausgärtlein', 'Krautgartlein', 'Ostergartel', 'Ostergärtchen', 'Ostergärtel', 'Ostergärtlein', 'Zahlengärtlein']"
+Gasse,"['Gassel', 'Gässlein', 'Hohlgässlein', 'Strichgässlein']"
+gatschen,"['Gatscherlein', 'Gatschi']"
+Gatter,['Gatterlein']
+gatzen,['Gatzerlein']
+Gaul,"['Gaulein', 'Gäuelchen', 'Gäulchen', 'Gäulein', 'Gäuleinlein', 'Hoppegäulein', 'Hottegaulein', 'Hottegäulein', 'Huckelgäulein', 'Hügäulein', 'Hügäulel', 'Reitergaulein', 'Reitergäulein', 'Schaukelgäulein', 'Schockelgaulein', 'Schockelgäulein', 'Wiegegäulein']"
+gauzen,"['Gauzerei', 'Gauzerlein', 'Gäuzerei']"
+rodeln,"['Gebirgsrodel', 'Rodel']"
+brummen,['Gebrummel']
+barmen,['Gebärmel']
+daffeln,['Gedaffel']
+dichten,['Gedichtlein']
+faseln,['Gefasel']
+Fieder,['Gefiederlein']
+fade,['Gefädi']
+Rock,"['Gehröcklein', 'Kirchenröcklein', 'Röcklein', 'Unterröcklein']"
+hummen,['Gehümpel']
+Lappen,"['Geiferlapplein', 'Geiferläppel', 'Halsläpplein', 'Läppchen', 'Läppelein', 'Läpplein', 'Ohrlappel', 'Ohrläppchen', 'Ohrläppel', 'Ohrläpplein', 'Poussierlapplein', 'Saugläpplein', 'Sützelläppchen']"
+Geige,"['Geigel', 'Geigerei']"
+Geist,['Geistlein']
+Trieb,"['Geiztrieblein', 'Trieblein', 'Üchsentrieblein']"
+Häpper,"['Geißhäpperlein', 'Glatzenhäppel', 'Happeschen', 'Häbeschen', 'Häppel', 'Häpperl', 'Häpperlein', 'Häppeschen', 'Häppeslein', 'Kieferhäppel', 'Tannenhäppel', 'Tannenhäppelein']"
+raufen,"['Geißrauferei', 'Raufchen', 'Raufel', 'Rauflein']"
+Zicke,"['Geißzickel', 'Geißzicklein', 'Zickel', 'Zickelchen', 'Zickelein', 'Zicklein', 'Zickleindoldlein']"
+jodeln,['Gejodel']
+kippeln,['Gekippel']
+Knoten,"['Geknotel', 'Geknötel', 'Knotel', 'Knötelei', 'Knötlerei', 'Tannenknotel']"
+krakel,"['Gekrale', 'Krakelein']"
+kringeln,['Gekringel']
+laufen,"['Gelauferi', 'Gelaufi', 'Laufel', 'Lauferei', 'Lauferlein', 'Läufel', 'Läuferlein', 'Mordslauferei']"
+gelb,"['Gelbelein', 'Gelberlein']"
+Lied,"['Geliedel', 'Schlumperliedlein']"
+gelt,['Gelteslein']
+Lust,"['Gelustelein', 'Gelüstlein', 'Lüstlein']"
+Mansch,"['Gemanschi', 'Manschi']"
+Matsch,"['Gematscheri', 'Gematschi', 'Katzenmatschen', 'Matscherei']"
+Teil,"['Gemeindeteilein', 'Teilein']"
+meren,"['Gemeri', 'Zusammenmeri']"
+naschen,"['Genaschlein', 'Nascherei', 'Näscherlein']"
+nissig,['Genissel']
+nörgeln,"['Genörgel', 'Nörglerei']"
+Nase,"['Genüsel', 'Naselein', 'Rotznäschen', 'Schnürpfnäslein']"
+posseln,['Gepossel']
+quasseln,['Gequassel']
+rappeln,"['Gerappel', 'Rappel', 'Rappelein', 'Räppel']"
+rasseln,"['Gerassel', 'Steinrassel']"
+reden,"['Geredi', 'Geredsel']"
+Reiter,['Gereiteri']
+Streit,"['Gerichtstreiterei', 'Kinderstreiterei', 'Mordsstreiterei', 'Streiterei']"
+Rotz,"['Gerotzel', 'Rotzerlein', 'Rötzlein']"
+sieden,"['Gerstensiedel', 'Gerstensützel', 'Gesotteri', 'Gesotti', 'Siederdäpfel', 'Sotteri', 'Sudel', 'Süttsel', 'Sützel']"
+Gerste,['Gerstlein']
+Gerte,['Gertlein']
+Ruhe,"['Geruhelein', 'Rühlein']"
+Runzel,"['Gerunzelein', 'Runzelein', 'Runzlein']"
+Grus,"['Gerusel', 'Grisel', 'Griselein', 'Grislein', 'Grüselein']"
+rösten,"['Geröstchen', 'Geröstelein', 'Grundbirnenrösterlein']"
+sabbern,"['Gesabbel', 'Sabberlein']"
+Schale,"['Geschal', 'Schalein', 'Schälein', 'Äpfelgeschälein']"
+gescheit,"['Gescheiterlein', 'Gescheitlein']"
+schenken,['Geschenklein']
+Geschichte,['Geschichtlein']
+Geschirr,"['Geschirri', 'Milchgeschirrlein']"
+schlecken,"['Geschleckerei', 'Schleckerei', 'Schleckerlein']"
+Schlamp,"['Geschlumpel', 'Schlampel', 'Schlamperei', 'Schlamperlein', 'Schlumpelein', 'Schlumperei', 'Schlumpumpel', 'Schlämperlein']"
+schmarren,"['Geschmarri', 'Geschmarrlein', 'Schmarrerei', 'Schmarrerlein']"
+schmieren,"['Geschmieri', 'Schmiererei', 'Schmierkätzlein']"
+Schmus,"['Geschmusi', 'Schmuserei', 'Schmuserlein', 'Schmusheiraterei', 'Schmusi']"
+schmecken,"['Geschmäcklein', 'Gutschmeckerlein', 'Schmeckelein', 'Schmeckerblättlein', 'Schmeckerl', 'Schmeckerlein', 'Schmeckersträuchlein']"
+schnalzen,"['Geschnalzi', 'Ohrenschnälzerlein', 'Schnalzel', 'Schnelzerlein']"
+Geschufe,['Geschnuferi']
+schnürpf,"['Geschnürpfel', 'Kaffeeschnürpfel', 'Kannenschnürpfel', 'Preßsackschnürpfel', 'Reibigschnürpsel', 'Schnürpel', 'Schnürpfel', 'Schnürpfelein', 'Schnürpferei', 'Schnürpflein', 'Wurstschnürpfel', 'Wurstschnürpfelein']"
+schwafeln,"['Geschwafel', 'Schwafel']"
+Geschwister,"['Geschwisterlein', 'Geschwistertöchterlein']"
+schwären,['Geschwürlein']
+schöpfen,"['Geschöpflein', 'Schöpfel', 'Schöpferl', 'Schöpferlein', 'Wasserschöpferlein']"
+Geselle,['Gesellschaftlein']
+Gesicht,"['Gesichtlein', 'Puppengesichtlein']"
+Gesinde,"['Gesindel', 'Stadtgesindel']"
+Spaß,"['Gespaßvogel', 'Gespäßlein', 'Späßlein']"
+Gespenst,['Gespenstlein']
+spielen,"['Gespiel', 'Spiel', 'Spielerei', 'Taschenspielerei', 'Windspiel']"
+sporzen,"['Gesporzi', 'Gesporzlein', 'Sporzi']"
+streifen,"['Gestreifel', 'Streifchen', 'Streifel', 'Streifholzstöcklein', 'Streiflein', 'Streifstöcklein', 'Striffel']"
+Streu,"['Gestreusel', 'Streufagel', 'Streutangel']"
+Stupf,"['Gestupfel', 'Grasstupfel', 'Haberstupfel', 'Heustupfelein', 'Stoppelein', 'Stupfel', 'Stupfelein', 'Stupflein', 'Stöpfsel', 'Stüpfel']"
+Staffel,"['Gestäffelein', 'Kellerstapflein', 'Läusestaffelein', 'Staffelein', 'Stapfelein', 'Stapflein', 'Stäffelchen', 'Stäffelein', 'Stäpfelein']"
+Gestalt,['Gestältlein']
+stüren,['Gestüri']
+Gesocks,['Gesöcklein']
+tappen,"['Getappel', 'Katzentapplein', 'Nachttappelein', 'Schultäppelein', 'Tappchen', 'Tappel', 'Tappelein', 'Tapperl', 'Tapperlein', 'Tappeslein', 'Täppelchen', 'Täppelein', 'Täppleslein']"
+tippeln,['Getippel']
+Getreide,"['Getreidegäbelein', 'Getreidgäbelein', 'Getreidsgäbelein']"
+Hütte,"['Getreidehüttlein', 'Hüttlein']"
+trippeln,"['Getrippel', 'Trippel', 'Trippelein', 'Tripplein']"
+tuscheln,"['Getuschel', 'Tuschelei']"
+Vieh,"['Geviehlein', 'Viecherei']"
+Gewehr,['Gewehrlein']
+winseln,['Gewinsel']
+wirr,"['Gewirri', 'Gewirrl', 'Wirrerbüschel', 'Wirri']"
+würgen,"['Gewurstel', 'Gewürgel', 'Gewürgelein', 'Gewürgi', 'Gewürglein', 'Schneeworgel', 'Schneewörgel', 'Schneewürgel', 'Wargel', 'Wärgel', 'Würgel', 'Würgelein', 'Würgerlein']"
+zappeln,"['Gezappel', 'Gezeppel', 'Gezäppel', 'Zappel', 'Zippelzappel']"
+werben,"['Gezwirbel', 'Haarwirbel', 'Luftwirbel', 'Luftzwirbel', 'Mordswirbel', 'Werbel', 'Wirbel', 'Zirbel']"
+Gickel,"['Gickerl', 'Ginkelein']"
+Giebel,['Giebelein']
+gieken,"['Giekerlein', 'Schnakengiekel']"
+Dol,['Gießerdolein']
+gießen,"['Gießerl', 'Gießerlein', 'Gießzüttel']"
+seihen,"['Gießerseiherlein', 'Kaffeeseiherlein', 'Milchseiherlein', 'Seiherlein', 'Spritzseiherlein']"
+Zutte,"['Gießsottel', 'Hafenzüttel', 'Kaffeezuttel', 'Sottel', 'Söttel', 'Söttelhäfelein', 'Sützlein', 'Zuttel', 'Zuttlein', 'Zöttelein', 'Zöttlein', 'Zürl', 'Züttel', 'Züttlein', 'Züttslein', 'Zützlein']"
+Gimpel,['Gimpelein']
+Gipfel,['Gipfelein']
+Gitter,['Gitterlein']
+Glas,"['Glasel', 'Gläslein', 'Schnapsglasel', 'Schnapsgläschen', 'Schnapsgläsel', 'Schnapsgläslein']"
+Glatze,"['Glatzenhanni', 'Glatzenwiebel']"
+Stängel,"['Glimmstänglein', 'Papierstängelchen']"
+glitschen,['Glitschei']
+glucken,"['Gluckel', 'Gluckelein', 'Gluckerl', 'Glucklein', 'Glückelchen', 'Glückelein', 'Glücklein']"
+Glocke,"['Glöckchen', 'Glöckelchen', 'Glöckelein', 'Glöcklein', 'Ohrenglöcklein', 'Schneeglöcklein']"
+Wurm,"['Glühwurmel', 'Glühwürmchen', 'Glühwürmel', 'Glühwürmlein', 'Johanniswürmchen', 'Johanniswürmel', 'Johanniswürmlein', 'Leuchtwürmlein', 'Würmelein', 'Würmlein']"
+gnappen,['Gnäpperlein']
+Jakob,"['Gobel', 'Gröljockel', 'Jackel', 'Jakoberlein', 'Jockel', 'Plattengobel', 'Schmierjackel', 'Schuttgobel', 'Spornjackel', 'Taubenjockel']"
+Gockel,"['Gockelein', 'Göckelchen', 'Göckelein', 'Göckerlein', 'Gökerlein', 'Holzgockelein', 'Kirchweihgöckelchen', 'Korngöckerl', 'Korngöckerlein', 'Nestgöckelein', 'Tannengickelein', 'Zorngöckerlein']"
+Gocks,"['Gockslein', 'Göckslein']"
+Ammer,['Goldammerlein']
+Gold,['Goldelein']
+Schatz,"['Goldschätzchen', 'Goldschätzlein', 'Lehrerschatzelein', 'Schatzel', 'Schatzelein', 'Schatzi', 'Schatzilein', 'Schatzlein', 'Schätzchen', 'Schätzechen', 'Schätzel', 'Schätzelein', 'Schätzlein']"
+Vogel,"['Goldvögelein', 'Johannisvogelein', 'Johannisvögelchen', 'Johannisvögelein', 'Johannisvöglein', 'Schneevögelein', 'Singvögelein', 'Sommervögelein', 'Vogelein', 'Vogerl', 'Vögelchen', 'Vögelein', 'Vögerl']"
+glühen,['Goldwürmchen']
+Goller,"['Gollerlein', 'Golli']"
+Arm,"['Gollerärmel', 'Hemdsärmel', 'Hemdärmel', 'Juppenärmel', 'Ärmel', 'Ärmelein', 'Ärmlein']"
+Licht,"['Gollichtlein', 'Gänsbüschlichtlein', 'Herrgottslichtchen', 'Lichtchen', 'Lichtel', 'Lichtelein', 'Lichtlein', 'Löwenzahnlichtlein', 'Märzenbüschlichtlein', 'Märzstocklichtlein', 'Pappellichtlein', 'Ringelbuschlichtlein', 'Ringelschöcklichtlein', 'Ringelstocklichtlein', 'Ringleinsbüschlichtlein', 'Totenlichtlein']"
+Goppe,"['Goppelein', 'Göppelein', 'Suppengöppelein']"
+hetschen,"['Gotschel', 'Hetschel', 'Hotschel', 'Hötschel', 'Laushetschel']"
+Name,"['Gottesnamenlein', 'Gottsnamenlein']"
+Grand,"['Grandlein', 'Wassergrandel', 'Wassergrandlein', 'Wassergrändlein']"
+Gras,"['Graselein', 'Grasgänslein', 'Gräselein', 'Gräserlein', 'Gräslein']"
+Schopf,"['Grasschopfel', 'Schöpflein']"
+Sache,"['Grassächel', 'Grünsachen', 'Mückensächelein', 'Nippsachen', 'Sachen']"
+Grat,['Grattel']
+grau,['Grauel']
+Graupe,['Graupel']
+greinen,['Greinerei']
+Margarete,"['Gretelein', 'Margalein', 'Margeritchen', 'Margeritlein', 'Waschgretel']"
+Griebe,"['Griebel', 'Griebelein', 'Grieblein', 'Speckgriebelein']"
+Grieche,['Griechen']
+Grieß,"['Grießelein', 'Grießlein']"
+Grille,['Grillein']
+Grind,['Grindlein']
+grob,['Grobhobel']
+groß,"['Großel', 'Großelein']"
+machen,"['Großmacherl', 'Macherlein']"
+roden,"['Grundbirnenroderlein', 'Rodehauelein']"
+schnauben,"['Grundbirneschnauberlein', 'Schnaubel', 'Schnäubel']"
+Grund,"['Grundbirneschoberlein', 'Grundbirnhäufel', 'Grundbirnpfänkelein', 'Grundel', 'Grundelein']"
+grunzen,['Grunzelein']
+Grutz,"['Grutzel', 'Grutzelein', 'Grützel', 'Grützelein']"
+Gräte,"['Grätchen', 'Grätlein']"
+gratschen,['Grätschelein']
+Gräußlein,['Gräußelein']
+grün,['Grünelein']
+gucken,"['Guckelein', 'Guckerlein', 'Säuguckelein']"
+Gugel,['Gugelein']
+Josef,"['Guiseppel', 'Seftel', 'Seppel']"
+Gupfe,"['Gupfel', 'Güpfelein', 'Güpflein']"
+Gurgel,"['Gurgerl', 'Gürgelein', 'Gürgerl', 'Gürglein', 'Saufgurgelein', 'Vaterunsergürgelein']"
+gurren,"['Gurrlein', 'Taubengurri']"
+gut,"['Gutel', 'Gutelein', 'Guteslein', 'Guti', 'Gutlein', 'Gutschen', 'Gutsel', 'Gutselein', 'Gutserei', 'Gutserlein', 'Gutsi', 'Gutslein', 'Gutzelein', 'Plätzleingutel', 'Ungutel', 'Weihnachtsgutselein']"
+stehen,"['Gutstehenerlein', 'Gutsteherlein', 'Handständel', 'Handständerlein', 'Kälberstandel', 'Melkständel', 'Melkständelein', 'Neujahrsständelein', 'Standel', 'Steherlein', 'Ständchen', 'Ständerlein', 'Ständlein', 'Waschständerlein', 'Zuckererbsenständlein']"
+Gang,['Gängelein']
+dorzeln,['Gänsegedorzel']
+Schlutten,['Gänsegeschlutteri']
+schnackeln,"['Gänsegeschnackel', 'Schnackel', 'Schnäckel']"
+Kragen,"['Gänsekrägelein', 'Gänskrägelein', 'Halskrägelein', 'Kragel']"
+Schnickel,"['Gänseschnickelein', 'Schnickelein']"
+Schritt,"['Gänseschrittchen', 'Gänseschrittlein', 'Hünkelschrittchen', 'Poppeleinsschrittlein', 'Schrittchen', 'Schrittlein', 'Tanzschrittlein', 'Tippelschrittlein']"
+Griffel,['Gänsgriffelein']
+Gauke,['Gäuklein']
+Gurre,['Gürrlein']
+Prügel,"['Gürtprügelein', 'Prügelein', 'Salzprügelein']"
+Stufe,"['Haargestufel', 'Stufelein']"
+Netz,['Haarnetzlein']
+schniegeln,"['Haarschniegel', 'Schniegel']"
+Wusch,"['Haarwischel', 'Haarwuschel', 'Haarwüschel', 'Wuschel']"
+Zotte,"['Haarzöttel', 'Lauszöttel', 'Maiszöttel', 'Saumzöttel', 'Zottel', 'Zottelein', 'Zöttel']"
+Haber,"['Haberflügel', 'Haberrispel', 'Haberrumpel', 'Habersensel', 'Haberweibel', 'Haberweiblein']"
+Habicht,['Habichtnagel']
+Habit,['Habitlein']
+Hache,['Hachtel']
+Rispe,"['Haferrispel', 'Rispelein']"
+Hose,"['Hagehöslein', 'Höschen', 'Hösel', 'Lederhosenseppel', 'Reizhöschen']"
+Johannes,"['Hahnebambel', 'Hannebambel', 'Hannelein', 'Hanni', 'Hannlein', 'Hansel', 'Hanselein', 'Hasenheinlein', 'Hirnhanni', 'Katzenhansel', 'Lehrerhansel', 'Lehrerhanselein', 'Pomadenhansel', 'Prahlhansel', 'Schulhansel', 'Schulhanselein', 'Storchhansel', 'Streithänsel', 'Taubenhannerlein', 'Taubenhanni', 'Taubenhannlein', 'Traumhanselein', 'Weiherhansel']"
+Hahn,"['Hahnrei', 'Hähnel', 'Hähnlein']"
+halb,['Halberlein']
+Halle,"['Hallein', 'Hallelein', 'Hällchen', 'Seitenhallein']"
+klunken,"['Halsklunkerlein', 'Klunkel', 'Klünkel', 'Klünkerlein', 'Ohrenklünkelein']"
+knüpfen,['Halsknüpfelein']
+Riemen,"['Halsriemenlein', 'Halsriemlein', 'Riemchen', 'Riemenlein', 'Riemleinsschühlein']"
+Hammer,"['Hammerlein', 'Hämmerlein', 'Steinhammerlein', 'Steinhämmerlein']"
+hampeln,"['Hampelein', 'Hamperl', 'Hämpelchen', 'Hämpeschen', 'Mamahampelein', 'Mutterhampelein', 'Taschenhampel']"
+Hamper,"['Hamperchen', 'Hamperlein', 'Happel', 'Happelein', 'Happerlein', 'Lehrerhamperlein', 'Pferdhampel', 'Pferdhappelein', 'Regenhamperlein', 'Schneehampelein', 'Tannenhamperlein']"
+Pferd,"['Hamperpferdlein', 'Pferdel', 'Pferdlein', 'Pferdschel', 'Schaukelpferdlein']"
+Hamster,['Hamsterlein']
+handeln,"['Handel', 'Kuhhandel', 'Rothändlein', 'Taubenhandel']"
+Henkel,"['Handhaderhenkelein', 'Henkelein', 'Henkelhäfelein', 'Henkelstöpflein']"
+Karren,['Handkarrlein']
+Käse,"['Handkäslein', 'Käsleiblein', 'Käslein']"
+Laterne,"['Handlaternlein', 'Laternchen', 'Laternlein', 'Stalllaternlein', 'Sturmlaternel', 'Sturmlaternlein']"
+schieben,"['Handschiebelein', 'Handschieberlein', 'Radschieberlein', 'Schiebel', 'Schieberlein']"
+Schuh,"['Handschuhel', 'Handschuhlein', 'Reimleinsschühlein', 'Schuhcremeschächtelein', 'Schuhputzschächtelein', 'Schuhschächtelein', 'Schuhschäufelein', 'Schuhwichsschächtelein', 'Schühlein']"
+stauchen,"['Handstauchelein', 'Handstaucherlein', 'Stacherlein', 'Stauchelein', 'Staucherlein', 'Stauferlein', 'Stäuchel', 'Stäuchelein', 'Stäucherlein', 'Stäuchlein']"
+Zwehel,"['Handszwehele', 'Handzwehele']"
+Heinkel,"['Hankelein', 'Hankerlein', 'Heinkelein', 'Heinkselein']"
+Hans-Georg,['Hansgeorglein']
+Christoph,"['Hanssteffel', 'Saustoffel', 'Sehnestoffel', 'Steffel']"
+hart,['Hartlein']
+Hartmann,['Hartmännlein']
+Hascher,['Haschelein']
+Schwan,['Haselnussschwänlein']
+Stecken,"['Haselnusssteckelein', 'Pfetzleinssteckelein', 'Pfetzleinsstecklein', 'Rabensteckelein', 'Rechenstöckel', 'Rohrsteckelchen', 'Rohrsteckelein', 'Schlägsteckelein', 'Schulsteckelein', 'Steckelein', 'Tatzensteckel', 'Tatzensteckelein']"
+Traube,"['Haselnussträubelein', 'Johannisbeerträublein', 'Johannistraubelein', 'Johannisträubel', 'Johannisträubelein', 'Johannisträublein', 'Johannisträuchen', 'Träubel', 'Träubelein']"
+gokern,"['Hasengokel', 'Taubengokel']"
+Lorbeer,"['Hasenlorbeerlein', 'Lorbeerlein']"
+Ostern,['Hasenosterei']
+Rauch,"['Hasenraucherlein', 'Kettenrauchen', 'Rauchen', 'Raucherdäpfel', 'Raucherei', 'Raucherl', 'Raucherlein', 'Rauchfäßlein']"
+Schnee,"['Hasenschneelein', 'Schneebauzerlein', 'Schneelein', 'Schneeschimmel', 'Schneeschäfchen', 'Schneeschäflein', 'Spurschneelein']"
+Haspel,"['Haspelein', 'Häspelein']"
+hatschen,"['Hatschelein', 'Laushatschel']"
+Hattel,['Hattelein']
+hauchen,['Hauchelein']
+Hauche,"['Hauchenstöckel', 'Häuchel', 'Häuchlein']"
+muffen,['Hausmuffel']
+Tier,"['Haustierlein', 'Murmel', 'Murmeltierlein', 'Schneckentierlein', 'Tierlein']"
+heben,['Hebelein']
+hecheln,['Hechelei']
+Hecke,['Heckenpfädlein']
+Koffer,"['Hefeköfferlein', 'Kofferlein']"
+Hefe,['Hefel']
+Heide,"['Heidbeerlein', 'Heidel', 'Wildheidel']"
+heim,"['Heimchen', 'Heimelein']"
+Heins,"['Heinsel', 'Heinselein', 'Mutterheinselein']"
+Heis,"['Heisel', 'Heiselein']"
+heiß,"['Heißel', 'Heißelein', 'Heißlein']"
+Hemd,"['Hemdchen', 'Hemdeschen', 'Hemdfässlein']"
+fassen,['Hemdfäßlein']
+läuten,"['Hemdläuterlein', 'Hemdsläuterlein']"
+Scheiß,"['Hemdscheißerlein', 'Hemdschisserlein', 'Hosenscheißerlein', 'Hundsscheißerlein', 'Kuhscheißel', 'Mückenschisslein', 'Scheisserlein', 'Scheißchen', 'Scheißelein', 'Scheißendeckel', 'Scheißerei', 'Scheißerlein', 'Scheißhäuslein', 'Schupfenscheißerlein', 'Schönscheißerlein', 'Stadtschisserlein']"
+Schwengel,['Hemdschwengelein']
+schwenken,['Hemdschwenkerlein']
+hemmen,['Hemmerlein']
+Henne,"['Hennel', 'Hennelein', 'Hennlein']"
+Leiter,"['Hennenleiterlein', 'Hühnerleiterchen', 'Hühnerleiterl', 'Hühnerleiterlein', 'Hünkelleiterlein', 'Leiterl', 'Leiterlein', 'Leiterwägelein']"
+steigen,"['Hennensteiglein', 'Hühnersteiglein', 'Steigelein']"
+Herbst,['Herbstlein']
+zieb,"['Herbstziebelein', 'Ziebelein', 'Zieberl']"
+Herde,['Herdlein']
+Schiff,"['Herdschifflein', 'Ofenschiffel', 'Ofenschifflein', 'Schiffel', 'Schiffelein', 'Schifferl', 'Schifflein', 'Wasserschiffel', 'Wasserschifflein']"
+winken,['Herrenwinkelein']
+weich,"['Herzerweichen', 'Steinerweichen', 'Weichlein']"
+Kaspar,"['Herzkasperl', 'Kasperadel', 'Kasperchen', 'Kasperl', 'Kasperlein', 'Käsperei', 'Käsperlein', 'Nervenkasperl']"
+hetzen,"['Hetzerei', 'Hetzlein']"
+Same,"['Heugesämel', 'Heugesämlein', 'Heusämelein', 'Samelein', 'Samenlein', 'Samerlein', 'Unkrautsämerei']"
+Heu,"['Heuhäuflein', 'Heuriffel']"
+heulen,['Heulerei']
+Reff,"['Heureffel', 'Reffel', 'Refflein']"
+Hexe,"['Hexerei', 'Hexlein']"
+Matthias,"['Hiasel', 'Plattenhiasel']"
+Hiefe,"['Hiefel', 'Hiefelein', 'Hundshiefelein']"
+springen,"['Himbeerspringerlein', 'Orangenspringerlein', 'Springelein', 'Springerchen', 'Springerl', 'Waldmeisterspringerlein']"
+Kutsche,"['Himmelskütschlein', 'Kütschlein']"
+Vater,"['Himmelvaterlein', 'Vaterlein', 'Vaterunserknöpflein', 'Vati', 'Väterchen']"
+schlüpfen,"['Hineinschlupferlein', 'Schlupferlein', 'Schlüpfelein']"
+Tor,"['Hinkelstörchen', 'Hinkelstörlein']"
+hinten,['Hinterhäuslein']
+Hirsch,['Hirschen']
+Pudel,"['Hirschpudelein', 'Hüllepudelein', 'Maispudelein', 'Maispudelhärlein', 'Pudelein', 'Zausepudlein']"
+Kitz,"['Hitzelein', 'Hitzlein', 'Kitzel', 'Kitzlein']"
+hocken,"['Hockefräulein', 'Hockel', 'Hockerl', 'Hockerlein', 'Nachhockerlein', 'Nesthockerlein']"
+bleiben,"['Hockenbleiberlein', 'Überbleibsel', 'Übrigbleibsel']"
+ficken,"['Hoffartsfickel', 'Hollerfickel', 'Krackenfickel', 'Notfickel', 'Starrzefickel', 'Sterzefickel']"
+Pinsel,"['Hoffartspinselein', 'Maispinselein', 'Pinselein']"
+Pritsche,"['Hoffartspritschel', 'Lauspritschelein', 'Pritschen', 'Pritschlein', 'Seichpritschlein']"
+Hof,"['Hofhäuslein', 'Kirchhofsröschen', 'Kirchhofsröslein']"
+hohl,"['Hohlbeerlein', 'Hohlchen']"
+muff,"['Hollermöffel', 'Muffelein', 'Mufflein', 'Müffelein', 'Müfflein']"
+pfeifen,"['Hollerpfeifchen', 'Hollerpfeifelein', 'Hollerpfeiflein', 'Holzpfeiflein', 'Pfeifchen', 'Pfeifel', 'Rohrpfeiflein', 'Wasserpfeiflein', 'Wichspfeifelein']"
+spritzen,"['Hollerspritzerlein', 'Hollerspritzlein', 'Hollerwasserspritzlein', 'Spritzelein', 'Spritzerlein', 'Spritzlein', 'Wasserspritzlein']"
+sträuben,"['Hollersträubelein', 'Hollersträublein', 'Straubel', 'Sträubelein', 'Sträublein']"
+poltern,['Holteripolteri']
+Schlegel,"['Holzschlegelein', 'Schlegelein', 'Steinschlegelein']"
+Schuppen,"['Holzschüpfel', 'Holzschüpflein', 'Schupfelein', 'Schüpfel', 'Schüpflein', 'Schüpplein', 'Streuschüpfel', 'Streuschüpflein', 'Zwergschüpflein']"
+Steig,"['Holzsteiglein', 'Jägersteiglein', 'Rehsteiglein', 'Steigel', 'Steiglein', 'Waldsteiglein']"
+Stift,"['Holzstiftlein', 'Radstiftel', 'Reißstiftlein', 'Schusterstiftlein', 'Stiftchen', 'Stiftlein', 'Stiftmesserlein', 'Wagenstiftel', 'Zwickstiftlein']"
+Zweck,"['Holzzwecklein', 'Schuhzwecklein', 'Wäschezweckelein', 'Wäschezwecklein', 'Wäschzwecklein', 'Zwackel', 'Zwecklein']"
+Hopfen,['Hopfenstößel']
+hopp,"['Hoppel', 'Hoppelein']"
+Horbel,"['Horbelein', 'Hörbelein']"
+Hormes,['Hormel']
+hoschen,"['Horschlein', 'Hoschel', 'Hörschel', 'Längshörschel']"
+Hospes,['Hospel']
+hossen,['Hossel']
+hotzeln,['Hotzel']
+Hubbel,"['Hubbelein', 'Hübbelein']"
+#?Huck,['Huckel']
+Hudel,"['Hudelei', 'Hudelein', 'Hudermeichelein', 'Hudlerei']"
+hullern,['Hullerlein']
+Hummel,"['Hummelein', 'Hummellein']"
+Humpen,['Humperl']
+humpfen,['Humpferei']
+knäffen,"['Hundknäfferlein', 'Knäfferl']"
+Krüppel,"['Hundskrüppelein', 'Krüppelein', 'Äpfelkrüppelein']"
+Pfote,"['Hundspfötchen', 'Hundspfötlein', 'Händpfötschlein', 'Katzenpfötchen', 'Katzenpfötel', 'Katzenpfötlein', 'Katzenpfötschlein', 'Pfotschen', 'Pfötchen', 'Pfötel', 'Pfötelein', 'Pfötlein', 'Pfötschel', 'Pfötschlein', 'Samtpfötlein', 'Säupfötlein', 'Säupfötschlein']"
+Zaupe,"['Hundszaupel', 'Zaupel', 'Zaupelein', 'Zäupchen', 'Zäupelein', 'Zäuplein']"
+hurtig,['Hurtlein']
+husch,"['Huschel', 'Huschelein']"
+Husselein,['Hussel']
+husten,['Husterei']
+Krack,"['Hutschekrackel', 'Krackel', 'Krackelein', 'Krackenwinkel', 'Krackerlein', 'Kracksel', 'Kräcklein']"
+Hutsch,"['Hutschekrakel', 'Hutschelein', 'Hutschi']"
+hutschen,"['Hutscherlein', 'Hütscherlein', 'Nesthütschelein']"
+Bartholomäus,"['Hutzbarthel', 'Hutzelbarthel', 'Schießbarthel', 'Schreibarthel', 'Schusserbarthel']"
+Hutzel,"['Hutzelein', 'Hützlein', 'Schlehenhutzelein', 'Schlehenhützelein', 'Schneehutzelein']"
+hutzen,['Hutzerlein']
+Hachse,"['Hächslein', 'Säuhächslein']"
+Hacht,['Hächtlein']
+gleich,['Häfelein']
+häl,['Hälerchen']
+Halm,"['Hälmi', 'Hälmlein']"
+pflatschen,"['Händpflätschlein', 'Pflatschlein', 'Pflätschlein']"
+Hanf,['Hänftelein']
+Häppe,['Häppelein']
+Harm,['Härmel']
+Haube,"['Häubel', 'Rothäublein', 'Traumhaubelein']"
+Haupt,"['Häuptchen', 'Häuptlein', 'Krautshäuptlein', 'Rothäuptlein', 'Weißkrautshäuptlein']"
+Zeug,"['Häusleinbauernzeuglein', 'Zeugelein']"
+Knolle,['Höckerknöllein']
+Trumm,"['Höllentrümmlein', 'Trumpel', 'Trümmel', 'Trümmlein']"
+Hölperle,"['Hölperl', 'Hölperlein']"
+Hötschel,['Hötschelein']
+hoch,['Hühnerdtecklein']
+Loch,"['Hühnerlöchel', 'Hühnerlöchlein', 'Hühnerstalltürlein', 'Kipfenlöchlein', 'Kipflöchlein', 'Kirchenlöchlein', 'Knopflöchlein', 'Löchlein', 'Mäuselöchlein', 'Vaterunserlöchel', 'Vaterunserlöchlein']"
+Treppe,"['Hühnertrepplein', 'Treppel', 'Treppelein', 'Trepplein', 'Türtreppel']"
+Hülle,"['Hüllein', 'Hüllele', 'Hüllelein', 'Hülleputtelein']"
+Hünkel,"['Hünkelchen', 'Hünkelein']"
+nicht,"['Hüpfnichtslein', 'Silbernichtschen']"
+Huppel,['Hüppelein']
+Horde,['Hürdlein']
+Hür,['Hürlein']
+hüten,"['Hüteslein', 'Kartoffelhüteslein']"
+Imme,['Immelein']
+innen,['Innerei']
+Italien,['Itali']
+Jackett,"['Jackettel', 'Jackettlein']"
+Kreis,"['Jahreskreisel', 'Kreislein']"
+wechseln,"['Jahreswechsel', 'Jahrwechsel', 'Mondwechsel', 'Rehwechsel', 'Wechsel', 'Wildwechsel', 'Wortwechsel']"
+jammern,['Jammerlein']
+Jean,"['Jeanel', 'Schani']"
+Joch,"['Jochlein', 'Jöchlein']"
+Johannis,['Johanni']
+Funke,['Johannisfünkchen']
+Stier,"['Judenstierlein', 'Stierchen', 'Stierel', 'Stierlein']"
+stinken,"['Judenstinkerlein', 'Pfennigstinkerlein', 'Stinkbastel', 'Stinkerlein', 'Stinkstängel']"
+Wald,"['Junfernwäldlein', 'Wäldlein']"
+Februar,['Junikäferlein']
+Juppe,"['Jupplein', 'Jüpplein']"
+Jacke,"['Jäckchen', 'Jäckel', 'Jäcklein', 'Strickjäcklein']"
+Jahr,"['Jährlein', 'Neujahrfräulein', 'Neujahrsfräulein', 'Zwiejährel', 'Zwiejährlein']"
+Jäst,['Jästlein']
+Kittel,"['KIttelein', 'Kittelein', 'Kitterl', 'Sommerkittelein']"
+Kabinett,"['Kabinettel', 'Kabinettlein']"
+Schnauze,"['Kaffeeschnäuzlein', 'Kannenschnäuzlein', 'Schnauzel', 'Schnauzelein', 'Schnauzerl', 'Schnauzerlein', 'Schnauzlein', 'Schnäuzchen', 'Schnäuzel', 'Schnäuzelein', 'Schnäuzerei', 'Schnäuzlein']"
+Kaiser,['Kaiserwecklein']
+Kalb,"['Kalbel', 'Kalbelein', 'Kalbinlein', 'Kälbchen', 'Kälbel', 'Kälbelein', 'Kälberlein', 'Kälblein', 'Milchkälblein', 'Mondkalbel', 'Saugkälblein']"
+Kalesche,['Kaleschlein']
+kalt,['Kaltwasserpanschen']
+Kamm,"['Kambel', 'Kämmchen', 'Kämmlein', 'Lauskambel']"
+Kandis,"['Kandelslein', 'Kandsel']"
+Schnabel,"['Kannenschnäbelein', 'Kreuzschnabelein', 'Kreuzschnäbelein', 'Schnabelein', 'Schnablein', 'Schnäbelchen', 'Schnäbelein']"
+nichts,"['Kannnichtsel', 'Nichstlein', 'Nichtsel', 'Nichtselein', 'Nichtslein', 'Silbernichtslein']"
+Kante,"['Kantel', 'Käntlein']"
+Kanzlei,['Kanzleilein']
+Kapotte,"['Kapottchen', 'Kapottlein']"
+Kapott,['Kapöttlein']
+Karbonade,['Karbonadlein']
+Karrette,"['Karettlein', 'Karrettlein']"
+Karl,['Karlein']
+Karmenade,['Karmenadlein']
+Karst,['Karstlein']
+Kartoffel,"['Kartoffeldetschlein', 'Kartoffelein', 'Kartoffelhützelein', 'Kartoffelhützlein', 'Kartoffelpatscherlein', 'Kartöffelein', 'Saukartoffelein', 'Saukartöffelein', 'Säukartoffelein']"
+Teller,"['Karttellerlein', 'Tellerlein']"
+Kater,['Katerchen']
+Kugel,"['Katzenküglein', 'Kugelein', 'Kügelein', 'Mehlkügelein']"
+Steg,"['Katzensteglein', 'Steglein']"
+Tisch,['Katzentischchen']
+Trog,"['Katzentroglein', 'Salztröglein', 'Stopftröglein']"
+Tatze,"['Katzentätzlein', 'Tatzenbützel', 'Tatzlein', 'Tätzlein']"
+kehren,['Kehrsel']
+leuchten,"['Kellerleuchtlein', 'Leuchtel']"
+Kerbe,['Kerbelein']
+Kerl,"['Kerlchen', 'Kerlein', 'Mannskerlein', 'Scheißkerlein']"
+Kern,"['Kernlein', 'Maiskernel', 'Maiskernlein']"
+Kerze,"['Kerzlein', 'Ringelbuschkerzlein']"
+Kessel,"['Kesselein', 'Weihkesselein', 'Weihwasserkesselein']"
+Andreas,['Kettenandreaslein']
+Wimmer,"['Keuschheitswimmerlein', 'Wimmelein', 'Wimmerl', 'Wimmerlein']"
+Kiefer,"['Kieferlein', 'Kiefernhübel']"
+Knorren,"['Kiefernknörrlein', 'Knorrkelein', 'Knorrlein', 'Knörrlein']"
+Kies,['Kiesel']
+plänkeln,['Kindergeplänkel']
+wiegen,"['Kinderswieglein', 'Wiegelein', 'Wieglein']"
+Kinse,['Kinsel']
+Kipfe,"['Kipfenhörnlein', 'Leiterkipflein']"
+Lade,"['Kirchenlädlein', 'Windellädlein']"
+Popel,"['Kirchenpöpelein', 'Nachtpöpelein', 'Pöpelein']"
+Kleid,"['Kirchweihkleidlein', 'Kleidlein', 'Schießbudenkleidlein', 'Unterkleidlein']"
+Kluft,"['Kirchweihklüftlein', 'Klüftel', 'Klüftlein', 'Sonntagsklüftlein']"
+Mai,"['Kirchweihmailein', 'Maielein', 'Maienlein']"
+weihen,['Kirchweihsteffel']
+Streich,['Kirschenstreichen']
+Kirsche,"['Kirschlein', 'Sauerkirschel', 'Spatzenkirschel', 'Vögelskirschlein']"
+Kitsche,['Kitschlein']
+Kittchen,['Kittlein']
+Lamm,"['Kitzlämmlein', 'Kälberlämmlein', 'Lammelein', 'Lammi', 'Lammlein', 'Lämmchen', 'Lämmel', 'Lämmelein', 'Lämmlein', 'Mutterlämmlein', 'Schaflämmlein']"
+Klafter,['Klafterstützel']
+Mutter,"['Klagmütterlein', 'Mutterlein', 'Mutti', 'Muttlein', 'Mütterlein']"
+Klammer,"['Klammerlein', 'Klämmerlein', 'Nasenklämmerlein', 'Wäscheklammerl', 'Wäscheklammerlein', 'Wäscheklämmerlein']"
+klampern,['Klamperlein']
+klappern,"['Klapperlein', 'Kläpperlein']"
+Klaue,"['Klaui', 'Kläuelein', 'Kläulein', 'Spitzkläulein', 'Säukläulein']"
+kleben,"['Klebelein', 'Kleberlein']"
+Klee,['Kleekärrlein']
+Maschine,"['Kleesamenmaschinlein', 'Maschinlein', 'Mähmaschinendreschen', 'Sämaschinel', 'Sämaschinlein']"
+klenken,"['Klenkelein', 'Ohrenklenkelein']"
+klicken,['Klickerlein']
+klimpern,['Klimperlein']
+Kloben,"['Klobelein', 'Klöbel']"
+Klumpen,"['Klumpelein', 'Klümpelein']"
+kluppen,"['Kluppelein', 'Klupperl', 'Klupperlein', 'Wäscheklupperl', 'Wäscheklupperlein']"
+klappen,['Kläppelein']
+klieben,['Klöbelein']
+Klüpfel,['Klöppelein']
+knacken,"['Knackerlein', 'Knäckelein', 'Knäckerlein']"
+Knall,['Knallerlein']
+Faden,['Knallfädlein']
+Platte,"['Knallplättchen', 'Knallplättlein', 'Plättchen', 'Plätterlein', 'Pulverplattlein', 'Pulverplättchen', 'Pulverplättlein', 'Schießplättlein', 'Zündplättchen', 'Zündplättel', 'Zündplättlein']"
+knappen,"['Knappelein', 'Knapperlein']"
+Knarfel,"['Knarfelein', 'Knärfelein']"
+knarzen,['Knarzel']
+Knecht,['Knechtlein']
+Kneip,['Kneiplein']
+Knick,"['Knickelein', 'Knickerlein']"
+Knie,"['Kniebänklein', 'Knielein', 'Ofenknielein']"
+Knirps,['Knirpslein']
+Knoblauch,['Knoberlein']
+Knock,['Knockel']
+Saum,"['Knopflochsäumlein', 'Saumlein', 'Saumzettel', 'Säumel', 'Säumelein', 'Säumlein']"
+Knorpel,"['Knorpelein', 'Knörpelein']"
+knotschen,['Knotscherlein']
+Knüppel,"['Knuppelein', 'Knüpflein', 'Knüpperlein', 'Knüpplein']"
+Knaus,"['Knäuselein', 'Knäuslein']"
+Knüpfel,"['Knüpfelein', 'Knüpferl']"
+knuspern,['Knüsperlein']
+Knüttel,['Knüttelein']
+Kohl,"['Kohlrabi', 'Köhlchen']"
+Kommiss,['Kommissbuckel']
+Magen,['Kommunikantenmägelein']
+flechten,['Kopfflechterei']
+schwinden,['Kopfschwindel']
+Koppe,"['Koppel', 'Köppelein', 'Köpperlein', 'Köpplein', 'Milchköpplein']"
+Kopp,['Koppelein']
+koppen,['Kopperei']
+Schwein,"['Korbschweinlein', 'Saugschweinlein', 'Schweinerei', 'Schweinfüßlein', 'Schweinlein']"
+Korn,"['Kornböckelein', 'Kornmannel', 'Kornmännelein', 'Kornrodel', 'Körnlein', 'Maiskörnelein', 'Maiskörnlein', 'Mehlkörnerlein']"
+Pappel,"['Kornpappelein', 'Käsepappelein']"
+Rade,['Kornradel']
+Stroh,"['Kornstrohbüschel', 'Strohbäuschelein']"
+krabbeln,"['Krabbel', 'Krabbelein']"
+Krach,"['Kracherl', 'Kracherlein']"
+Kragel,['Kragelein']
+krakeelen,"['Krakeel', 'Krakeele', 'Krakeelerei']"
+Kralle,['Krallelein']
+Laden,"['Kramlädelein', 'Krempeleinslädlein', 'Krämerlädlein', 'Ladelein', 'Lädlein', 'Ramschlädelein']"
+Kram,['Krampampel']
+Krappe,"['Krappel', 'Krappelein', 'Krappeslein']"
+kraus,"['Krauselein', 'Kräuselein']"
+Krawatte,['Krawattel']
+Kraxe,['Kraxel']
+Krebs,['Krebsel']
+Kreide,['Kreidel']
+kreischen,['Kreischerei']
+Krempel,['Krempelei']
+Kreuz,"['Kreuzerlein', 'Kreuzübel']"
+Otter,['Kreuzotterlein']
+kribbeln,['Kribbel']
+krickeln,"['Krickel', 'Krickelein']"
+Krieche,"['Kriechelein', 'Kriechenlein', 'Säukriechelein', 'Säukriechen', 'Weinkriechelein', 'Weinkriechen']"
+kriechen,['Kriecherlein']
+kritteln,['Krikelei']
+krimmen,['Krimmelein']
+Kringel,['Kringelein']
+Krippe,['Kripplein']
+kroschen,['Kroscherlein']
+Krupp,['Kruppchen']
+Kruspel,"['Kruspelein', 'Krüspelein', 'Krüsplein']"
+krähen,['Krählein']
+Krampf,['Krämpfebeutel']
+Krone,"['Krönel', 'Krönlein']"
+Seil,"['Krötenseilein', 'Seilchen', 'Seillein']"
+Kröte,['Krötlein']
+kudern,['Kuderlein']
+Raupe,"['Kuhräuplein', 'Stierräuplein']"
+schlucken,"['Kuhschlücklein', 'Schluckelein', 'Schluckerl', 'Schluckerlein', 'Schlückchen', 'Schlückel', 'Schlückelchen', 'Schlücklein']"
+Kukuruz,['Kukuruzkörnlein']
+kullern,['Kullerfäßlein']
+Kumpen,['Kumpchen']
+kuppeln,"['Kuppelei', 'Kupplerei', 'Verkuppelei']"
+Kuppe,"['Kuppelein', 'Küppel', 'Küpplein', 'Seichhämeisküppel']"
+Kuss,"['Kusselein', 'Kussi', 'Kusslein', 'Küsschen', 'Küsslein']"
+kotzen,['Kutzerei']
+Kachel,"['Kächelein', 'Suppenkächelein']"
+Gelte,"['Kälbleinsgeltlein', 'Saufgeltlein']"
+kauen,['Käuerei']
+kaufen,['Käufel']
+Kauz,"['Käuzchen', 'Käuzi', 'Käuzlein']"
+Kötze,['Kötzchen']
+Küche,['Küchenkästlein']
+Löffel,['Küchenlöffelein']
+Küken,"['Kükel', 'Kükenlein']"
+Kupfer,"['Küpferlein', 'Wasserküpferlein']"
+Kuppel,['Küppelein']
+Kurve,['Kürvlein']
+kuttern,['Kütterei']
+laben,['Labsal']
+Kasse,['Ladenkässlein']
+Lage,['Lagenstangnagel']
+lahm,['Lahmel']
+lallen,['Lalli']
+lamentieren,['Lamentiererei']
+lamper,['Lampel']
+Lünse,"['Lanel', 'Lanelein', 'Langelein', 'Langlein', 'Lanlein', 'Lemel', 'Lemelein', 'Leuchsenstiefel', 'Lonelein', 'Lonerlein', 'Lonlein', 'Lonnnagel', 'Lungelein', 'Lunlein', 'Länlein', 'Lömlein', 'Lönerlein', 'Lönlein', 'Lüblein', 'Lüchlein', 'Lümelein', 'Lünel', 'Lünelein', 'Lünglein', 'Lüngzapflein', 'Lünlein', 'Lünnlein', 'Lünzapflein', 'Nünlein', 'Nünleinnagel', 'Radlünlein', 'Wagenlänelein', 'Wagenlünglein']"
+Lapp,"['Lappel', 'Lapperl']"
+lasch,['Laschi']
+Gregor,"['Latschgori', 'Taubengogel', 'Taubengori']"
+latsch,"['Latschi', 'Quadratlatschen']"
+Laus,"['Lauserlein', 'Lausstaffelein', 'Läusemädlein', 'Lösezöttel']"
+Lazarus,['Lazzaroni']
+Lebzelte,['Lebzeltlein']
+lecken,"['Leckerlein', 'Zuckerlecklein']"
+plaudern,['Leerplauderei']
+Leib,['Leiblein']
+Lein,['Lein']
+leise,['Leiselein']
+Leiste,['Leistlein']
+Leist,['Leistnagel']
+Sprosse,"['Leiternsprössel', 'Leitersprössel', 'Sprossel', 'Sproßtel', 'Sprössel', 'Sprösslein', 'Sprötzel', 'Sprößtel', 'Zaunsprössel']"
+Lerche,"['Lerchelein', 'Lercherl', 'Lerchlein']"
+lernen,['Lerngestzelein']
+letzen,['Letzel']
+Leuchse,['Leuchsenagel']
+Libelle,['Libellchen']
+Paar,"['Liebespärchen', 'Liebespärlein', 'Paarlein', 'Pärlein', 'Vogelpärlein']"
+Lier,['Lierlein']
+Limonade,['Limonadlein']
+Linse,['Linslein']
+Ludwig,['Lucki']
+Luder,"['Luderl', 'Luderlein']"
+Luft,"['Lufti', 'Lüftlein', 'Schneelüftlein']"
+lugen,['Lugelein']
+Ludel,['Lulli']
+lummer,['Lummelein']
+Lump,"['Lumpazi', 'Lumpenturrel', 'Lumperei', 'Lumperlein', 'Lumpeslein', 'Lumpi', 'Lümpchen', 'Lümpel', 'Lümpelein', 'Lümplein']"
+Stab,"['Lungenstäbchen', 'Lungenstäblein', 'Staberl', 'Stäbchen', 'Stäbel', 'Stäbelein', 'Stäblein']"
+Torpedo,['Lungentorpedlein']
+lunzen,['Lunzelein']
+Lusche,"['Luschlein', 'Lüschel', 'Lüschlein']"
+lutschen,['Lutscherlein']
+Minz,"['Lämmermäunzlein', 'Maunzelein', 'Miezelein', 'Miezi', 'Miezlein', 'Minzelein', 'Minzi', 'Minzlein']"
+Lampe,"['Lämpelein', 'Lämplein']"
+Land,"['Ländchen', 'Musterländlein']"
+Wiede,"['Längwiednagel', 'Tollerwiedel', 'Wiedlein']"
+Benedikt,['Lätschenbeni']
+Latte,"['Lättchen', 'Lättlein', 'Schlittenlättlein']"
+Graben,['Läusgräbelein']
+löschen,['Löschgummi']
+Los,['Löslein']
+lügen,"['Lügerei', 'Lüglein']"
+Schnaps,"['Magenschnäpslein', 'Schnapslein', 'Schnäpschen', 'Schnäpslein']"
+Mahd,['Mahdlein']
+Mahl,['Mahlein']
+mahlen,"['Mahlerei', 'Mahlerlein']"
+Zweig,"['Maienzweiglein', 'Schmeckzweiglein', 'Zweiglein']"
+Mais,"['Maisgackelein', 'Maiskrüppelein']"
+Makrone,['Makronerlein']
+purzeln,"['Mamapurzelein', 'Purzel', 'Purzelein', 'Pürzelein']"
+Mamme,"['Mammelein', 'Memmelein', 'Mämmel']"
+Madmoiselle,['Mampele']
+mangen,"['Mangel', 'Wäschemangel']"
+Manschette,['Manschettlein']
+Marone,['Maronelein']
+Matte,['Mattelein']
+Matthäus,['Matthäi']
+Matz,"['Matzelein', 'Matzlein', 'Mätzchen', 'Mätzlein', 'Piepmätzlein']"
+Maulwerfer,['Maulwerfel']
+maunken,['Maunkelein']
+mauschel,['Mauschelein']
+meckern,"['Meckerei', 'Meckerlein', 'Meckeschen']"
+Mehl,"['Mehlhäferlein', 'Mehlpöppelein']"
+Mehlmeisel,['Mehlmeislein']
+Prapps,['Mehlpramslöffel']
+Spatz,"['Mehlspatzlein', 'Mehlspätzchen', 'Mehlspätzlein', 'Mutterspätzelein', 'Seiherspätzlein', 'Spatzel', 'Spatzelein', 'Spatzi', 'Spatzilein', 'Spatzlein', 'Spätzchen', 'Spätzlein', 'Spätznudel']"
+Teig,"['Mehlteiglein', 'Teigel', 'Teiglein']"
+Meise,"['Meiselein', 'Meislein']"
+Simmer,['Mellein']
+Menkenke,['Menkenkelein']
+Mensch,"['Menschelein', 'Menschlein']"
+Methusalem,['Methusalein']
+Metz,"['Metzlein', 'Salzmetzlein']"
+Metze,['Metzlerlein']
+Michael,"['Michaeli', 'Profitmichelchen']"
+mickrig,['Micklein']
+Miete,['Mietlein']
+Milch,"['Milch#?lein', 'Milchkübel', 'Milchweckelein']"
+Roggen,"['Milchrögglein', 'Röggelein', 'Rögglein']"
+Minni,"['Minnerlein', 'Minnilein', 'Minnkelein']"
+mischbern,['Mischgelemaschgele']
+Mist,['Misttörlein']
+Tor_2,"['Misttürlein', 'Törlein', 'Wagentörlein']"
+bringen,"['Mitbringelein', 'Mitbringsel', 'Mitbringselein', 'Reisemitbringelein']"
+Model,['Modellein']
+Mohammed,['Mohammedi']
+Mohn,['Mohnkipfel']
+schlottern,"['Mohnschlotterlein', 'Schlotterlein', 'Zuckerschlotterlein']"
+Zopf,"['Mohnzöpflein', 'Mohzöpflein', 'Zöpfchen', 'Zöpflein']"
+Mohr,"['Mohrchen', 'Mohrlein']"
+Molke,"['Molkerei', 'Mordsmolkerei']"
+Molla,"['Mollelein', 'Molli', 'Mollilein']"
+Moment,['Momentlein']
+Montur,['Montürlein']
+Moor,['Moorfraulein']
+Moos,['Moosfraulein']
+Mopp,"['Moppel', 'Moppelchen', 'Moppelein', 'Moppi', 'Mopplein', 'Möppel', 'Spitzmoppel']"
+Mops,"['Mopsel', 'Mopselein', 'Mopsi', 'Mopslein', 'Möpslein']"
+Mord,"['Mordsmadel', 'Mordstreiterei']"
+Schlack,"['Mordsschlackel', 'Schlackel', 'Schlackelein', 'Schlackerlein', 'Schlackeslein', 'Schlacki', 'Schlawackel']"
+Schande,"['Mordsschänderei', 'Schänderei']"
+Trulle,"['Mordstrulli', 'Trullalein']"
+zerren,"['Mordszerrerei', 'Zerrerei']"
+Moschef,['Moschelein']
+mosig,['Mosel']
+Most,['Mosterlein']
+Motschel,['Motschelein']
+Muck,['Mucki']
+mucken,['Mucksel']
+mucksen,['Muckserlein']
+mumpfeln,['Mumpfel']
+Murks,"['Murkserei', 'Murkslein']"
+murren,['Murrlein']
+Musch,"['Muschel', 'Muschelein', 'Muschi', 'Muschilein']"
+Muselmane,['Muselein']
+Sohn,"['Mustersöhnchen', 'Muttersöhnchen', 'Muttersöhnlein', 'Söhnlein']"
+äbich,['Mächen']
+mähen,['Mäherei']
+Mantel,"['Mäntelchen', 'Mäntelein']"
+Wappen,"['Mäppelein', 'Wappel', 'Wappenlein']"
+Marmel,['Märbelein']
+Troddel,"['Märzentroddelein', 'Troddelchen', 'Troddelein']"
+Veilchen,"['Märzenveilchenlein', 'Veielein', 'Veigelein', 'Veilchelein', 'Veilchenlein']"
+Masche,['Mäschlein']
+Mast,['Mästel']
+Zahn,"['Mäuszähnlein', 'Schafzähnlein', 'Zähnlein']"
+Mund,"['Mündelein', 'Mündlein']"
+mürb,['Mürbelein']
+Nabe,['Nabensteckerlein']
+nach,['Nachgerechlein']
+klauben,['Nachklauberlein']
+Nacht,"['Nachtdüppchen', 'Nachträuberlein', 'Tagundnachtlein']"
+Hucke,['Nachthuckel']
+rauben,['Nachträuberl']
+nackt,['Nackedei']
+Näber,['Nagelnäberlein']
+reißen,['Nagelrissel']
+nagen,['Naglein']
+Napf,"['Napfel', 'Näpflein', 'Salznapfel', 'Salznäpfchen', 'Salznäpfel', 'Tragnäpflein']"
+Narr,['Narretei']
+Neger,"['Negerlein', 'Niggerlein', 'Niggi']"
+Neid,"['Neiderlein', 'Neidlein']"
+Nelke,"['Nelkelein', 'Nägelein']"
+breit,['Nestbreitelein']
+wesen,['Nestgewesel']
+Hitsch,['Nesthitschelein']
+Kegel,"['Nestkegelchen', 'Nestkegelein', 'Nestkeglein']"
+quak,['Nestquaklein']
+Quappe,"['Nestquappchen', 'Nestquäpplein', 'Nächtquäpplein', 'Quappel']"
+Butzen,['Netzbutzel']
+Gier,['Neugierlein']
+Wunsch,['Neujahrwünschen']
+taugen,"['Nichtstaugerlein', 'Taugelein', 'Untaugtel']"
+nicken,"['Nickerlein', 'Nockerlein']"
+Niere,['Nierlein']
+Nieslein,['Nieselein']
+Niete,['Nietlein']
+niffen,['Niffel']
+nippen,"['Nipferlein', 'Nipperlein']"
+Nippel,['Nippelein']
+noster,['Nosterlein']
+nuckeln,"['Nubbilein', 'Nuckel', 'Nuckelein', 'Nucki']"
+walzen,"['Nudelwälzlein', 'Walzel', 'Wutschel', 'Wutschelein', 'Wuzel']"
+schnullen,"['Nulli', 'Schnullerlein', 'Schnulli']"
+nutschen,"['Nutschel', 'Nutzelein', 'Nutzi']"
+nüseln,"['Nüschel', 'Nüsel']"
+Obst,['Obstgrubselein']
+Rick,"['Ofenricklein', 'Ricklein']"
+Ofen,"['Ofenstangel', 'Rauchofenlein', 'Wasseröfelein', 'Öfel', 'Öfelein']"
+blinken,['Ohrblinkelein']
+Ohr,"['Ohrenklänkelein', 'Ohrenklünkerlein', 'Schlappöhrlein', 'Schweinsöhrlein', 'Säuohrlein', 'Säuöhrlein', 'Öhrlein']"
+Watsche,"['Ohrenwaschel', 'Ohrenwaschlein', 'Ohrenwatschel', 'Ohrenwatschlein', 'Ohrwaschel', 'Ohrwaschlein', 'Ohrwaschtel', 'Ohrwatschel', 'Ohrwatschlein', 'Ohrwätschel', 'Säuwaschel', 'Säuwaschlein', 'Waschel', 'Watschel']"
+Oktober,['Oktoberlein']
+Oma,"['Omalein', 'Omchen', 'Omel', 'Omi']"
+Opa,['Opapel']
+pampern,"['Pampelein', 'Pämpelein']"
+panschen,['Panscherei']
+Papa,"['Papalein', 'Papi', 'Papsi']"
+rollen,"['Papierrölllein', 'Rollein', 'Rollelein', 'Rollerfäßlein', 'Röllchen', 'Röllein', 'Röllelein', 'Rölllein', 'Schnittlauchröllchen', 'Schnittlauchröllein', 'Schnittlingröllein', 'Schnittlingröllelein', 'Schnittlingsröllchen', 'Schnittlingsröllein', 'Süriröllelein', 'Zigarrenrölllein']"
+wichsen,['Papierwichsel']
+Podex,['Pappelpopolein']
+Patake,"['Patakenbützelein', 'Saupatakelein']"
+Pate,"['Patlein', 'Taufpatlein']"
+Paulus,['Pauli']
+Pause,['Pausenwecklein']
+pecken,['Peckelein']
+Peitsche,"['Peitschen', 'Peitschennestel']"
+Schnur,"['Peitschenschnürlein', 'Schnalzschnürlein', 'Schnürchen', 'Schnürel', 'Schnürelein', 'Schnürlein', 'Vorschnürlein']"
+pelzen,"['Pelzelein', 'Pelzerlein']"
+pempern,['Pempelein']
+Perle,['Perlein']
+Peter,"['Peterl', 'Peterlein', 'Schmuspeterlein', 'Tannenpeterlein']"
+petzen,['Petzelein']
+Pfahl,['Pfahlel']
+Panne,['Pfannel']
+Pfeife,"['Pfeifelein', 'Pfeiflein']"
+Heinricht,['Pfeifenheini']
+Pfennig,['Pfenniglein']
+Pfipf,['Pfipfelein']
+pfitsch,"['Pfitschelein', 'Pitschelein', 'Pitschen']"
+pfitzen,"['Pfitschen', 'Pfitschlein', 'Pfitzerlein', 'Pfitzlein']"
+Pflaster,"['Pflasterei', 'Pflasterlein', 'Pflästerlein']"
+scharren,"['Pflugschärrlein', 'Scharrlein', 'Teigscharrlein', 'Zusammengescharrlein']"
+Schar,"['Pflugschörlein', 'Schorbel', 'Schorschaufel', 'Schärlein', 'Schörlein']"
+winden,"['Pflugswindel', 'Windel']"
+plump,"['Pflumpfel', 'Pflumpfelein', 'Pflumpflein', 'Pflümpel', 'Pflümpfel']"
+Protsche,"['Pfrütschlein', 'Prötschlein']"
+pfumpfen,['Pfumpfel']
+Pfund,"['Pfundsbengel', 'Viertelpfündlein']"
+Pfalz,['Pfälzerlein']
+Pforsche,['Pförschel']
+Pfosten,['Pföstlein']
+pichen,"['Pichel', 'Wachspichel']"
+Pech,['Pichelein']
+pimpeln,"['Pimpelein', 'Pimperlein']"
+Pimpf,['Pimpflein']
+Pinscher,"['Pinscherlein', 'Rehpinscherlein']"
+Pipper,"['Pippel', 'Pipperlein', 'Schnakenpippeschen']"
+plagen,['Plagerei']
+Plage,['Plaglein']
+plappern,['Plapperlein']
+Stefan,['Plattensteffel']
+Sebastian,"['Plattenwastel', 'Schnurrenwastel']"
+bleschen,['Pleschel']
+Planke,['Plänkel']
+Plan,['Plänlein']
+Plarre,['Plärrchen']
+plärren,"['Plärrerei', 'Plärri']"
+Stern,"['Plätzleinssternlein', 'Schneesternlein', 'Sternchen', 'Sternlein']"
+Polanti,['Polantilein']
+Pole,"['Polatschelein', 'Polatschlein', 'Poli', 'Polinski', 'Polski']"
+Postament,['Postamentlein']
+Potschamber,"['Potschamberl', 'Potschamberlein']"
+poussieren,"['Poussiererei', 'Poussierpärlein']"
+tuch,"['Poussiertüchelchen', 'Poussiertüchlein', 'Schmeckertüchlein', 'Schnupftüchlein']"
+prasseln,['Prassel']
+Primel,['Primelein']
+Prinz,['Prinzlein']
+Prise,['Prislein']
+Probe,['Probiererlein']
+Profit,['Profitchen']
+Propeller,['Propellerlein']
+Prozess,"['Prozesserei', 'Prozessiererei']"
+Präsent,['Präsentlein']
+Protz,['Prötzel']
+Pul,['Pulchen']
+warm,"['Pulswärmerlein', 'Wärmerlein']"
+Pulver,"['Pulverl', 'Pulverlein', 'Pülverlein']"
+Pummer,['Pummerlein']
+pumpern,['Pumperlein']
+Zier,['Puppenzierlein']
+pusten,['Pusterlein']
+put,"['Puttelein', 'Puttlein', 'Püttlein']"
+Putzi,['Putzilein']
+päppern,['Päpperlein']
+Punkt,"['Pünktelein', 'Pünktlein']"
+Qualm,['Qualmstängel']
+Quantum,"['Quantel', 'Quäntlein']"
+Quart,"['Quartel', 'Quartlein']"
+Quirl,"['Quirbel', 'Quirdel', 'Quirgel', 'Quirlein']"
+Quaß,['Quäßel']
+Rachen,['Rachel']
+Bahre,['Radbahrel']
+radieren,"['Radi', 'Radsel', 'Radsi', 'Radski']"
+Radieschen,['Radieslein']
+fummeln,"['Radsefummel', 'Radselfummel', 'Radserfummel', 'Radsifummel']"
+Rakete,['Raketel']
+Ranges,"['Rangel', 'Rangeslein', 'Rängeslein', 'Setzrangel', 'Setzrangeslein']"
+Harsch,['Raschel']
+rasen,['Raserei']
+ratschen,"['Ratschel', 'Ratscherlein']"
+Ratte,"['Rattlein', 'Rättel', 'Rätzlein']"
+rauchen,['Raucherettlein']
+rau,['Rauli']
+Raup,"['Raupel', 'Räupelein', 'Räuplein']"
+haben,['Rechthaberei']
+Reh,"['Rehelein', 'Rehlein']"
+Reif,"['Reifel', 'Wasserreiflein']"
+Reim,['Reimel']
+Ast,"['Reisigästlein', 'Ästchen', 'Ästlein']"
+Remise,['Remiselein']
+Theresa,['Resel']
+Rest,['Restlein']
+Raute,['Reutlein']
+Rhombus,['Rhombuslein']
+Rid,"['Ridschelein', 'Ridscherlein', 'Waagridschelein']"
+riechen,['Riecherlein']
+Riefe,"['Riefchen', 'Riefelein', 'Rieflein', 'Rieftlein']"
+Riegel,['Riegelein']
+Riffel,['Riffelein']
+Rig,['Riglein']
+Rind,['Rindlein']
+Rippe,"['Rippchen', 'Rippel', 'Ripplein', 'Rippsel', 'Schokoladeripplein']"
+ritzen,"['Ritzelein', 'Ritzerlein']"
+Ritz,['Ritzlein']
+Strauß,"['Rosmarinsträußchen', 'Schmeckersträußlein']"
+Stengel,"['Rosmarinstängelein', 'Stängelein']"
+Rowdy,['Rowlein']
+ruchen,['Ruchel']
+Rugel,['Rugerl']
+Rülp,"['Rulpel', 'Rölpel']"
+Rumäne,['Rumanski']
+Rummelse,['Rummelslein']
+Runkel,['Runkelein']
+ruschen,"['Ruschel', 'Ruschelbuschel', 'Ruschlein', 'Stadtruspel']"
+Russe,"['Russki', 'Russlein']"
+Ruß,"['Rußel', 'Rußlein']"
+Raude,"['Räudel', 'Räudhammel']"
+Rausch,"['Räuschchen', 'Räuschel', 'Räuschlein']"
+Rocken,['Röckelein']
+Rost_2,['Röstlein']
+Rübe,"['Rübelein', 'Rüblein']"
+Rufe,['Rüftlein']
+rühren,"['Rührknödelein', 'Rührlein', 'Rührsieblein']"
+rund,['Ründlein']
+rüsen,"['Rüssel', 'Rüsselein', 'Saugrüssel']"
+Rüssel,"['Rüsslein', 'Saurüsselein', 'Säurüsselein']"
+Rute,"['Rütlein', 'Weiherrütlein']"
+Saft,"['Saftel', 'Säftel', 'Säftlein']"
+Ursula,"['Sagursel', 'Streitursel', 'Urselein']"
+Salon,['Salonchen']
+Salz,"['Salzbrügelein', 'Salzdüppchen', 'Salzdüppel', 'Salzgrüblein', 'Salzkipplein']"
+Kürbe,"['Salzkürbelein', 'Salzkürblein']"
+streuen,"['Salzstreuerlein', 'Schnittlingstreusel', 'Streusel', 'Streuselein']"
+Sange,"['Sangel', 'Sangelein', 'Sanglein', 'Sängelein', 'Sänglein']"
+nett,['Sasonettelein']
+Sasser,['Sasserlein']
+Satureja,['Satteri']
+saugen,"['Saugelein', 'Saugerlein', 'Saugi', 'Saugschweinel', 'Säugerlein']"
+säumen,"['Saumel', 'Saumelein', 'Saumerlein', 'Säumerlein', 'Säumseele']"
+sausen,"['Sauserlein', 'Sauslein', 'Säusel']"
+Auge,"['Sauäugelein', 'Sauäuglein', 'Schweinsäugelein', 'Schweinsäuglein', 'Schweinäuglein', 'Säuäugelein', 'Säuäuglein', 'Äugelein', 'Äuglein']"
+schaben,"['Schaberlein', 'Teigschaberl', 'Teigschaberlein', 'Teigschäberlein']"
+Schachtel,"['Schachtelein', 'Schachterl', 'Schuhcremeschachtelein', 'Schuhputzschachtelein', 'Schuhschachtelein', 'Schuhwichsschachtelein', 'Schächtelein', 'Stiefelwichsschächtelein', 'Wichsschachtelein', 'Wichsschachterl', 'Wichsschächtelein', 'Zündhölzleinschachtlein']"
+Euter,['Schafeuterlein']
+Schakower,['Schakowerlein']
+Scham,['Schamschübelein']
+Gendarm,['Schandi']
+Schanze,"['Schanzel', 'Schanzensäulein', 'Schanzlein', 'Schänzlein']"
+Scharnier,"['Scharnierlein', 'Waagscharnierel', 'Waagscharnierlein', 'Wagenscharnierlein']"
+Schaub,"['Schaublein', 'Schäubelein', 'Schäublein', 'Strohschaublein', 'Strohschäublein']"
+Schaukel,['Schaukelein']
+Schecke,"['Scheckel', 'Schecklein']"
+schal,['Scheele']
+Schenkel,"['Schenkelein', 'Waagschenkelein', 'Waagschenkerl', 'Waagschenkerlein']"
+schepp,['Scheppelein']
+scheren,['Schererei']
+Schermitze,['Schermitzel']
+Scherz,"['Scherzel', 'Scherzlein']"
+scheuern,['Scheuerteufel']
+schicker,['Schickerlein']
+Schickse,"['Schicksel', 'Schickslein', 'Stadtschickslein']"
+Schiefer,['Schieferlein']
+Schimmel,['Schimmelein']
+schimpfen,['Schimpferei']
+Schindel,"['Schindelein', 'Schindlein']"
+schinden,['Schinderei']
+richten,['Schiri']
+schlabbern,['Schlabberlein']
+schlafen,"['Schlaferlein', 'Schläferlein']"
+schlanken,"['Schlankel', 'Schlankelein', 'Stadtschlankel']"
+Schlauch,"['Schlauchi', 'Schläuchlein']"
+schlau,['Schlauerlein']
+Schlawiner,['Schlawinerlein']
+Schlafittich,"['Schlawittchen', 'Schlawittlein']"
+Schlehe,"['Schlehelein', 'Schlehlein']"
+Schleier,['Schleierlein']
+Schleiße,['Schleißerei']
+schlenkern,['Schlenkerlein']
+schleppen,['Schleppetslein']
+Schlesier,['Schlesingerlein']
+Schleuder,"['Schleuderlein', 'Steinschleuderlein']"
+schliefen,"['Schliefelein', 'Schlieferlein']"
+schlimm,['Schlimmel']
+Schlingel,['Schlingelein']
+Schlippe,['Schlippchen']
+stützen,['Schlittenstützel']
+Salomon,['Schlomel']
+schlummern,['Schlummerlein']
+schlamp,['Schlumpel']
+schluren,"['Schluri', 'Schlüri']"
+Schlotz,['Schlutzeri']
+schlurfen,['Schlärfel']
+schlatzen,['Schlätzlein']
+Schlauder,['Schläuderlein']
+Schlaufe,['Schläuflein']
+Schlot,['Schlötlein']
+Schlutte,['Schlüttlein']
+schmächtig,"['Schmachtläpplein', 'Schmächtelein']"
+schmal,['Schmalelein']
+Schmalz,"['Schmalzelein', 'Schmalzerlein', 'Schmei', 'Schmälzlein']"
+schmarotzen,['Schmarotzerlein']
+Weifen,['Schmarrerwaffel']
+schmatzen,"['Schmatzelein', 'Schmatzerl', 'Schmatzerlein', 'Schmatzlein', 'Schmätzel', 'Schmätzelein', 'Schmätzerlein', 'Schmätzlein']"
+Schmauch,['Schmauchelein']
+Schmied,['Schmiedlein']
+Schmunk,['Schmünkelein']
+Schnake,"['Schnakenpipperschen', 'Schnaki', 'Schnaubenhäusel', 'Schnäklein']"
+Schnappe,"['Schnapflein', 'Schnappel', 'Schnappelein', 'Schnäppelein']"
+Bast,"['Schnappbastel', 'Schnitzbastel', 'Schuhbastel']"
+schnappen,"['Schnapperlein', 'Schnipperlein', 'Schnäpperlein']"
+schnattern,"['Schnatterei', 'Schnatterlein']"
+Schnaube,"['Schnaublein', 'Schnaufelein', 'Schnäublein', 'Schnäupflein']"
+schnaufen,"['Schnauferlein', 'Schnäufterlein', 'Verschnauferlein']"
+schaufel,['Schneeschäufelein']
+Wolke,['Schneewölklein']
+schnicken,['Schnicksel']
+schniefen,['Schnieberitzlein']
+schnarchen,['Schnorchel']
+Schnotzen,['Schnotzel']
+schnuck,"['Schnuckel', 'Schnuckelchen', 'Schnuckelein', 'Schnuckerl', 'Schnuckerlein', 'Schnucki', 'Schnuckilein', 'Schuckilein']"
+schnüffeln,"['Schnuffel', 'Schnüffel']"
+schnurz,['Schnurzi']
+Schnute,"['Schnutlein', 'Schnütel', 'Schnütlein']"
+Schnatze,"['Schnutzel', 'Schnützel']"
+Schnude,"['Schnödel', 'Schnüdel', 'Schnüdelein', 'Schnüdlein', 'Wurstschnüdel']"
+schnurkeln,['Schnürkel']
+schnurren,['Schnürrlein']
+Schnüss,['Schnüssel']
+schocken,"['Schockel', 'Schockelein']"
+Schokolade,['Schokoladenripplein']
+Schoppen,"['Schopplein', 'Schöpplein']"
+Schote,['Schotelein']
+schrackeln,['Schrackel']
+schreiten,['Schreitel']
+Schrenze,['Schrenzlein']
+Schretzel,['Schretzelein']
+Schrolle,['Schrolli']
+Schrot,"['Schrotbrenklein', 'Schrötel', 'Schrötlein']"
+schrubben,"['Schrubbteufel', 'Schrübbel']"
+schrumpeln,['Schrumpel']
+schroh,['Schröhel']
+Ort,"['Schuhortel', 'Schuhörtel', 'Schuhörtlein', 'Schustersortel', 'Schustersörtlein', 'Schusterörtlein', 'Örtel', 'Örtlein']"
+Schule,['Schulschwänzerlein']
+Vesper,"['Schulvesperlein', 'Vesperlein']"
+schummeln,['Schummel']
+Schuss,"['Schussbartel', 'Schussel', 'Schusslein', 'Schüsslein']"
+Schusser,"['Schusserlein', 'Schüsserlein']"
+schwach,['Schwachelein']
+Schwadron,['Schwadroniererei']
+Schwalbe,"['Schwalbchen', 'Schwälblein']"
+schwappen,['Schwappel']
+Sweater,['Schwedelein']
+Schwefel,"['Schwefelein', 'Schwefellein']"
+Schweiz,['Schweizerlein']
+Schweiß,['Schweißlein']
+Schwester,['Schwesterlein']
+schwetzeln,['Schwetzel']
+schwimmen,['Schwimmerlein']
+schwingen,"['Schwingel', 'Schwinglein']"
+Schwips,"['Schwipschen', 'Schwipsel', 'Schwipslein']"
+schwätzen,['Schwätzerei']
+Schart,['Schärtlein']
+schön,"['Schönelein', 'Schönerlein', 'Schöneslein', 'Tausendschönlein']"
+schürgen,"['Schörgel', 'Schürgel']"
+Schurz,['Schürzenbändlein']
+Schütze,['Schützlein']
+Weste,['Sechswestenwaffel']
+Anna,['Seichannel']
+Christine,['Seichchristel']
+Seidel,['Seidlein']
+Sellerie,['Sellerlein']
+senken,['Senkel']
+Warze,"['Sensenwarzel', 'Warzel', 'Wärzel', 'Wärzelein', 'Wärzlein']"
+Serviette,"['Serviettelein', 'Serviettlein']"
+Sex,['Sexappeal']
+sieben,"['Siebenerlei', 'Siebenerlein', 'Siebensäcklein']"
+sieben (Zahl),['Siebenmeilenstiefel']
+siffeln,['Siffel']
+singen,['Singerlein']
+sitzen,['Sitzlein']
+Spross,['Sommersprössel']
+Spachtel,['Spachtelein']
+Spaghetti,['Spaghettinudel']
+Spanier,['Spanakel']
+Spange,"['Spangel', 'Spangelein']"
+Span,"['Spanlein', 'Spänlein']"
+Speck,"['Speckelein', 'Speckkartoffel', 'Specklein']"
+Speiche,['Speichen']
+Speise,['Speislein']
+Spalt,"['Speltelein', 'Spelterlein', 'Spältelein', 'Spälterlein']"
+Spenzer,['Spenzerlein']
+Sperenzien,"['Sperenzchen', 'Sperenzel', 'Sperenzlein']"
+Spezi,['Spezel']
+Spiegel,['Spiegelein']
+fechten,['Spiegelfechterei']
+Spilling,"['Spillchen', 'Spindel']"
+Spindel,"['Spindelein', 'Spinndelein']"
+spinnen,"['Spinnelein', 'Spinneslein']"
+weben,['Spinnwebel']
+Strumpf,['Spinnwebenstrümpflein']
+Splint,['Splintlein']
+Spons,['Sponsel']
+Sport,"['Sportlein', 'Spörtchen', 'Spörtlein']"
+Sprack,['Sprackelein']
+spratzen,"['Spratzel', 'Spratzelein', 'Sprätzel']"
+Spreil,['Spreilelein']
+spreizen,"['Spreizel', 'Spreizlein']"
+sprengen,"['Sprengel', 'Sprengerlein']"
+Sprieß,"['Spriezel', 'Spriezelein']"
+Sprinz,"['Springinkelein', 'Springinkerl']"
+Spruch,"['Spruchsäckel', 'Sprüchel', 'Sprüchlein']"
+Sprauß,"['Spräußel', 'Spräußtel']"
+Socke,['Sprüchesockel']
+Spaten,['Spätelein']
+spülen,"['Spülein', 'Spüli']"
+Spule,['Spüllein']
+Spund,['Spündlein']
+Stadt,"['Stadtel', 'Stadterlein', 'Stadtsäckel', 'Städtel', 'Städtlein']"
+Leonhard,['Stangenloidel']
+stanzen,['Stanzlein']
+Hals,['Starenhälslein']
+starr,"['Starzefickel', 'Sterzerlein']"
+Staub,"['Stauberlein', 'Stäubchen', 'Stäuberlein', 'Stäublein']"
+Mauer,['Staumäuerlein']
+wehren,"['Stauwehrlein', 'Wehrlein']"
+Stefel,['Stefelein']
+Stephan,['Steffelein']
+wecken,['Stehweckerlein']
+Wort,"['Sterbenswörtlein', 'Wörtel', 'Wörtlein']"
+Stickel,['Stickelein']
+Stil,['Stilmöbel']
+Chistoph,['Stoffel']
+stolpern,['Stolperlein']
+Tritt,"['Stolpertrittlein', 'Trittlein', 'Türtrittlein']"
+Storren,"['Storrlein', 'Störrel', 'Störrlein']"
+stottern,['Stotterlein']
+strampeln,"['Strampel', 'Strampelchen', 'Strampelein', 'Stramplein']"
+strampfen,"['Strampfel', 'Strampferlein']"
+stranzen,['Stranzi']
+Strenze,"['Stranzlein', 'Strenzel', 'Strenzelein', 'Strenzlein', 'Säustrenzel']"
+Strauche,['Strauchen']
+strawanzen,['Strawanzchen']
+streichen,"['Streicherlein', 'Strichel', 'Strichlein']"
+streiten,"['Streitlein', 'Streitsäckel']"
+Striezel,"['Striezelein', 'Striezlein']"
+striezen,['Striezi']
+Strizi,['Strizel']
+stramm,['Strummel']
+strupfen,"['Strupfel', 'Strupferlein', 'Strüpferlein']"
+strupp,['Struppi']
+Straße,['Sträßlein']
+stumm,['Stummelein']
+stupsen,['Stupsel']
+Stutz,"['Stutzchen', 'Stutzel', 'Stutzelein', 'Stutzlein', 'Stützlein']"
+Stadel,['Städelein']
+Stall,['Ställein']
+Ständel,['Ständelein']
+Star,['Stärlein']
+Staude,"['Stäudel', 'Stäudlein']"
+Stoff,['Stöfflein']
+stumpen,['Stümperei']
+stumpf,['Stümpflein']
+Stunde,['Stündelein']
+Sturm,['Stürmchen']
+Sturz,"['Stürzel', 'Stürzelein', 'Stürzlein']"
+Stute,['Stütlein']
+Suff,"['Sufflein', 'Süffchen', 'Süfflein']"
+Suppe,"['Supenkännlein', 'Suppenbündlein', 'Süpplein']"
+sirig,['Suri']
+surren,['Surmelein']
+Säbel,['Säbelein']
+säen,"['Säerei', 'Säerlein', 'Särüblein']"
+Satte,['Sättlein']
+Zehe,"['Säuzehlein', 'Zehlein']"
+Süre,"['Sürelein', 'Süri', 'Sürlein']"
+süß,"['Süßbirnlein', 'Süßelein']"
+Tabak,['Tabakel']
+Tablett,['Tablettlein']
+Tante,['Tantel']
+tatschen,"['Tatschelein', 'Tatschlein', 'Tätschelein']"
+tatter,"['Tattel', 'Tatterlein', 'Tätterlein']"
+Bert,['Taubbertel']
+taub,"['Taubdüdel', 'Taubel', 'Taubelein']"
+Jude,['Taubenjudlein']
+tauchen,['Taucherlein']
+taumeln,"['Taumel', 'Taumelein']"
+zittern,['Teichzitterlein']
+Tempel,['Tempelein']
+Tenne,['Tennsel']
+Qual,['Tierquälerei']
+tupfen,"['Tipelein', 'Tupfenlein', 'Tüpfel', 'Tüpfelchen', 'Tüpfelein', 'Tüpflein']"
+Tipp,['Tippelein']
+tippen,['Tippsel']
+toll,['Tollerei']
+Kirche,['Totenkirchlein']
+Toupet,['Toupetel']
+trallen,['Trallerlötschlein']
+Trallewatsch,['Trallewatschki']
+Tran,['Tranmeichel']
+Susanne,"['Transusel', 'Traumsusel', 'Traumsuselein']"
+tratschen,['Tratschelein']
+deuten,['Traumdeuterei']
+dosen,['Traumduselein']
+Traum,"['Traumdussel', 'Traumel', 'Traumenickel', 'Traumerlein', 'Traumernikel', 'Träumerlein']"
+happeln,"['Traumhappel', 'Traumhappelein']"
+Trutsche,"['Traumtrutschelein', 'Truschel', 'Truschelein', 'Truschkelein', 'Trutschel', 'Trutschelein', 'Trutscherl', 'Trütschel', 'Trütschelein', 'Trütschlein']"
+Trio,['Tri']
+tribulieren,['Tribuliererei']
+Trichter,['Trichterlein']
+triezen,['Triezlein']
+trinken,"['Trinkel', 'Trinklein', 'Trünklein']"
+Trolle,"['Trollel', 'Trollelein', 'Tröllelein', 'Trölllein']"
+Trommel,"['Trommelein', 'Trommerl']"
+Trott,['Trottel']
+Trottel,['Trottelein']
+Gertrude,['Trudel']
+Truhe,"['Truhchen', 'Truhelein']"
+Träne,['Tränmaichel']
+trappen,['Träppel']
+Trost,['Trösterlein']
+trüb,['Trübsal']
+Trüffel,['Trüffelein']
+turteln,"['Turtel', 'Turteltäubchen', 'Turteltäublein']"
+Taube,"['Täubchen', 'Täubel', 'Täubelein', 'Täuberl', 'Täublein']"
+toppen,['Töppslein']
+Torte,['Törtlein']
+Gewände,['Türangelgewändlein']
+Türke,['Türkel']
+Turmel,"['Türmelchen', 'Türmelein']"
+Turm,['Türmlein']
+Tadel,"['Untadelein', 'Untädelein']"
+tüchtig,['Untüchtel']
+Urigel,['Urigelein']
+uräß,['Uräßlein']
+laden,['Verladegabel']
+verrecken,"['Verreckerl', 'Verreckerlein']"
+Rat,['Verräterchen']
+Vers,"['Versel', 'Verslein']"
+Vetter,['Vetterlein']
+Wachtel,['Wachtelein']
+wampfen,['Wampfelein']
+wamsen,['Wamselein']
+wanken,['Wankelein']
+walgen,"['Wargelein', 'Wärgelein']"
+einander,['Warmbeieinanderlein']
+warten,"['Warterei', 'Wegwartel']"
+Wasen,"['Waselein', 'Wäselein', 'Wäsenlein']"
+ducken,['Wasserduckerlein']
+Hornisse,['Wasserhornessel']
+Runse,['Wasserrunsel']
+Sabastian,['Wastel']
+watscheln,['Watschelein']
+wau,['Wauwelein']
+wa,['Wawalein']
+Balg,['Wechselbälglein']
+weh,"['Wehelein', 'Wehwehlein']"
+Weichsel,['Weichselein']
+Rahm_2,['Weidenrähmlein']
+Weide,['Weidlein']
+Weile,"['Weilchen', 'Weilein']"
+weinen,['Weinerei']
+Wein,['Weinkriechlein']
+Rebe,['Weinreblein']
+weisen,['Weisel']
+Welle,"['Wellchen', 'Wellebüschel', 'Wellenlein']"
+welsch,"['Welschen', 'Welscherlein']"
+Werk,['Werkerlein']
+Wespe,"['Wespel', 'Wespelein', 'Wischel', 'Wispel', 'Wispelein']"
+Wetter,['Wetterlein']
+Wicht,"['Wichtel', 'Wichtlein']"
+wiegeln,['Wiegel']
+Wien,['Wienerlein']
+Wiesel,"['Wieselchen', 'Wieselein', 'Wieserl']"
+Wind,"['Windmännlein', 'Windspral', 'Windswirbel', 'Windszwirbel', 'Windwirbel']"
+spräheln,['Windsprähel']
+Aster,['Winterasterlein']
+Wipfel,['Wipfelein']
+Wirbel,['Wirbelein']
+Wirt,['Wirtlein']
+Wiss,"['Wissel', 'Wisselein', 'Wisserlein', 'Wissi']"
+August,['Wissergustel']
+dienen,['Wohlsdienerei']
+worfeln,"['Worfel', 'Wörfel']"
+Wuckel,['Wuckelein']
+wulgern,['Wulgerlein']
+Wurzel,['Wurzelein']
+Wut,['Wutschädel']
+Wutze,"['Wutzchen', 'Wutzel']"
+wächeln,"['Wächel', 'Wächtel']"
+Wade,['Wädelein']
+Wams,['Wämslein']
+Wange,['Wänglein']
+trocken,['Wäschetrockelein']
+Wonne,['Wönnchen']
+werfen,"['Würfchen', 'Würflein']"
+wüst,"['Wüstel', 'Wüstenei']"
+zag,"['Zaglein', 'Zäglein']"
+zampen,"['Zamperl', 'Zamperlein', 'Zämperlein']"
+Zanke,"['Zankel', 'Zankelein', 'Zänkel']"
+zanken,"['Zankerei', 'Zänkerlein']"
+zart,['Zartelein']
+zausen,"['Zausel', 'Zusserlein']"
+zehn,"['Zehnerlein', 'Zehntel', 'Zehntlein']"
+Zeile,['Zeilein']
+Zeisig,"['Zeischen', 'Zeisel', 'Zeiselein', 'Zeiserl', 'Zeiserlein', 'Zeisiglein', 'Zeislein', 'Zieselchen']"
+Zieche,['Ziechlein']
+Ziefer,['Zieferlein']
+Ziege,"['Ziegel', 'Ziegelein', 'Zieglein']"
+Zeit,['Ziel']
+Ziffer,['Zifferlein']
+Zigarette,['Zigarettlein']
+Zigeuner,['Zigeunerlein']
+zimpern,['Zimperlein']
+Zins,"['Zinselein', 'Zinsgerlein', 'Zinzelein']"
+zeppern,['Zipperlein']
+zischen,['Zischerlein']
+zitieren,['Zitierdummel']
+zitschen,['Zitschelein']
+Zitze,"['Zitzel', 'Zitzelein']"
+bitzeln,"['Zornbitzel', 'Zornsbitzel']"
+Zorn,['Zornschöbel']
+zuzeln,"['Zuckerzuzel', 'Zuzel', 'Züzel']"
+zullen,"['Zullerlein', 'Zulli', 'Züllerlein']"
+Zumpf,"['Zumpel', 'Zumpfel']"
+mischen,['Zusammengemischi']
+zwei,"['Zweisel', 'Zweitmal']"
+Zwerg,"['Zwergchen', 'Zwergel', 'Zwerglein']"
+Zwetschge,"['Zwetschgel', 'Zwetschgelein', 'Zwetschgerl', 'Zwetschgerlein']"
+Zwiebel,['Zwiebelein']
+Zwiesel,['Zwieselein']
+Zwirbel,['Zwirbelein']
+Zasser,['Zässerlein']
+Zaute,['Zäutlein']
+zöbeln,['Zöbel']
+Zobel,['Zöbelein']
+Zoll,['Zöllein']
+Zuber,['Züberlein']
+Zudel,['Züdelein']
+Zunge,['Zünglein']
+herein,['reinbindtüchlein']
+äcken,['Äckelein']
+Ampel,['Ämpelein']
+ätsch,['Ätschelein']
+Ochse,"['Öchsel', 'Öchslein']"
+Oheim,['Öhlein']
+Üchse,['Üchsel']
+Ucker,['Ückel']
