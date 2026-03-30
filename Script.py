@@ -11,7 +11,14 @@ import time
 import xlwt
 import openpyxl
 from openpyxl import Workbook
+from tkinter import *
+import tkinter.filedialog as FD
+import tkinter
 
+fenster= Tk()
+fenster.title("Ableitungschecker")
+
+global df
 df=pd.DataFrame()
 # Listen der Präfixe, Zirkumfixe und Suffixe
 prefixes = [
@@ -34,7 +41,7 @@ suffixes = [
     "ement", "an", "and", "ant", "ent", "ante", "ente", "anz", "enz", "ar", "är", "arium", "arm", "artig", "ast", "at",
     "ee", "ei", "eierei", "el", "elchen", "erchen", "elle", "ens", "er", "erich", "erie", "ern", "esk", "ess", "esse",
     "isse", "ette", "eur", "euse", "fach", "fähig", "bold", "chen", "dings", "drom", "e", "i", "ian", "jan", "ice",
-    "icht", "ie", "ier", "ieren", "ifizier", "isier", "iere", "ig", "ik", "iker", "ine", "ing", "ingen", "en", "ern",
+    "icht", "ie", "ier", "ieren", "ifizier", "isier", "iere", "ig","iges","iger","ige", "ik", "iker", "ine", "ing", "ingen", "en", "ern",
     "er", "e", "ell", "ion", "tion", "ation", "ismus", "asmus", "ist", "it", "ität", "itis", "iv", "ativ", "ke", "lei",
     "lein", "lekt", "ler", "lich", "ling", "lings", "lon", "los", "mals", "maßen", "mäßig", "mini", "n", "nis", "o",
     "oid", "ol", "or", "ator", "itor", "os", "ös", "ose", "ow", "pflichtig", "reich", "rich", "sal", "sam", "schaft",
@@ -43,8 +50,36 @@ suffixes = [
 ]
 
 diminutive_suffixes = [
-    'elchen', 'chen', 'lein', 'erl', 'al', 'el', 'rl', 'ele', 'elein', 'ale', 'i'
+     'chen', 'lein', 'erl', 'el', 'rl', 'elein', 'i'
     ]
+diminutive_suffix_exceptions={
+    'chen':["pratze","pfotschen","Mannschen"],
+    'lein':[],
+    'erl':[],
+    'el':["acht","butz"],
+    'rl':[],
+    'ele':["stiel"],
+    'elein':[],
+    'i':["sau","Martini","Matthäi","Johanni"]
+}
+komposita_exceptions=["Amizone","Sechsämterer","Bösartiges","Großartiger","Zungenbader","Eisenbahner","Eisenbahnerer","Eisenbähner","Baldes","Bempes","Haselnussblitzer"]
+"""
+check to see if there need to be specific checks for specific suffixes:
+elchen:removed, covered by chen 
+chen: done
+el: done
+lein:done
+erl:done
+rl: done
+ele: done
+elein:done
+i: done
+Deverbale Kollektiva
+pfotschen
+letzte Lemma Erdäpfelquirl falsch zugeordnet
+Paper aus dem Script machen ? (mit Manuel darüber reden)
+"""
+
 
 verb_diminutive_suffixes =[
 
@@ -77,7 +112,7 @@ doppelkonsonanten = {
 }
 
 
-def read_data( name:str = 'tbl_eintraege.tab')->pd.DataFrame:
+def read_data(name:str = 'tbl_eintraege.tab')->pd.DataFrame:
     """
     Diese Methode nimmt eine Eingabe und liest eine Datei mit diesem Namen aus dem gleichen Verzeichnis und gibt einen darauf basierenden Pandas Dataframe zurück
     """
@@ -130,6 +165,8 @@ def is_ableitung(grundform:str,lemmata:list)->tuple:
         last_lemma:str = das letzte Lemma des Wortes
     """
     last_lemma = find_last_lemma(grundform,lemmata)
+    if last_lemma=="":
+        return False,""
     grundform = grundform.lower()
     lemmata = [lemma.lower() for lemma in lemmata]
     lemmata = [lemma for lemma in lemmata if lemma not in prefixes]
@@ -171,15 +208,19 @@ def find_komposita(data:pd.DataFrame)->dict:
     """
     result=dict()
     data=data[data["Grammatik"].map(lambda x: str(x).startswith('S'))]  #Entferne alle Zeilen, die keine Substantive sind, Namen werden hier implizit entfernt
+    data=data[data['Lemma'].map(lambda x:  (str(x) not in prefixes))]
     data=data[['Grundform','Lemma']].drop_duplicates().groupby('Grundform').filter(lambda x: len(x)>1).groupby("Grundform")
     for grundform,group in data:
-        lemmata=group['Lemma']
-        lemma=find_last_lemma(grundform,lemmata)
-        if " " not in grundform and "-" not in grundform: #entferne alle Wortgruppen
-            if lemma in result:
-                result[lemma].append(grundform)
-            else:
-                result[lemma]=[grundform]
+        for lemmata in homographs(grundform,group['Lemma'].tolist()):
+            lemma=find_last_lemma(grundform,lemmata)
+            if " " not in grundform and\
+               "-" not in grundform and\
+               grundform not in komposita_exceptions: 
+               #and not is_ableitung(grundform,lemmata): #entferne alle Wortgruppen
+                if lemma in result:
+                    result[lemma].append(grundform)
+                else:
+                    result[lemma]=[grundform]
     return result
 
     
@@ -213,12 +254,17 @@ def find_diminuitive(data:pd.DataFrame)->dict:
     data=data[['Grundform','Lemma']].drop_duplicates().groupby('Grundform')    #Dies generiert einen Dataframe, welcher zu jeder unterschiedlichen Grundform, alle Dazugehörigen Lemma anzeigt
     for grundform, group in data:
         lemmata=group['Lemma'].tolist()
-        diminuitiv,lemma=dim_checker(grundform,lemmata)
+        if len(lemmata)<1:
+            continue
+        diminuitiv,lemma,end=dim_checker(grundform,lemmata)
         if diminuitiv:
-            if lemma in Diminuitiva:
-                Diminuitiva[lemma].append(grundform)
+            if end in Diminuitiva:
+                if lemma in Diminuitiva[end]:
+                    Diminuitiva[end][lemma].append(grundform)
+                else:
+                    Diminuitiva[end][lemma]=[grundform]
             else:
-                Diminuitiva[lemma]=[grundform]
+                Diminuitiva[end]={lemma: [grundform] }
     return Diminuitiva
 
 def find_last_lemma(grundform:str,lemmata:list)->str:
@@ -231,31 +277,38 @@ def find_last_lemma(grundform:str,lemmata:list)->str:
     Ausgabe:
         last_lemma:str = dies ist der String des gefundenen letzten Lemma, wenn das Wort keine Lemma hat, dann ist dieser String leer. 
     """
+    """
+    !TODO: Erdäpfelbovist, Erdäpfelbrei, Erdäpfelbrocken
+
+    """
     grundform=grundform.lower()
+    if grundform=="erdäpfelbovist":
+        print(lemmata)
  
     #check which lemma comes last in the word
     index=-1
     wort=grundform
-    last_lemma=""
-    if len(lemmata)==1:
-        last_lemma=lemmata[0]
-    else:
+    if len(lemmata)<1:
+        print("there was something wrong with the lemmata")
+        print(grundform)
+        print(lemmata)
+        return ""
+    last_lemma=lemmata[0]
+    if len(lemmata)>1:
         for Lemma in lemmata:
             lemma=Lemma.lower()
             if lemma in wort:
-                ind=wort.find(lemma)
-                wort=wort.replace(lemma,"-" * len(lemma),1)
-                if ind > index:
+                ind=wort.rfind(lemma)
+                if ind+len(lemma) > index:
                     index=ind
                     last_lemma=Lemma
             else:
                 temp=lemma
-                while temp:
+                while len(temp)>1:
                     temp=temp[:-1]
                     if temp in wort:
-                        ind=wort.find(temp)
-                        wort=wort.replace(temp,"-" * len(temp),1)
-                        if ind > index:
+                        ind=wort.rfind(temp)
+                        if ind+len(temp) > index:
                             index=ind
                             last_lemma=Lemma
                         break
@@ -278,18 +331,173 @@ def dim_checker(grundform:str,lemmata:list)->tuple:
     #check which lemma comes last in the word
     last_lemma=find_last_lemma(grundform,lemmata)
     #das letzte Lemma wurde gefunden
-
-
+    if len(last_lemma)<1:
+        return False,[],""
+    end=""
     diminuitiv=False
     if " " not in grundform and "-" not in grundform: #hier werden grundformen aus mehreren Worten oder Worten mit Bindestrichen entfernt
         for suffix in diminutive_suffixes:
+            if grundform in diminutive_suffix_exceptions[suffix] or last_lemma in diminutive_suffix_exceptions[suffix]:
+                continue
             if grundform.endswith(suffix) and not last_lemma.endswith(suffix): #check ob das Suffix echt ist und nicht Teil des letzten Lemma
-                #
-                diminuitiv = True
-                break
+                end=suffix
+                diminuitiv=True
+                if suffix=="chen":
+                    amount=0
+                    for lemma in lemmata:
+                        amount += lemma.lower().count("ch")
+                    if grundform.count("ch") <= amount:
+                        end=""
+                        diminuitiv=False                        
+                if suffix == "el":
+                    if last_lemma.endswith("eln") or (last_lemma[0].isupper() and last_lemma.endswith("en")):
+                        end=""
+                        diminuitiv=False
+                if suffix == "ele" and last_lemma.endswith("elen"):
+                    end=""
+                    diminuitiv=False
+                if suffix == "i" and (last_lemma.endswith("en") or last_lemma.endswith("ei")or last_lemma.endswith("ai")):
+                    end=""
+                    diminuitiv=False
+                if diminuitiv:
+                    break
     
-    return diminuitiv,last_lemma
+    return diminuitiv,last_lemma,end
 
+def homographs(grundform:str,lemmata:list)->list[list]:
+    homograph=[[]]
+    length = sum(len(s) for s in lemmata)
+    if length >= len(grundform)*2:
+        if len(lemmata)==2:
+            homograph.append([lemmata[0]])
+            homograph.append([lemmata[1]])
+        else:
+            for lemma in lemmata:
+                #TODO!!!! Das funktioniert nicht bei Worten mit mehreren Lemmata
+                homograph.append([lemma])
+    else:
+        homograph=[lemmata]
+    return homograph
+
+def ui_ableitungen():
+    save = FD.asksaveasfilename(filetypes=[('excel files','*.xlsx *.xlsm *xlsb *.xltx *.xls *.xlt *.xml *.xlam *.xla *.xlw *.xlr')],defaultextension='xlsx')
+    data=df
+    ableitungen=find_ableitungen(data)
+
+    max_zeilen = max(len(liste) for liste in ableitungen.values())
+    # Excel-Datei erstellen
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Ableitungen"
+    ableitungen=dict(sorted(ableitungen.items()))
+    # Spaltenüberschriften schreiben
+    headers = list(ableitungen.keys())
+    ws.append(headers)
+
+    # Zeilen schreiben, fehlende Werte mit None auffüllen
+    for i in range(max_zeilen):
+        zeile = [ableitungen[spalte][i] if i < len(ableitungen[spalte]) else None for spalte in headers]
+        ws.append(zeile)
+
+    # Datei speichern
+    wb.save(save)
+    tkinter.messagebox.showinfo("Erflogreich durchgeführt",  "Ableitungen erfolgreich gespeichert!")
+
+
+
+def ui_hapax_legomena():
+    save = FD.asksaveasfilename(filetypes=[('excel files','*.xlsx *.xlsm *xlsb *.xltx *.xls *.xlt *.xml *.xlam *.xla *.xlw *.xlr')],defaultextension='xlsx')
+    data=df
+    hapax=find_hapax_legomena(data)
+    hapax.sort()
+    # Excel-Datei erstellen
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Hapax Legomena"
+
+    for item in hapax:
+        ws.append([item])
+
+    # Zeilen schreiben, fehlende Werte mit None auffüllen
+    wb.save(save)
+    tkinter.messagebox.showinfo("Erflogreich durchgeführt",  "Hapax Legomena erfolgreich gespeichert!")
+
+def ui_Diminuitiva():
+    save = FD.asksaveasfilename(filetypes=[('excel files','*.xlsx *.xlsm *xlsb *.xltx *.xls *.xlt *.xml *.xlam *.xla *.xlw *.xlr')],defaultextension='xlsx')
+    data=df
+    All_diminuitiva=find_diminuitive(data)
+    wb=Workbook()
+    for diminuitiva in All_diminuitiva:
+        max_zeilen = max(len(liste) for liste in All_diminuitiva[diminuitiva].values())
+        ws = wb.create_sheet(diminuitiva)
+        dims=All_diminuitiva[diminuitiva]
+        dims=dict(sorted(dims.items()))
+        headers = list(dims.keys())
+        ws.append(headers)
+        for i in range(max_zeilen):
+            zeile = [dims[spalte][i] if i < len(dims[spalte]) else None for spalte in headers]
+            ws.append(zeile)
+    wb.remove(wb[wb.sheetnames[0]])
+    wb.save(save)
+    tkinter.messagebox.showinfo("Erflogreich durchgeführt",  "Diminuitiva erfolgreich gespeichert!")
+
+def ui_Komposita():
+    save = FD.asksaveasfilename(filetypes=[('excel files','*.xlsx *.xlsm *xlsb *.xltx *.xls *.xlt *.xml *.xlam *.xla *.xlw *.xlr')],defaultextension='xlsx')
+    data=df
+    Komposita = find_komposita(data)
+    Komposita = dict(sorted(Komposita.items()))
+    max_zeilen = max(len(liste) for liste in Komposita.values())
+    wb= Workbook()
+    ws = wb.active
+    ws.title="Komposita"
+
+    headers= list(Komposita.keys())
+    ws.append(headers)
+
+    for i in range(max_zeilen):
+        zeile = [Komposita[spalte][i] if i < len(Komposita[spalte]) else None for spalte in headers]
+        ws.append(zeile)
+    wb.save(save)
+    tkinter.messagebox.showinfo("Erflogreich durchgeführt",  "Komposita erfolgreich gespeichert!")
+
+def ui_last_lemma():
+    save = FD.asksaveasfilename(filetypes=[('excel files','*.xlsx *.xlsm *xlsb *.xltx *.xls *.xlt *.xml *.xlam *.xla *.xlw *.xlr')],defaultextension='xlsx')
+    data=df
+    letzte_lemma={}
+    data=data[['Grundform','Lemma']].drop_duplicates().groupby('Grundform')
+    for grundform,group in data:
+        lemmata=group['Lemma'].tolist()
+        lemma= find_last_lemma(grundform,lemmata)
+        if lemma in letzte_lemma:
+            letzte_lemma[lemma].append(grundform)
+        else:
+            letzte_lemma[lemma]=[grundform]
+    max_zeilen = max(len(liste) for liste in letzte_lemma.values())
+    wb=Workbook()
+    ws = wb.active
+    ws.title="Letzte Lemma"
+    letzte_lemma=dict(sorted(letzte_lemma.items()))
+    headers = list(letzte_lemma.keys())
+    ws.append(headers)
+    for i in range(max_zeilen):
+        zeile = [letzte_lemma[spalte][i] if i < len(letzte_lemma[spalte])else None for spalte in headers]
+        ws.append(zeile)
+    wb.save(save)
+    tkinter.messagebox.showinfo("Erflogreich durchgeführt",  "Letzte Lemma erfolgreich gespeichert!")
+
+    
+
+def ui_readinput():
+    csv_file=FD.askopenfilename()
+    rows = []
+    
+    with open(csv_file,encoding='utf-8') as file:
+        for line in file:
+            rows.append(line.strip().split('\t')[0:6])
+    # DataFrame erstellen
+    global df
+    df = pd.DataFrame(rows[1:], columns=rows[0])
+    tkinter.messagebox.showinfo("Erflogreich durchgeführt",  "Eingabedatenbank erfolgreich eingelesen!")
 
 
 def test1(name="Ableitungen.csv"):
@@ -350,43 +558,45 @@ def test2(name="hapax_legomena.csv"):
     print("Ausführungsdauer Test 2: %s Sekunden" %(time.time()-tmp_time))
     print("-----------------")    
 
-def test3(name="Diminuitiva.csv"):
+def test3(name="Diminuitiva.xlsx"):
     tmp_time=time.time()
     data=read_data()
     print("Finde Diminuitiva")
     print("-----------------")
-    diminuitiva=find_diminuitive(data)
+    All_diminuitiva=find_diminuitive(data)
     print("Diminuitiva gefunden")
     print("-----------------")
     print("Diminuitiva werden in " +name+" gespeichert" )
     print("-----------------")
-    max_zeilen = max(len(liste) for liste in diminuitiva.values())
-    # Excel-Datei erstellen
-    wb = Workbook()
-    ws = wb.active
-    ws.title = "Diminuitiva"
+    wb=Workbook()
+    for diminuitiva in All_diminuitiva:
+        max_zeilen = max(len(liste) for liste in All_diminuitiva[diminuitiva].values())
+        # Excel-Datei erstellen
+        ws = wb.create_sheet(diminuitiva)
 
-    # Spaltenüberschriften schreiben
-    headers = list(diminuitiva.keys())
-    ws.append(headers)
+        # Spaltenüberschriften schreiben
+        headers = list(All_diminuitiva[diminuitiva].keys())
+        ws.append(headers)
 
-    # Zeilen schreiben, fehlende Werte mit None auffüllen
-    for i in range(max_zeilen):
-        zeile = [diminuitiva[spalte][i] if i < len(diminuitiva[spalte]) else None for spalte in headers]
-        ws.append(zeile)
+        # Zeilen schreiben, fehlende Werte mit None auffüllen
+        for i in range(max_zeilen):
+            zeile = [All_diminuitiva[diminuitiva][spalte][i] if i < len(All_diminuitiva[diminuitiva][spalte]) else None for spalte in headers]
+            ws.append(zeile)
 
-    # Datei speichern
-    wb.save("Diminuitiva.xlsx")
+        # Datei speichern
+    wb.remove(wb[wb.sheetnames[0]])
+    wb.save(name)
+   
+    """
     with open(name, mode='w',encoding='utf-8',errors='replace') as file:
         writer=csv.writer(file)
         writer.writerow(["Lemma","Grundform"])
         for key,value in diminuitiva.items():
-            writer.writerow([key,value])
+            writer.writerow([key,value])"""
     print("Diminuitiva geschrieben")
     print("-----------------")
     print("Ausführungsdauer Test 3: %s Sekunden" %(time.time()-tmp_time))
     print("-----------------")    
-
 
 def test4(name="Komposita.csv"):
     tmp_time=time.time()
@@ -425,13 +635,114 @@ def test4(name="Komposita.csv"):
     print("Ausführungsdauer Test 4: %s Sekunden" %(time.time()-tmp_time))
     print("-----------------")    
 
+def test5(name="last_lemma.csv"):
+    tmp_time=time.time()
+    data=read_data()
+    print("Finde letzte Lemma")
+    print("-----------------")
+    letzte_lemma={}
+    data=data[['Grundform','Lemma']].drop_duplicates().groupby('Grundform')
+    for grundform,group in data:
+        lemmata=group['Lemma'].tolist()
+        lemma=find_last_lemma(grundform,lemmata)
+        if lemma in letzte_lemma:
+            letzte_lemma[lemma].append(grundform)
+        else:
+            letzte_lemma[lemma]=[grundform]
+    print("Letzte Lemma zugeordnet")
+    print("-----------------")
+    print("Letzte Lemma werden in " +name+" gespeichert" )
+
+    print("-----------------")
+    max_zeilen = max(len(liste) for liste in letzte_lemma.values())
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Letzte_Lemma"
+
+    # Spaltenüberschriften schreiben
+    headers = list(letzte_lemma.keys())
+    ws.append(headers)
+
+    # Zeilen schreiben, fehlende Werte mit None auffüllen
+    for i in range(max_zeilen):
+        zeile = [letzte_lemma[spalte][i] if i < len(letzte_lemma[spalte]) else None for spalte in headers]
+        ws.append(zeile)
+
+    wb.save("letzte_lemma.xlsx")
+
+
+    with open(name, mode='w',encoding='utf-8',errors='replace') as file:
+        writer=csv.writer(file)
+        for value in letzte_lemma:
+            writer.writerow([value])
+
+def user_interface(): 
+    eingabefeld = Button(fenster,text="Eingabedatenbank",command=ui_readinput)
+
+    ableitungen_button = Button(fenster,text="Ableitungen",command = ui_ableitungen)
+    hapax_button = Button(fenster, text="Hapax Legomena", command = ui_hapax_legomena)
+    diminuitiva_button = Button(fenster, text="Diminuitiva", command = ui_Diminuitiva)
+    komposita_button = Button(fenster, text = "Komposita", command = ui_Komposita)
+    last_lemma_button = Button(fenster, text="Letzte Lemma", command = ui_last_lemma)
+
+    exit_button = Button(fenster, text="Beenden",command=fenster.quit)
+
+    eingabefeld.pack(side=TOP)
+    ableitungen_button.pack(side=LEFT)
+    hapax_button.pack(side=LEFT)
+    diminuitiva_button.pack(side=LEFT)
+    komposita_button.pack(side=LEFT)
+    last_lemma_button.pack(side=LEFT)
+    exit_button.pack(side=BOTTOM)
+
+    mainloop()
+
+
+
+
 
 if __name__=="__main__":
+
     start_time = time.time()
-    print("Execute")
-    test1()
-    test2()
-    test3()
-    test4()
-    print("Done")
-    print("Gesamtdauer: %s Sekunden" %(time.time()-start_time))
+    user_interface()
+    #print("Execute")
+    #test1()
+    #test2()
+    #test3()
+    #test4()
+    #test5()
+    #print("Done")
+    #print("Gesamtdauer: %s Sekunden" %(time.time()-start_time))
+
+class User_Interface(tkinter.Frame):
+    def __init__(self,master=None):
+        super().___init__(master)
+        self.pack()
+        self.createWidgets()
+
+    def createWidgets(self):
+        self.nameEntry=tkinter.Entry(self)
+        self.nameEntry.pack()
+
+
+
+
+"""
+Notizen:
+    Ableitungen:
+
+    Komposita:
+        Grenzfall zusammenrückungen wie "Heimackern"
+        Sonderfälle: "Amizone","Sechsämterer","Bösartiges","Großartiger","Zungenbader","Eisenbahner","Eisenbahnerer","Eisenbähner","Baldes","Bempes","Haselnussblitzer"
+        Sechsämterer ist Ableitung
+        Homographe werden fälschlich Erkannt. "Idee mit der Länge der Lemmata"
+        Arbeiter keine Komposita,da Zusammenbildung mit Ausnahme des Fremdarbeiter
+        -iges, -iger, -ige endung sind Ableitungen
+        -ete in Besonderer Form Augete sind Ableitungen Beinete
+        Wortbildungen aus bisherigen Komposita müssen Ableitungen sein <- sollte implizit gelößt sein durch das exkludieren von Ableitungen
+        -ler ableitungen, aus 
+
+
+Worte in den Ableitungen sind auch in den Komposita, sollte nicht sein
+
+"""
