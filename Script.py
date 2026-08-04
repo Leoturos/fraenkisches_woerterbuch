@@ -1,14 +1,9 @@
 import re
 import json
 import pandas as pd
-from sqlalchemy import create_engine
-from sqlalchemy import URL
-import mysql.connector
 from pathlib import Path
 import csv
-import pymysql
 import time
-import xlwt
 import openpyxl
 from openpyxl import Workbook
 from tkinter import *
@@ -46,7 +41,7 @@ suffixes = [
     "lein", "lekt", "ler", "lich", "ling", "lings", "lon", "los", "mals", "maßen", "mäßig", "mini", "n", "nis", "o",
     "oid", "ol", "or", "ator", "itor", "os", "ös", "ose", "ow", "pflichtig", "reich", "rich", "sal", "sam", "schaft",
     "sche", "seitig", "sel", "sen", "skop", "tex", "thek", "trächtig", "tum", "ung", "ur", "voll", "wang", "wangen",
-    "wart", "wärts", "weg", "weise", "werk", "wesen", "zid"
+    "wart", "wärts", "weg", "weise", "werk", "wesen", "zid","ete"
 ]
 
 diminutive_suffixes = [
@@ -63,6 +58,7 @@ diminutive_suffix_exceptions={
     'i':["sau","Martini","Matthäi","Johanni"]
 }
 komposita_exceptions=["Amizone","Sechsämterer","Bösartiges","Großartiger","Zungenbader","Eisenbahner","Eisenbahnerer","Eisenbähner","Baldes","Bempes","Haselnussblitzer"]
+ableitung_exceptions=["Fremdarbeiter"]
 """
 check to see if there need to be specific checks for specific suffixes:
 elchen:removed, covered by chen 
@@ -164,16 +160,18 @@ def is_ableitung(grundform:str,lemmata:list)->tuple:
         is_ableitung:boolean = Gibt an ob das Wort eine Ableitung ist
         last_lemma:str = das letzte Lemma des Wortes
     """
-    last_lemma = find_last_lemma(grundform,lemmata)
+    #TODO: Komposita nicht mehr erkennen sondern nur noch Ableitugen!
+    first_lemma,last_lemma = find_first_last_lemma(grundform,lemmata)
     if last_lemma=="":
         return False,""
     grundform = grundform.lower()
     lemmata = [lemma.lower() for lemma in lemmata]
-    lemmata = [lemma for lemma in lemmata if lemma not in prefixes]
+    first_lemma=first_lemma.lower()
+    last_lemma=last_lemma.lower()
+    #lemmata = [lemma for lemma in lemmata if lemma not in prefixes]
     is_ableitung=False
     for prefix in prefixes:
-        if grundform.startswith(prefix):
-            if all(not ((x in grundform[len(prefix):]) ^ (x in grundform)) for x in lemmata):
+        if grundform.startswith(prefix) and not first_lemma.startswith(prefix):
                 is_ableitung = True
                 break
     # Prüfen auf Zirkumfixe
@@ -183,15 +181,19 @@ def is_ableitung(grundform:str,lemmata:list)->tuple:
             if grundform.startswith(parts[0]) and grundform.endswith(parts[1]) and not last_lemma.endswith(parts[1]):
                 if all(not ((x in grundform[len(parts[0]):]) ^ (x in grundform)) for x in lemmata):
                     is_ableitung = True
-                    break           
+                    break
     # Prüfen auf Suffixe
     if not is_ableitung:
         for suffix in suffixes:
-            if grundform.endswith(suffix) and not last_lemma.endswith(suffix):
+            if grundform.endswith(suffix) and (not last_lemma.endswith(suffix) or (last_lemma.endswith(suffix) and grundform[:-len(suffix)].endswith(suffix))):
                 is_ableitung = True
                 break
+                
     if dim_checker(grundform,lemmata)[0]:
         return False,last_lemma
+    
+    if grundform in map(str.lower,ableitung_exceptions):
+        is_ableitung=False
     
     return is_ableitung,last_lemma
 
@@ -207,20 +209,25 @@ def find_komposita(data:pd.DataFrame)->dict:
         result:dict = dieses dictionary enthält alle Komposita des Dataframe data und ordnet diese dem letzten Lemma der Grundform zu.    
     """
     result=dict()
-    data=data[data["Grammatik"].map(lambda x: str(x).startswith('S'))]  #Entferne alle Zeilen, die keine Substantive sind, Namen werden hier implizit entfernt
-    data=data[data['Lemma'].map(lambda x:  (str(x) not in prefixes))]
-    data=data[['Grundform','Lemma']].drop_duplicates().groupby('Grundform').filter(lambda x: len(x)>1).groupby("Grundform")
-    for grundform,group in data:
+    data=data[["Grammatik","Lemma","Grundform"]]
+    data=data.drop_duplicates()
+    data=data[data["Grammatik"].map(lambda x: str(x).startswith('S'))]  #Entferne alle Zeilen, die keine Substantive sind, Namen werden hier implizit entfernt    
+    data=data[data['Lemma'].map(lambda x:  (str(x) not in prefixes))] #Entferne alle Lemmata welche auch als prefixe fungieren (Hierbei nur die Prefixe in der Prefix Liste, diese sollte bei Bedarf up to date gehalten werden)
+    data=data[['Grundform','Lemma']].groupby('Grundform').filter(lambda x: len(x)>1).drop_duplicates()
+    for grundform,group in data.groupby("Grundform"):
         for lemmata in homographs(grundform,group['Lemma'].tolist()):
-            lemma=find_last_lemma(grundform,lemmata)
-            if " " not in grundform and\
-               "-" not in grundform and\
-               grundform not in komposita_exceptions: 
-               #and not is_ableitung(grundform,lemmata): #entferne alle Wortgruppen
-                if lemma in result:
-                    result[lemma].append(grundform)
-                else:
-                    result[lemma]=[grundform]
+            if len(lemmata)>1:
+                lemma=find_last_lemma(grundform,lemmata)
+                if " " not in grundform and\
+                "-" not in grundform and\
+                len(lemmata)>1 and\
+                grundform not in komposita_exceptions and\
+                    not is_ableitung(grundform, lemmata)[0] and\
+                        not dim_checker(grundform,lemmata)[0]: 
+                    if lemma in result:
+                        result[lemma].append(grundform)
+                    else:
+                        result[lemma]=[grundform]
     return result
 
     
@@ -277,13 +284,7 @@ def find_last_lemma(grundform:str,lemmata:list)->str:
     Ausgabe:
         last_lemma:str = dies ist der String des gefundenen letzten Lemma, wenn das Wort keine Lemma hat, dann ist dieser String leer. 
     """
-    """
-    !TODO: Erdäpfelbovist, Erdäpfelbrei, Erdäpfelbrocken
-
-    """
     grundform=grundform.lower()
-    if grundform=="erdäpfelbovist":
-        print(lemmata)
  
     #check which lemma comes last in the word
     index=-1
@@ -312,7 +313,62 @@ def find_last_lemma(grundform:str,lemmata:list)->str:
                             index=ind
                             last_lemma=Lemma
                         break
+    #TODO: Umlaute am Lemmaanfang werden nicht erkannt    
     return last_lemma
+
+def find_first_last_lemma(grundform:str,lemmata:list)->tuple:
+    """
+    Funktionsweise:
+        Finde das letzte und erste Lemma eines Wortes, bei Angabe der Lemmata des Wortes.
+    Eingabe:
+        grundform:str = dies ist die grundform des Wortes
+        lemmata:list = dies ist die Liste aller Lemmata des Wortes 
+    Ausgabe:
+        last_lemma:str = dies ist der String des gefundenen letzten Lemma, wenn das Wort keine Lemma hat, dann ist dieser String leer. 
+        first_lemma:str = dies ist der String des gefundenen ersten Lemma, wenn das Wort keine Lemma hat, dann ist dieser String leer.
+    """
+    grundform=grundform.lower()
+ 
+    #check which lemma comes last in the word
+    lindex=len(grundform)
+    rindex=-1
+    wort=grundform
+    if len(lemmata)<1:
+        print("there was something wrong with the lemmata")
+        print(grundform)
+        print(lemmata)
+        return ""
+    last_lemma=lemmata[0]
+    first_lemma=lemmata[0]
+    if len(lemmata)>1:
+        for Lemma in lemmata:
+            lemma=Lemma.lower()
+            if lemma in wort:
+                rind=wort.rfind(lemma)
+                lind=wort.find(lemma)
+                if rind+len(lemma) > rindex:
+                    rindex=rind
+                    last_lemma=Lemma
+                if lind < lindex:
+                    lindex=lind
+                    first_lemma=Lemma
+            else:
+                temp=lemma
+                while len(temp)>1:
+                    temp=temp[:-1]
+                    if temp in wort:
+                        rind=wort.rfind(temp)
+                        lind=wort.find(temp)
+                        if rind+len(temp) > rindex:
+                            rindex=rind
+                            last_lemma=Lemma
+                        if lind < lindex:
+                            lindex=lind
+                            first_lemma=Lemma
+                        break
+                    #Das könnte zu falschen Erkennungen führen, muss unter Beobachtung bleiben.
+    #TODO: Umlaute am Lemmaanfang werden nicht erkannt   
+    return (first_lemma,last_lemma)
 
 def dim_checker(grundform:str,lemmata:list)->tuple: 
     """
@@ -366,15 +422,19 @@ def dim_checker(grundform:str,lemmata:list)->tuple:
 
 def homographs(grundform:str,lemmata:list)->list[list]:
     homograph=[[]]
-    length = sum(len(s) for s in lemmata)
-    if length >= len(grundform)*2:
+    length = sum(len(x) for x in lemmata)
+    if length >= len(grundform)*2: #Das Wort ist ein Homograph TODO
         if len(lemmata)==2:
-            homograph.append([lemmata[0]])
+            homograph=[[lemmata[0]]]
             homograph.append([lemmata[1]])
         else:
             for lemma in lemmata:
                 #TODO!!!! Das funktioniert nicht bei Worten mit mehreren Lemmata
-                homograph.append([lemma])
+                if homograph==[[]]:
+                    homograph=[[lemma]]
+                else:
+                    homograph.append([lemma])
+        #print(grundform)
     else:
         homograph=[lemmata]
     return homograph
